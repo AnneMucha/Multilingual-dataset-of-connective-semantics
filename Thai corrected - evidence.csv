@@ -1,0 +1,103 @@
+ref,context,premise,example,judgment,questionnaire,comment
+THAI_EVD_001,conj-nocontrast-sta,na,THAI_001,felicitous,Q1,
+THAI_EVD_002,conj-nocontrast-sta,na,THAI_002,felicitous,Q1,
+THAI_EVD_003,conj-nocontrast-sta,na,THAI_003,felicitous,Q1,“gub” is normally translated as “with”/ ”together”
+THAI_EVD_004,conj-nocontrast-sta,na,THAI_004,felicitous,Q1,“gub” is normally translated as “with”/ ”together”
+THAI_EVD_005,conj-nocontrast-epi,na,THAI_005,felicitous,Q1,
+THAI_EVD_006,conj-nocontrast-epi,na,THAI_006,felicitous,Q1,“gub” is normally translated as “with”/ ”together”
+THAI_EVD_007,conj-contrast-sta-mod,na,THAI_007,felicitous,Q1,
+THAI_EVD_008,conj-contrast-epi,na,THAI_008,felicitous,Q1,
+THAI_EVD_009,conj-contrast-negp-sta,na,THAI_009,felicitous,Q1,
+THAI_EVD_010,conj-contrast-negp-sta,na,THAI_010,felicitous,Q1,
+THAI_EVD_011,conj-contrast-negp-sta,na,THAI_011,felicitous,Q1,
+THAI_EVD_012,conj-contrast-negp-sta,na,THAI_012,felicitous,Q1,
+THAI_EVD_013,conj-contrast-negp-epi,na,THAI_013,felicitous,Q1,you can’t omit the verb ( ser ) in this context
+THAI_EVD_014,conj-contrast-negp-epi,na,THAI_014,felicitous,Q1,you can’t omit the verb ( ser ) in this context
+THAI_EVD_015,conj-contrast-negp-epi,na,THAI_015,felicitous,Q1,
+THAI_EVD_016,conj-contrast-negp-epi,na,THAI_016,felicitous,Q1,
+THAI_EVD_017,disj-spk-1,na,THAI_017,felicitous,Q1,
+THAI_EVD_018,disj-spk-1,na,THAI_018,felicitous,Q1,
+THAI_EVD_019,disj-spk-1,na,THAI_019,felicitous,Q1,
+THAI_EVD_020,disj-spk-1,na,THAI_020,felicitous,Q1,
+THAI_EVD_021,disj-spk-2,na,THAI_021,felicitous,Q1,
+THAI_EVD_022,disj-spk-2,na,THAI_022,felicitous,Q1,
+THAI_EVD_023,disj-nspk-epi,na,THAI_023,felicitous,Q1,
+THAI_EVD_024,disj-nspk-epi,na,THAI_024,felicitous,Q1,
+THAI_EVD_025,disj-nspk-sta-exc-mod,na,THAI_025,felicitous,Q1,
+THAI_EVD_026,disj-nspk-sta-exc-mod,na,THAI_026,felicitous,Q1,
+THAI_EVD_027,disj-nspk-sta-exc-mod,na,THAI_027,felicitous,Q1,
+THAI_EVD_028,disj-nspk-sta-exc-mod,na,THAI_028,felicitous,Q1,
+THAI_EVD_029,disj-nspk-sta-inc-mod,na,THAI_029,felicitous,Q1,“mai gor” not possible in this context
+THAI_EVD_030,disj-nspk-sta-inc-mod,na,THAI_030,felicitous,Q1,“mai gor” not possible in this context
+THAI_EVD_031,disj-nspk-epi-q-mod,na,THAI_031,felicitous,Q1,you can’t use “mai gor” in questions like this (but see Q2)
+THAI_EVD_032,disj-nspk-epi-q-mod,na,THAI_032,felicitous,Q1,you can’t use “mai gor” in questions like this (but see Q2)
+THAI_EVD_033,disj-nspk-sta-inc-q,na,THAI_033,felicitous,Q1,
+THAI_EVD_034,disj-nspk-sta-inc-q,na,THAI_034,felicitous,Q1,
+THAI_EVD_035,neither-sta,na,THAI_035,felicitous,Q1,
+THAI_EVD_036,neither-epi,na,THAI_036,felicitous,Q1,
+THAI_EVD_037,neither-epi,na,THAI_037,felicitous,Q1,
+THAI_EVD_038,neither-epi,na,THAI_038,felicitous,Q1,
+THAI_EVD_039,neither-epi,na,THAI_039,felicitous,Q1,
+THAI_EVD_040,fc,na,THAI_040,felicitous,Q1,
+THAI_EVD_041,fc,na,THAI_041,felicitous,Q1,
+THAI_EVD_042,negative,na,THAI_042,felicitous,Q1,can’t use “or”-morphemes here
+THAI_EVD_043,conj-nocontrast-sta,na,THAI_043,infelicitous,Q2,this needs a connective
+THAI_EVD_044,conj-nocontrast-sta,na,THAI_044,infelicitous,Q2,this needs a connective
+THAI_EVD_045,disj-spk-3,na,THAI_045,infelicitous,Q2,
+THAI_EVD_046,disj-spk-3,na,THAI_046,infelicitous,Q2,
+THAI_EVD_047,disj-spk-3,na,THAI_004,infelicitous,Q2,with the second one you wouldn’t use a copular
+THAI_EVD_048,disj-nspk-sta-exc-2,na,THAI_045,infelicitous,Q2,
+THAI_EVD_049,disj-nspk-sta-exc-2,na,THAI_046,infelicitous,Q2,
+THAI_EVD_050,disj-nspk-sta-exc-2,na,THAI_004,infelicitous,Q2,
+THAI_EVD_051,disj-nspk-sta-inc-2,na,THAI_045,infelicitous,Q2,would need a modal or disjunction
+THAI_EVD_052,disj-nspk-sta-inc-2,na,THAI_046,infelicitous,Q2,would need a modal or disjunction
+THAI_EVD_053,disj-nspk-sta-inc-2,na,THAI_004,infelicitous,Q2,would need a modal or disjunction
+THAI_EVD_054,neither-sta-2,na,THAI_045,infelicitous,Q2,
+THAI_EVD_055,neither-sta-2,na,THAI_046,infelicitous,Q2,
+THAI_EVD_056,neither-sta-2,na,THAI_004,infelicitous,Q2,
+THAI_EVD_057,conj-nocontrast-epi,na,THAI_047,infelicitous,Q2,needs a conjunction
+THAI_EVD_058,disj-spk-4,na,THAI_005,felicitous,Q2,
+THAI_EVD_059,disj-spk-4,na,THAI_006,felicitous,Q2,
+THAI_EVD_060,disj-nspk-epi-exc-2,na,THAI_005,felicitous,Q2,
+THAI_EVD_061,disj-nspk-epi-exc-2,na,THAI_006,felicitous,Q2,
+THAI_EVD_062,disj-nspk-epi-inc-2,na,THAI_005,felicitous,Q2,
+THAI_EVD_063,disj-nspk-epi-inc-2,na,THAI_006,felicitous,Q2,
+THAI_EVD_064,neither-epi-2,na,THAI_005,felicitous,Q2,
+THAI_EVD_065,neither-epi-2,na,THAI_006,felicitous,Q2,
+THAI_EVD_066,conj-contrast-sta-mod,na,THAI_048,felicitous,Q2,"ok, that’s fine (with the pronoun “khao”), but feels a bit like two sentences"
+THAI_EVD_067,disj-spk-4-prime,na,THAI_007,infelicitous,Q2,
+THAI_EVD_068,disj-nspk-sta-exc-3,na,THAI_007,infelicitous,Q2,
+THAI_EVD_069,disj-nspk-sta-inc-3,na,THAI_007,infelicitous,Q2,"would need a modal if you don’t know, and a different connective (disjunction) as well"
+THAI_EVD_070,neither-sta-3,na,THAI_007,infelicitous,Q2,
+THAI_EVD_071,conj-contrast-epi,na,THAI_049,felicitous,Q2,"ok, that works (“Jen bought an ice-cream, she gave it to a sad-looking person.”)"
+THAI_EVD_072,conj-contrast-negp-sta,na,THAI_050,felicitous,Q2,"ok, but “khao bpen” (pronoun + copular) is mandatory"
+THAI_EVD_073,conj-contrast-negp-sta,na,THAI_051,felicitous,Q2,"ok, but “khao bpen” (pronoun + copular) is mandatory"
+THAI_EVD_074,conj-contrast-negp-epi,na,THAI_052,felicitous,Q2,"ok, that works (with the pronoun “khao”)"
+THAI_EVD_075,conj-contrast-negp-epi,na,THAI_053,felicitous,Q2,"ok, that works (with the pronoun “khao”)"
+THAI_EVD_076,disj-spk-2,na,THAI_054,infelicitous,Q2,
+THAI_EVD_077,conj-nocontrast-sta-2,na,THAI_021,infelicitous,Q2,
+THAI_EVD_078,conj-nocontrast-sta-2,na,THAI_022,infelicitous,Q2,
+THAI_EVD_079,conj-contrast-sta-2,na,THAI_021,infelicitous,Q2,
+THAI_EVD_080,conj-contrast-sta-2,na,THAI_022,infelicitous,Q2,
+THAI_EVD_081,disj-nspk-sta-exc-4,na,THAI_021,felicitous,Q2,both are good
+THAI_EVD_082,disj-nspk-sta-exc-4,na,THAI_022,felicitous,Q2,both are good
+THAI_EVD_083,disj-nspk-sta-inc-4,na,THAI_021,felicitous,Q2,
+THAI_EVD_084,disj-nspk-sta-inc-4,na,THAI_055,felicitous,Q2,
+THAI_EVD_085,disj-nspk-sta-inc-4,na,THAI_022,infelicitous,Q2,
+THAI_EVD_086,disj-nspk-sta-inc-4,na,THAI_056,infelicitous,Q2,
+THAI_EVD_087,neither-sta-4,na,THAI_021,infelicitous,Q2,
+THAI_EVD_088,neither-sta-4,na,THAI_022,infelicitous,Q2,
+THAI_EVD_089,disj-nspk-epi,na,THAI_057,?,Q2,ok if it means sth. like “I forgot it at work whilst going home/ exiting the building”
+THAI_EVD_090,disj-nspk-sta-exc-mod,na,THAI_058,infelicitous,Q2,
+THAI_EVD_091,disj-nspk-epi-q-mod,na,THAI_031,felicitous,Q2,"Both ok, also as an alternative question"
+THAI_EVD_092,disj-nspk-epi-q-mod,na,THAI_032,felicitous,Q2,"Both ok, also as an alternative question"
+THAI_EVD_093,disj-nspk-epi-q-mod,na,THAI_059,felicitous,Q2,"Both ok, also as an alternative question"
+THAI_EVD_094,disj-nspk-epi-q-mod,na,THAI_060,felicitous,Q2,"Both ok, also as an alternative question"
+THAI_EVD_095,neither-sta,na,THAI_061,infelicitous,Q2,unacceptability might have something to do with the copular
+THAI_EVD_096,conj-nocontrast-sta-3,na,THAI_035,infelicitous,Q2,
+THAI_EVD_097,conj-contrast-sta-3,na,THAI_035,infelicitous,Q2,
+THAI_EVD_098,disj-spk-5,na,THAI_035,infelicitous,Q2,
+THAI_EVD_099,disj-nspk-sta-exc-5,na,THAI_035,infelicitous,Q2,
+THAI_EVD_100,disj-nspk-sta-inc-5,na,THAI_035,infelicitous,Q2,
+THAI_EVD_101,fc,na,THAI_040,felicitous,Q2,both ok
+THAI_EVD_102,fc,na,THAI_041,felicitous,Q2,both ok
