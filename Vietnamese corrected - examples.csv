@@ -1,0 +1,54 @@
+ref,expression,full form,words,glosses,translation,comment,questionnaire
+vie_ex_1,và,và … cũng,Susie là bác.sĩ và cô.ấy cũng là giáo.viên,Susie COP doctor and 3SG also COP teacher,Susie is a doctor and she is a teacher.,without “cũng” it sounds like the pronoun refers to someone else,Q1
+vie_ex_2,cũng,cũng,"Susie là bác.sĩ, cô.ấy cũng là giáo.viên","Susie COP doctor, 3SG also COP teacher",Susie is a doctor; she is a teacher.,that’s ok with “cũng”,Q1
+vie_ex_3,vừa … vừa,vừa … vừa,Paul vừa xem ti.vi vừa là áo,Paul SIMUL watch TV SIMUL iron shirt,Paul is watching TV and he is ironing his shirts.,,Q1
+vie_ex_4,juxtaposition,juxtaposition,"Paul đang xem ti.vi, anh.ấy đang là áo","Paul PROG watch TV, 3SG PROG iron shirt",Paul is watching TV; he is ironing his shirts.,"again, this gets a disjoint subjects interpretation",Q1
+vie_ex_5,nhưng,nhưng,Susie là bác.sĩ nhưng cô.ấy nghèo,Susie COP doctor but 3SG poor,Susie is a doctor but she is poor.,,Q1
+vie_ex_6,nhưng,nhưng,Jen mua kem nhưng cô.ấy lại mua cho một người.lạ,Jen buy ice.cream but 3sg PRT buy PREP INDEF stranger,"Jen bought ice cream, but she bought it for a stranger.",lại expresses something like surprisal / contrary to expectation,Q1
+vie_ex_7,mà,mà,Paul không phải là bác.sĩ mà là nhân.viên lễ.tân,Paul NEG true COP doctor but COP worker reception,Paul is not a doctor but he is a receptionist.,phải is also a modal (usually deontic necessity),Q1
+vie_ex_8,mà,mà,Jen không mua kem mà mua sô.cô.la,Jen NEG buy ice.cream but buy chocolate,Jen didn’t buy ice cream but she bought chocolate.,,Q1
+vie_ex_9,hoặc,hoặc,Câu trả.lời cho câu hỏi trên là A hoặc câu trả.lời cho câu hỏi trên là B,CLF answer for CLF question PRP COP A or CLF answer for CLF question PRP COP B,(Either) the answer to the question is A or the answer to the question is B.,just NP disjunction would be more natural,Q1
+vie_ex_10,hoặc,hoặc,Paul là bác.sĩ hoặc John là bác.sĩ,Paul COP doctor or John COP doctor,Paul is a doctor or John is a doctor.,,Q1
+vie_ex_11,hoặc,hoặc,tôi để điện.thoại ở chỗ làm hoặc tôi đánh.rơi nó trên đường .về.nhà,1SG leave phone PRP place work or 1SG drop it PRP way.home,I left my phone at work or I dropped it on my way home.,,Q1
+vie_ex_12,hoặc,hoặc … hoặc,Hoặc tôi để điện.thoại ở chỗ làm hoặc tôi đánh.rơi nó trên đường .về.nhà,Or 1SG leave phone PRP place work or 1SG drop it PRP way.home,I left my phone at work or I dropped it on my way home.,,Q1
+vie_ex_13,hoặc,hoặc,John có thể là bác.sĩ hoặc John có thể là nhà.văn,John EXIS ABIL COP doctor or John EXIS ABIL COP writer,John is a doctor or he is a writer.,,Q1
+vie_ex_14,hoặc,hoặc … hoặc,Hoặc John là bác.sĩ hoặc John là nhà.văn,Or John COP doctor or John COP writer,John is a doctor or he is a writer.,doubling hoặc increases uncertainty,Q1
+vie_ex_15,hoặc,có thể … hoặc cũng … có thể,John có thể là bác.sĩ hoặc cũng có thể là nhà.văn,John EXIS ABIL COP doctor or also EXIS ABIL COP writer,John is a doctor or he is a writer (maybe both).,Hoặc in the part in brackets preferred,Q1
+vie_ex_16,hay,hay,Bạn để điện.thoại ở chỗ làm hay bạn để trên xe buýt?,You leave phone PRP place work or you leave PRP CLF bus?,Did you leave your phone at work or did you leave it on the bus?,,Q1
+vie_ex_17,hay,hay,Tiệm A bán hiệu này hay tiệm B bán hiệu này?,Shop A sell brand this or shop B sell brand this?,Would Shop A sell this brand or would Shop B sell this brand?,,Q1
+vie_ex_18,cũng,không … cũng không,Paul không phải là bác.sĩ cũng không phải là y.tá,Paul NEG true COP doctor also NEG true COP nurse,Paul is neither a doctor nor is he a nurse.,,Q1
+vie_ex_19,cũng,không … cũng không,Mike không mua kem cũng không đưa kem cho em.gái,Mike NEG buy ice.cream also NEG give i.c. for little.sister,Mike didn’t buy ice cream nor did he give it to his sister.,,Q1
+vie_ex_20,hoặc,hoặc cũng,Paul có thể ăn bánh cupcake hoặc cũng có thể ăn bánh quy,Paul EXIS ABL eat CLF cupcake or also EXIS ABL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,,Q1
+vie_ex_21,hay,hay,Susie không phải là bác.sĩ hay vận.động.viên điền.kinh,Susie NEG true COP doctor or athlete track,Susie isn’t a doctor or a runner.,,Q1
+vie_ex_22,juxtaposition,juxtaposition,"Susie là bác.sĩ, cô.ấy là giáo.viên","Susie COP doctor, 3SG COP teacher",Susie is a doctor; she is a teacher.,this is good,Q2
+vie_ex_23,cũng,cũng,Susie là bác.sĩ cô.ấy cũng là giáo.viên,Susie COP doctor 3SG also COP teacher,Susie is a doctor; she is a teacher.,,Q2
+vie_ex_24,và,và … cũng,Susie có thể là bác.sĩ và cô.ấy cũng có thể là giáo.viên,Susie EXIS ABIL COP doctor and 3SG also EXIS ABIL COP teacher,Susie is a doctor or she is a teacher.,corrected from: # Susie là bác.sĩ và cô.ấy cũng là giáo.viên,Q2
+vie_ex_25,hoặc,hoặc,"Susie có thể là bác sĩ, hoặc có thể là giáo viên, hoặc vừa là bác sĩ vừa là giáo viên","Susie EXIS ABIL COP doctor, or EXIS ABIL COP teacher, or SIMUL COP doctor SIMUL COP teacher",Susie is a doctor or she is a teacher (maybe both).,corrected from: # Susie là bác.sĩ và cô.ấy cũng là giáo.viên,Q2
+vie_ex_26,vừa … vừa,vừa … vừa,Paul có thể là vừa xem ti.vi vừa là áo,Paul EXIS ABIL COP SIMUL watch TV SIMUL iron shirt,"Paul is watching TV, he is ironing his shirts.",ok with a modal,Q2
+vie_ex_27,vừa … vừa,vừa … vừa,Paul chắc là vừa xem ti.vi vừa là áo,Paul SURELY COP SIMUL watch TV SIMUL iron shirt,"Paul is watching TV, he is ironing his shirts.",ok with a modal,Q2
+vie_ex_28,juxtaposition,juxtaposition,"Susie là bác.sĩ, cô.ấy nghèo","Susie COP doctor, 3SG poor",Susie is a doctor but she is poor.,would prefer a connective,Q2
+vie_ex_29,juxtaposition,juxtaposition,"Jen mua kem, cô.ấy lại mua cho một người.lạ","Jen buy ice.cream, 3SG PRT buy PREP INDEF stranger","Jen bought ice cream, but she bought it for a stranger.",This is odd without a connector,Q2
+vie_ex_30,juxtaposition,juxtaposition,"Paul không phải là bác.sĩ, anh.ấy là nhân.viên lễ.tân","Paul NEG true COP doctor, 3SG COP worker reception",Paul is not a doctor but he is a receptionist.,"That’s fine, but the pronoun (anh.ấy) is obligatory if no connector is there",Q2
+vie_ex_31,juxtaposition,juxtaposition,"Jen không mua kem, cô.ấy mua sô-cô-la.","Jen NEG buy ice.cream, 3SG buy chocolate.",Jen didn’t buy ice cream but she bought chocolate.,not too bad (if the pronoun is there),Q2
+vie_ex_32,mà,mà,Susie là bác.sĩ mà là giáo.viên.,Susie COP doctor but COP teacher.,Susie is a doctor and she is a teacher.,,Q2
+vie_ex_33,mà,mà,Susie là bác.sĩ mà cô.ấy nghèo,Susie COP doctor but 3SG poor,Susie is a doctor but she is poor.,that’s good,Q2
+vie_ex_34,mà,mà,Paul là bác.sĩ mà John là bác.sĩ,Paul COP doctor but John COP doctor,Paul is a doctor or John is a doctor.,,Q2
+vie_ex_35,mà,mà,John có.thể là bác.sĩ mà nhà.văn.,John EXIS.ABIL COP doctor but writer.,John is a doctor or he is a writer.,,Q2
+vie_ex_36,mà,mà,John là bác.sĩ mà John là nhà.văn,John COP doctor but John COP writer,John is a doctor or he is a writer (maybe both).,,Q2
+vie_ex_37,mà,mà,Paul không phải là bác.sĩ mà không phải y.tá.,Paul NEG true COP doctor but NEG true nurse.,Paul is neither a doctor nor is he a nurse.,,Q2
+vie_ex_38,mà,mà,Paul không phải là bác.sĩ mà y.tá.,Paul NEG true COP doctor but nurse.,Paul is neither a doctor nor is he a nurse.,,Q2
+vie_ex_39,mà,mà,Paul là bác.sĩ mà y.tá.,Paul COP doctor but nurse.,Paul is neither a doctor nor is he a nurse.,,Q2
+vie_ex_40,juxtaposition,juxtaposition,"Paul là bác.sĩ, John là bác.sĩ","Paul COP doctor, John COP doctor",Paul is a doctor or John is a doctor.,,Q2
+vie_ex_41,hoặc,hoặc … hoặc,Hoặc Paul là bác.sĩ hoặc John là bác.sĩ,Or Paul COP doctor or John COP doctor,Paul and John are both doctors.,,Q2
+vie_ex_42,hay,hay,Paul là bác.sĩ hay John là bác.sĩ,Paul COP doctor or John COP doctor,Paul is a doctor or John is a doctor.,"would add something like “I don’t know…”, would be sth. like a rhetorical question",Q2
+vie_ex_43,hoặc,có thể … hoặc cũng … có thể,Paul có thể là bác.sĩ hoặc cũng có thể John là bác.sĩ,Paul EXIS ABIL COP doctor or also EXIS ABIL John COP doctor,Paul and John are both doctors.,This seems ok,Q2
+vie_ex_44,hoặc,hoặc,Bạn để điện.thoại ở chỗ làm hoặc bạn để trên xe buýt?,You leave phone PRP place work or you leave PRP CLF bus?,Did you leave your phone at work or did you leave it on the bus?,The last two are not questions,Q2
+vie_ex_45,hoặc,hoặc … hoặc,Hoặc bạn để điện.thoại ở chỗ làm hoặc bạn để trên xe buýt?,Or you leave phone PRP place work or you leave PRP CLF bus?,Did you leave your phone at work or did you leave it on the bus?,The last two are not questions,Q2
+vie_ex_46,juxtaposition,juxtaposition,"Paul không phải là bác.sĩ, không phải là y.tá.","Paul NEG true COP doctor, NEG true COP nurse.",Paul is neither a doctor nor is he a nurse.,not too bad,Q2
+vie_ex_47,hoặc,hoặc,Paul có thể ăn bánh cupcake hoặc có thể ăn bánh quy,Paul EXIS ABIL eat CLF cupcake or EXIS ABIL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,Good,Q2
+vie_ex_48,cũng,cũng,Paul có thể ăn bánh cupcake cũng có thể ăn bánh quy,Paul EXIS ABIL eat CLF cupcake also EXIS ABIL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,Good,Q2
+vie_ex_49,hoặc,hoặc … hoặc,Hoặc Paul có thể ăn bánh cupcake hoặc cũng có thể ăn bánh quy,Or Paul EXIS ABIL eat CLF cupcake or also EXIS ABIL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,"Not really bad, just not quite as natural as the other ones",Q2
+vie_ex_50,hoặc,hoặc … hoặc,Hoặc Paul có thể ăn bánh cupcake hoặc có thể ăn bánh quy,Or Paul EXIS ABIL eat CLF cupcake or EXIS ABIL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,"See above, not really bad, just not quite natural",Q2
+vie_ex_51,hay,hay,Paul có thể ăn bánh cupcake hay có thể ăn bánh quy,Paul EXIS ABIL eat CLF cupcake or EXIS ABIL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,"Again, these would need embedding and be interpreted as questions (“I don’t know… “)",Q2
+vie_ex_52,hay,hay,Paul có thể ăn bánh cupcake hay cũng có thể ăn bánh quy,Paul EXIS ABIL eat CLF cupcake or also EXIS ABIL eat CLF cookie,Paul can eat a cupcake or he can eat a cookie.,"Again, these would need embedding and be interpreted as questions (“I don’t know… “)",Q2
+vie_ex_53,hoặc,hoặc,Susie không phải là bác.sĩ hoặc vận.động.viên điền.kinh,Susie NEG true COP doctor or athlete track,Susie isn’t a doctor or a runner.,,Q2
