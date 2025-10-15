@@ -1,0 +1,62 @@
+ref,context,premise,example,judgment,questionnaire,comment
+Igbo_Evi_1,conj-nocontrast-sta,na,Igbo_Q1_A1_1,felicitous,Q1,the first sentence would be preferred in natural speech
+Igbo_Evi_2,conj-nocontrast-sta,na,Igbo_Q1_A1_2,felicitous,Q1,the second structure would be more natural in a sentence like “For breakfast Susie had bread and eggs.”
+Igbo_Evi_3,conj-nocontrast-epi,na,Igbo_Q1_A1_3,felicitous,Q1,
+Igbo_Evi_4,conj-nocontrast-epi,na,Igbo_Q1_A1_4,felicitous,Q1,"this is fine, but there is a prosodic break after “TV”"
+Igbo_Evi_5,conj-contrast-sta-mod,na,Igbo_Q1_A2_1,felicitous,Q1,
+Igbo_Evi_6,conj-contrast-epi,na,Igbo_Q1_A2_2,felicitous,Q1,What the “rV” morpheme does is debatable. Might be a TAM marker or polarity-related.
+Igbo_Evi_7,conj-contrast-negp-sta,na,Igbo_Q1_A3_1,felicitous,Q1,“mana” can be left out here
+Igbo_Evi_8,conj-contrast-negp-epi,na,Igbo_Q1_A3_2,felicitous,Q1,
+Igbo_Evi_9,disj-spk-1,na,Igbo_Q1_B1_1,felicitous,Q1,"The modal (“nwere ike”) seems to play a role here, “ma” itself does not seem to have a genuinely disjunctive meaning"
+Igbo_Evi_10,disj-spk-2,na,Igbo_Q1_B1_2,felicitous,Q1,
+Igbo_Evi_11,disj-nspk-epi,na,Igbo_Q1_B2_1,felicitous,Q1,Without the nwere ike it would sound more like a conditional clause
+Igbo_Evi_12,disj-nspk-sta-exc-mod,na,Igbo_Q1_B2_2,felicitous,Q1,
+Igbo_Evi_13,disj-nspk-sta-inc-mod,na,Igbo_Q1_B2_3,felicitous,Q1,
+Igbo_Evi_14,disj-nspk-epi-q-mod,na,Igbo_Q1_B2_6,felicitous,Q1,pronouns (“i”) have a different tone in the polar question
+Igbo_Evi_15,disj-nspk-sta-inc-q,na,Igbo_Q1_B2_7,felicitous,Q1,in the polar question the pronoun has to be there to carry the Q-tone
+Igbo_Evi_16,disj-nspk-sta-inc-q,na,Igbo_Q1_B2_8,felicitous,Q1,in the polar question the pronoun has to be there to carry the Q-tone
+Igbo_Evi_17,neither-sta,na,Igbo_Q1_C1_1,felicitous,Q1,
+Igbo_Evi_18,neither-epi,na,Igbo_Q1_C1_2,felicitous,Q1,
+Igbo_Evi_19,fc,na,Igbo_Q1_C2_1,felicitous,Q1,
+Igbo_Evi_20,negative,na,Igbo_Q1_C3_1,felicitous,Q1,“abu” and “bu” are different forms of the same copular
+Igbo_Evi_21,conj-nocontrast-sta,na,Igbo_Q2_A1_1,infelicitous,Q2,
+Igbo_Evi_22,disj-spk-3,na,Igbo_Q1_A1_1,infelicitous,Q2,
+Igbo_Evi_23,disj-spk-3,na,Igbo_Q1_A1_2,??,Q2,"would prefer to have the verb in the second conjunct, also: na is not good here"
+Igbo_Evi_24,disj-nspk-sta-exc-2,na,Igbo_Q1_A1_1,infelicitous,Q2,
+Igbo_Evi_25,disj-nspk-sta-inc-2,na,Igbo_Q1_A1_1,infelicitous,Q2,
+Igbo_Evi_26,disj-nspk-sta-inc-2,na,Igbo_Q1_A1_2,infelicitous,Q2,
+Igbo_Evi_27,neither-sta-2,na,Igbo_Q1_A1_1,infelicitous,Q2,
+Igbo_Evi_28,neither-sta-2,na,Igbo_Q1_A1_2,infelicitous,Q2,
+Igbo_Evi_29,conj-nocontrast-epi,na,Igbo_Q1_A1_4,felicitous,Q2,"ok, this works"
+Igbo_Evi_30,disj-spk-4,na,Igbo_Q1_A1_3,felicitous,Q2,
+Igbo_Evi_31,disj-nspk-epi-exc-2,na,Igbo_Q1_A1_3,felicitous,Q2,
+Igbo_Evi_32,disj-nspk-epi-inc-2,na,Igbo_Q1_A1_3,felicitous,Q2,
+Igbo_Evi_33,neither-epi-2,na,Igbo_Q1_A1_3,felicitous,Q2,
+Igbo_Evi_34,conj-contrast-sta-mod,na,Igbo_Q2_A2_1,?,Q2,"“mana” should be added, but the above could be uttered in some situations"
+Igbo_Evi_35,disj-spk-4-prime,na,Igbo_Q1_A2_1,infelicitous,Q2,“ma o bu” also wouldn’t work here
+Igbo_Evi_36,disj-nspk-sta-exc-3,na,Igbo_Q1_A2_1,infelicitous,Q2,
+Igbo_Evi_37,disj-nspk-sta-inc-3,na,Igbo_Q1_A2_1,infelicitous,Q2,
+Igbo_Evi_38,neither-sta-3,na,Igbo_Q1_A2_1,infelicitous,Q2,
+Igbo_Evi_39,conj-contrast-epi,na,Igbo_Q2_A2_2,*,Q2,
+Igbo_Evi_40,conj-contrast-negp-sta,na,Igbo_Q2_A3_1,felicitous,Q2,That’s okay
+Igbo_Evi_41,conj-contrast-negp-epi,na,Igbo_Q2_A3_2,felicitous,Q2,"That works, too"
+Igbo_Evi_42,disj-spk-2,na,Igbo_Q1_B1_2,*,Q2,
+Igbo_Evi_43,disj-spk-2,na,Igbo_Q2_B1_1,felicitous,Q2,corrected to:
+Igbo_Evi_44,disj-spk-2,na,Igbo_Q2_B1_2,*,Q2,
+Igbo_Evi_45,conj-nocontrast-sta-2,na,Igbo_Q2_B1_1,infelicitous,Q2,
+Igbo_Evi_46,conj-contrast-sta-2,na,Igbo_Q2_B1_1,infelicitous,Q2,
+Igbo_Evi_47,disj-nspk-sta-exc-4,na,Igbo_Q2_B1_1,felicitous,Q2,"ok, that works"
+Igbo_Evi_48,disj-nspk-sta-inc-4,na,Igbo_Q2_B1_1,felicitous,Q2,that’s fine
+Igbo_Evi_49,neither-sta-4,na,Igbo_Q2_B1_1,infelicitous,Q2,
+Igbo_Evi_50,disj-nspk-epi,na,Igbo_Q1_B2_1,felicitous,Q2,that’s ok
+Igbo_Evi_51,disj-nspk-epi,na,Igbo_Q2_B2_1,*,Q2,
+Igbo_Evi_52,disj-nspk-sta-exc-mod,na,Igbo_Q2_B2_2,felicitous,Q2,"This is fine, but would be better with an additive."
+Igbo_Evi_53,disj-nspk-sta-exc-mod,na,Igbo_Q1_B2_2,felicitous,Q2,that’s good
+Igbo_Evi_54,disj-nspk-epi-q-mod,na,Igbo_Q1_B2_6,felicitous,Q2,that’s fine
+Igbo_Evi_55,neither-sta,na,Igbo_Q2_C1_1,?,Q2,"a bit weird, sounds a bit like a puzzle or a riddle"
+Igbo_Evi_56,conj-nocontrast-sta-3,na,Igbo_Q1_C1_1,infelicitous,Q2,
+Igbo_Evi_57,conj-contrast-sta-3,na,Igbo_Q1_C1_1,infelicitous,Q2,
+Igbo_Evi_58,disj-spk-5,na,Igbo_Q1_C1_1,infelicitous,Q2,
+Igbo_Evi_59,disj-nspk-sta-exc-5,na,Igbo_Q1_C1_1,infelicitous,Q2,
+Igbo_Evi_60,disj-nspk-sta-inc-5,na,Igbo_Q1_C1_1,infelicitous,Q2,
+Igbo_Evi_61,fc,na,Igbo_Q1_C2_1,felicitous,Q2,that’s ok
