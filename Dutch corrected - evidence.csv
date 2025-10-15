@@ -1,0 +1,75 @@
+ref,context,premise,example,judgment,questionnaire,comment
+NL_E_1,conj-nocontrast-sta,na,NL_Q1_A1_1,felicitous,Q1,
+NL_E_2,conj-nocontrast-sta,na,NL_Q1_A1_2,felicitous,Q1,
+NL_E_3,conj-nocontrast-sta,na,NL_Q2_A1_1,infelicitous,Q1,not possible
+NL_E_4,conj-nocontrast-epi,na,NL_Q1_A1_3,felicitous,Q1,
+NL_E_5,conj-contrast-sta-mod,na,NL_Q1_A2_1,felicitous,Q1,
+NL_E_6,conj-contrast-epi,na,NL_Q1_A2_2,felicitous,Q1,
+NL_E_7,conj-contrast-negp-sta,na,NL_Q1_A3_1,felicitous,Q1,
+NL_E_8,conj-contrast-negp-sta,na,NL_Q1_A3_2,felicitous,Q1,
+NL_E_9,conj-contrast-negp-epi,na,NL_Q1_A3_3,felicitous,Q1,
+NL_E_10,disj-spk-1,na,NL_Q1_B1_1,felicitous,Q1,
+NL_E_11,disj-spk-1,na,NL_Q1_B1_3,felicitous,Q1,
+NL_E_12,disj-spk-2,na,NL_Q1_B1_5,felicitous,Q1,
+NL_E_13,disj-spk-2,na,NL_Q1_B1_6,felicitous,Q1,
+NL_E_14,disj-nspk-epi,na,NL_Q1_B2.1.1_1,felicitous,Q1,
+NL_E_15,disj-nspk-sta-exc-mod,na,NL_Q1_B2.1.1_2,felicitous,Q1,
+NL_E_16,disj-nspk-sta-inc-mod,na,NL_Q1_B2.1.2_1,felicitous,Q1,
+NL_E_17,disj-nspk-epi-q-mod,na,NL_Q1_B2.2_1,felicitous,Q1,
+NL_E_18,disj-nspk-epi-q-mod,na,NL_Q1_B2.2_2,felicitous,Q1,
+NL_E_19,disj-nspk-sta-inc-q,na,NL_Q1_B2.2_3,felicitous,Q1,
+NL_E_20,disj-nspk-sta-inc-q,na,NL_Q1_B2.2_4,felicitous,Q1,
+NL_E_21,neither-sta,na,NL_Q1_C1_2,felicitous,Q1,
+NL_E_22,neither-sta,na,NL_Q1_C1_3,felicitous,Q1,(something that slightly older people say):
+NL_E_23,neither-epi,na,NL_Q1_C1_5,felicitous,Q1,Pretty unnatural without the additive (“ook”)
+NL_E_24,fc,na,NL_Q1_C2_1,felicitous,Q1,
+NL_E_25,fc,na,NL_Q1_C2_2,felicitous,Q1,
+NL_E_26,negative,na,NL_Q1_C3_1,felicitous,Q1,
+NL_E_27,negative,na,NL_Q1_C3_2,felicitous,Q1,"The above is pretty unnatural, the following sounds slightly better:"
+NL_E_28,negative,na,NL_Q1_C3_3,felicitous,Q1,
+NL_E_29,conj-nocontrast-sta,na,NL_Q2_A1_1,infelicitous,Q2,needs a conjunction
+NL_E_30,disj-spk-3,na,NL_Q1_A1_1,infelicitous,Q2,"The sentence is grammatical but wrong, because she is not a teacher."
+NL_E_31,disj-nspk-sta-exc-2,na,NL_Q1_A1_1,infelicitous,Q2,"This doesn’t make much sense, would use “of”."
+NL_E_32,disj-nspk-sta-inc-2,na,NL_Q1_A1_1,infelicitous,Q2,feels way more sure that she is both
+NL_E_33,neither-sta-2,na,NL_Q1_A1_1,infelicitous,Q2,
+NL_E_34,disj-spk-4,na,NL_Q1_A1_3,infelicitous,Q2,This means that he’s doing both.
+NL_E_35,disj-nspk-epi-exc-2,na,NL_Q1_A1_3,infelicitous,Q2,
+NL_E_36,disj-nspk-epi-inc-2,na,NL_Q1_A1_3,?,Q2,"This could work, but it sounds like he is doing both (doesn’t have to be true)."
+NL_E_37,neither-epi-2,na,NL_Q1_A1_3,infelicitous,Q2,not true in the context
+NL_E_38,conj-contrast-sta-mod,na,NL_Q2_A2_1,felicitous,Q2,"Ok, that would work."
+NL_E_39,disj-spk-4-prime,na,NL_Q1_A2_1,infelicitous,Q2,You’re doing the opposite.
+NL_E_40,disj-nspk-sta-exc-3,na,NL_Q1_A2_1,infelicitous,Q2,
+NL_E_41,disj-nspk-sta-inc-3,na,NL_Q1_A2_1,infelicitous,Q2,
+NL_E_42,neither-sta-3,na,NL_Q1_A2_1,infelicitous,Q2,
+NL_E_43,conj-contrast-epi,na,NL_Q2_A2_2,infelicitous,Q2,Not really … implies that she intended to buy it for them in the first place.
+NL_E_44,conj-contrast-negp-sta,na,NL_Q2_A3_1,felicitous,Q2,"Ok, that works."
+NL_E_45,conj-contrast-negp-epi,na,NL_Q2_A3_2,felicitous,Q2,Also works.
+NL_E_46,disj-spk-2,na,NL_Q2_B1_1,infelicitous,Q2,
+NL_E_47,disj-spk-2,na,NL_Q1_B1_5,felicitous,Q2,This works.
+NL_E_48,disj-spk-2,na,NL_Q1_B1_6,felicitous,Q2,Also ok.
+NL_E_49,conj-nocontrast-sta-2,na,NL_Q1_B1_5,infelicitous,Q2,
+NL_E_50,conj-nocontrast-sta-2,na,NL_Q1_B1_6,infelicitous,Q2,
+NL_E_51,conj-contrast-sta-2,na,NL_Q1_B1_5,infelicitous,Q2,
+NL_E_52,conj-contrast-sta-2,na,NL_Q1_B1_6,infelicitous,Q2,
+NL_E_53,disj-nspk-sta-exc-4,na,NL_Q1_B1_5,felicitous,Q2,Both work fine.
+NL_E_54,disj-nspk-sta-exc-4,na,NL_Q1_B1_6,felicitous,Q2,Both work fine.
+NL_E_55,disj-nspk-sta-inc-4,na,NL_Q1_B1_5,infelicitous,Q2,2nd version slightly better (1st one explicitly “either … or”) but both don’t work
+NL_E_56,disj-nspk-sta-inc-4,na,NL_Q1_B1_6,??,Q2,2nd version slightly better (1st one explicitly “either … or”) but both don’t work
+NL_E_57,neither-sta-4,na,NL_Q1_B1_5,infelicitous,Q2,
+NL_E_58,neither-sta-4,na,NL_Q1_B1_6,infelicitous,Q2,
+NL_E_59,disj-nspk-sta-exc-mod,na,NL_Q1_B2.1.1_2,felicitous,Q2,"Ok, that works."
+NL_E_60,disj-nspk-sta-exc-mod,na,NL_Q2_B2.1.2_1,felicitous,Q2,"That works too, but emphasises that it is only one of these things. exclusive reading!"
+NL_E_61,disj-nspk-epi-q-mod,na,NL_Q2_B2.2_1,#/*,Q2,"This would only make sense if the friend had already listed other options, maybe in a kind of enumeration (“Did you leave it at A or at B or at C…?”). ! Follow up comment by the consultant suggests that the question is actually ungrammatical"
+NL_E_62,neither-sta,na,NL_Q2_C1_1,infelicitous,Q2,
+NL_E_63,conj-nocontrast-sta-3,na,NL_Q1_C1_2,infelicitous,Q2,
+NL_E_64,conj-nocontrast-sta-3,na,NL_Q1_C1_3,infelicitous,Q2,
+NL_E_65,conj-contrast-sta-3,na,NL_Q1_C1_2,infelicitous,Q2,
+NL_E_66,conj-contrast-sta-3,na,NL_Q1_C1_3,infelicitous,Q2,
+NL_E_67,disj-spk-5,na,NL_Q1_C1_2,infelicitous,Q2,
+NL_E_68,disj-spk-5,na,NL_Q1_C1_3,infelicitous,Q2,
+NL_E_69,disj-nspk-sta-exc-5,na,NL_Q1_C1_2,infelicitous,Q2,
+NL_E_70,disj-nspk-sta-exc-5,na,NL_Q1_C1_3,infelicitous,Q2,
+NL_E_71,disj-nspk-sta-inc-5,na,NL_Q1_C1_2,infelicitous,Q2,
+NL_E_72,disj-nspk-sta-inc-5,na,NL_Q1_C1_3,infelicitous,Q2,
+NL_E_73,fc,na,NL_Q1_C2_1,felicitous,Q2,"Ok, both would work."
+NL_E_74,fc,na,NL_Q2_C2_1,felicitous,Q2,"Ok, both would work."

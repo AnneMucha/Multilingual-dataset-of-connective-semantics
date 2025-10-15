@@ -1,0 +1,45 @@
+ref,expression,full form,words,glosses,translation,comment,questionnaire
+NL_Q1_A1_1,en,en,Susie is een dokter en ze is een lerares.,Susie is a doctor EN she is a teacher.,Susie is a doctor and she is a teacher.,,Q1
+NL_Q1_A1_2,en,en,Susie is een dokter en een lerares.,Susie is a doctor EN a teacher.,Susie is a doctor and she is a teacher.,,Q1
+NL_Q1_A1_3,en,en,Paul kijkt TV en strijkt zijn shirts.,Paul watch.pres TV EN iron.pres his shirts,Paul is watching TV and he is ironing his shirts.,,Q1
+NL_Q1_A2_1,maar,maar,Susie is een dokter maar ze is arm.,Susie is a doctor MAAR she is poor.,Susie is a doctor but she is poor.,,Q1
+NL_Q1_A2_2,maar,maar,Jen kocht een ijsje maar ze kocht het voor een vreemde.,J buy.past an ice-cream MAAR sie buy.past it for a stranger,Jen bought ice cream but she bought it for a stranger.,,Q1
+NL_Q1_A3_1,maar,maar,Paul is geen dokter maar hij is een receptionist.,Paul is no doctor MAAR he is a receptionist,Paul is not a doctor but he is a receptionist.,,Q1
+NL_Q1_A3_2,maar,maar,Paul is geen dokter maar een receptionist.,Paul is no doctor MAAR a receptionist,Paul is not a doctor but he is a receptionist.,,Q1
+NL_Q1_A3_3,maar,maar,Jen heeft geen ijs gekocht maar chocolade.,Jen has no ice-cream bought MAAR chocolate,Jen didn’t buy ice cream but she bought chocolate.,,Q1
+NL_Q1_B1_1,of,(of) … of,Of Het antwoord op de vraag is A of het antwoord op de vraag is B.,OF the answer to the question is A OF the answer to the question is B,(Either) the answer to the question is A or the answer to the question is B .,,Q1
+NL_Q1_B1_2,of,(of) … of,Of Het antwoord op de vraag is A of het antwoord is B.,OF the answer to the question is A OF the answer is B,(Either) the answer to the question is A or the answer to the question is B .,,Q1
+NL_Q1_B1_3,of,of,Het antwoord op de vraag is A of het antwoord op de vraag is B.,The answer to the question is A OF the answer to the question is B,(Either) the answer to the question is A or the answer to the question is B .,,Q1
+NL_Q1_B1_4,of,of,Het antwoord op de vraag is A of het antwoord is B.,The answer to the question is A OF the answer is B,(Either) the answer to the question is A or the answer to the question is B .,,Q1
+NL_Q1_B1_5,of,(of) … of,Of Paul is een dokter of John is een dokter.,OF Paul is a doctor OF John is a doctor.,(Either) Paul is a doctor or John is a doctor.,,Q1
+NL_Q1_B1_6,of,of,Paul is een dokter of John is een dokter.,Paul is a doctor OF John is a doctor.,(Either) Paul is a doctor or John is a doctor.,,Q1
+NL_Q1_B2.1.1_1,of,of,Ik ben mijn telefoon op werk vergeten of ik heb hem onderweg laten vallen.,I am my phone at work forgotten OF I have it on.the.way let fall,I left my phone at work or I dropped it on my way home.,Can’t use smaller constructions because it’s a different verb,Q1
+NL_Q1_B2.1.1_2,of,of,John is een dokter of hij is een auteur.,John is a doctor OF he is a writer.,John is a doctor or he is a writer.,,Q1
+NL_Q1_B2.1.2_1,of,of,John is een dokter of een auteur.,John is a doctor OF a writer,John is a doctor or he is a writer (maybe both).,,Q1
+NL_Q1_B2.2_1,of,of,Heb je je telefoon op werk laten liggen of in de bus?,Have you your phone at work let lie OF in the bus,Did you leave your phone at work or did you leave it on the bus?,,Q1
+NL_Q1_B2.2_2,of,of,Heb je je telefoon op werk laten liggen of heb je hem in de bus laten liggen?,Have you your phone at work let lie OF have you it in the bus let lie,Did you leave your phone at work or did you leave it on the bus?,,Q1
+NL_Q1_B2.2_3,of,of,Zou winkel A dit merk verkopen of zou winkel B dit merk verkopen?,Would shop A this brand sell OF would shop B this brand sell,Would Shop A sell this brand or would Shop B sell this brand?,,Q1
+NL_Q1_B2.2_4,of,of,Zou winkel A of winkel B dit merk verkopen?,Would shop A OF shop B this brand sell,Would Shop A sell this brand or would Shop B sell this brand?,,Q1
+NL_Q1_C1_1,en,geen … en … geen …,Paul is geen dokter en hij is geen broeder.,Paul is no doctor EN he is no nurse,Paul is neither a doctor nor is he a nurse.,,Q1
+NL_Q1_C1_2,en,geen … en … geen …,Paul is geen dokter en hij is geen verpleger.,Paul is no doctor EN he is no nurse,Paul is neither a doctor nor is he a nurse.,,Q1
+NL_Q1_C1_3,noch,geen … noch …,Paul is geen dokter noch is hij verpleger.,Paul is no doctor NOCH is he nurse,Paul is neither a doctor nor is he a nurse.,(something that slightly older people say):,Q1
+NL_Q1_C1_4,en,geen … en och niet …,Mike heeft geen ijs gekocht en gaf het ook niet aan zijn zus.,Mike has no ice-cream bought EN gave it also not to his sister,Mike didn’t buy ice cream nor did he give it to his sister.,Pretty unnatural without the additive (“ook”),Q1
+NL_Q1_C1_5,en,geen … en och niet …,Mike heeft geen ijs gekocht en gaf het ook niet aan zijn zusje.,Mike has no ice-cream bought EN gave it also not to his sister,Mike didn’t buy ice cream nor did he give it to his sister.,Pretty unnatural without the additive (“ook”),Q1
+NL_Q1_C2_1,of,of,Paul kan een cupcake eten of hij kan een koekje eten.,Paul can a cupcake eat OF he can a cookie eat,Paul can eat a cupcake or he can eat a cookie.,,Q1
+NL_Q1_C2_2,of,of,Paul kan een cupcake of een koekje eten.,Paul can a cupcake OF a cookie eat,Paul can eat a cupcake or he can eat a cookie.,,Q1
+NL_Q1_C3_1,en,geen … en … geen …,Susie is geen dokter en geen atleet.,Susie is no doctor EN no runner,Susie isn’t a doctor or a runner.,,Q1
+NL_Q1_C3_2,of,niet … of …,Het is niet het geval dat Susie een dokter is of dat Susie een atleet is.,It is not the case that Susie a doctor is OF that Susie an athlete is,Susie isn’t a doctor or a runner.,"The above is pretty unnatural, the following sounds slightly better:",Q1
+NL_Q1_C3_3,noch,niet … noch …,"Het is niet het geval dat Susie een dokter is, noch dat Susie een atleet is.",It is not the case that Susie a doctor is NOCH that Susie an athlete is.,Susie isn’t a doctor or a runner.,,Q1
+NL_Q2_A1_1,∅,juxtaposition,"Susie is een dokter, ze is een lerares.",,"Susie is a doctor, she is a teacher.",needs a conjunction,Q2
+NL_Q2_A1_2,∅,juxtaposition,"Susie is een dokter, een lerares.",,"Susie is a doctor, a teacher.",needs a conjunction,Q2
+NL_Q2_A2_1,∅,juxtaposition,"Susie is een dokter, ze is arm.",,"Susie is a doctor, she is poor.","Ok, that would work.",Q2
+NL_Q2_A2_2,∅,juxtaposition,"Jen kocht een ijsje, ze kocht het voor een vreemde.",,"Jen bought an ice cream, she bought it for a stranger.",Not really … implies that she intended to buy it for them in the first place.,Q2
+NL_Q2_A3_1,∅,juxtaposition,"Paul is geen dokter, hij is een receptionist.",,"Paul is not a doctor, he is a receptionist.","Ok, that works.",Q2
+NL_Q2_A3_2,∅,juxtaposition,"Jen heeft geen ijs gekocht, ze heeft chocolade gekocht.",,"Jen didn’t buy ice cream, she bought chocolate.",Also works.,Q2
+NL_Q2_B1_1,∅,juxtaposition,"Paul is een dokter, John is een dokter.",,"Paul is a doctor, John is a doctor.",,Q2
+NL_Q2_B2.1.1_1,∅,juxtaposition,"Ik ben mijn telefoon op werk vergeten, ik heb hem onderweg laten vallen.",,"I left my phone at work, I dropped it on my way home.",,Q2
+NL_Q2_B2.1.1_2,∅,juxtaposition,"John is een dokter, hij is een auteur.",,"John is a doctor, he is an author.",,Q2
+NL_Q2_C1_1,∅,juxtaposition,"Paul is een dokter, hij is een verpleger.",,"Paul is a doctor, he is a nurse.",,Q2
+NL_Q2_B2.1.2_1,of,(of) … of,Of John is een dokter of hij is een auteur.,,John is a doctor or he is a writer.,"That works too, but emphasises that it is only one of these things. exclusive reading!",Q2
+NL_Q2_B2.2_1,of,(of) … of,Of heb je je telefoon op werk laten liggen of heb je hem in de bus laten liggen?,,Did you leave your phone at work or did you leave it on the bus?,"This would only make sense if the friend had already listed other options, maybe in a kind of enumeration (“Did you leave it at A or at B or at C…?”). ! Follow up comment by the consultant suggests that the question is actually ungrammatical",Q2
+NL_Q2_C2_1,of,(of) … of,Of Paul kan een cupcake eten of hij kan een koekje eten.,,Paul can eat a cupcake or he can eat a cookie.,"Ok, both would work.",Q2
