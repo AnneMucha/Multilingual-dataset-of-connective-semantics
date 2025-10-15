@@ -1,0 +1,41 @@
+expression,full form,shorthand,kboth,kneither,contrast,stative,negated_p,Kp,question,fc,can_express,evidence,negation,comments
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,tagalog-ev-34,neither,
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,tagalog-ev-39,neither,
+∅,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,tagalog-ev-4,neither,
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"tagalog-ev-2, tagalog-ev-25",neither,Conflicting evidence
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-47,neither,
+at,at,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,tagalog-ev-3,neither,
+at,at,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"tagalog-ev-1, tagalog-ev-27",neither,Conflicting evidence
+at,at,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,tagalog-ev-31,neither,
+at,at,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,tagalog-ev-32,neither,
+at,at,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-30,neither,
+at,at,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-33,neither,
+at,hindi … at hindi …,neither-epi,0,1,,0,1,0,0,0,1,tagalog-ev-21,below,
+at,hindi … at hindi …,neither-sta,0,1,,1,0,0,0,0,1,tagalog-ev-19,below,
+ngunit,ngunit,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,tagalog-ev-8,neither,
+ngunit,ngunit,conj-contrast-sta,1,0,1,1,0,1,0,0,1,tagalog-ev-42,neither,
+ngunit,ngunit,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"tagalog-ev-40, tagalog-ev-41",neither,Conflicting evidence
+ngunit,ngunit,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,tagalog-ev-44,neither,
+ngunit,ngunit,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,tagalog-ev-45,neither,
+ngunit,ngunit,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-43,neither,
+ngunit,ngunit,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-46,neither,
+ni,hindi … ni hindi …,neither-epi,0,1,,0,1,0,0,0,1,tagalog-ev-22,below,
+ni,hindi … ni hindi …,neither-sta,0,1,,1,0,0,0,0,?,"tagalog-ev-20, tagalog-ev-54, tagalog-ev-55, tagalog-ev-56, tagalog-ev-57",below,Conflicting evidence
+o,o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,tagalog-ev-49,neither,
+o,o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,tagalog-ev-48,neither,
+o,o,disj-nspk-epi,0,0,1,0,0,0,0,0,1,tagalog-ev-13,neither,
+o,o,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,tagalog-ev-16,neither,
+o,o,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,"tagalog-ev-14, tagalog-ev-50",neither,Conflicting evidence
+o,o,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"tagalog-ev-15, tagalog-ev-51, tagalog-ev-52",neither,Conflicting evidence
+o,o,disj-nspk-sta-inc-q,?,0,,1,0,0,1,0,1,"tagalog-ev-17,tagalog-ev-18",neither,
+o,o,disj-spk,0,0,,1,0,1,0,0,1,"tagalog-ev-11,tagalog-ev-12",neither,
+o,o,fc,0,0,,0,0,0,0,1,1,tagalog-ev-23,neither,
+o,o,neither-sta,0,0,,1,0,0,0,0,0,tagalog-ev-53,neither,
+pero,pero,conj-contrast-epi,1,0,1,0,0,1,0,0,1,tagalog-ev-6,neither,
+pero,pero,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"tagalog-ev-10,tagalog-ev-9",neither,
+pero,pero,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,tagalog-ev-7,neither,
+pero,pero,conj-contrast-sta,1,0,1,1,0,1,0,0,1,tagalog-ev-5,neither,
+pero,pero,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,tagalog-ev-36,neither,
+pero,pero,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,tagalog-ev-37,neither,
+pero,pero,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-35,neither,
+pero,pero,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-38,neither,
