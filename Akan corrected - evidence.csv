@@ -1,0 +1,74 @@
+ref,context,premise,example,judgment,questionnaire,comment
+akan_evidence_1,conj-nocontrast-sta,na,akan_1,felicitous,Q1,
+akan_evidence_2,conj-nocontrast-sta,na,akan_2,felicitous,Q1,
+akan_evidence_3,conj-nocontrast-sta,na,akan_3,felicitous,Q1,
+akan_evidence_4,conj-nocontrast-epi,na,akan_4,felicitous,Q1,
+akan_evidence_5,conj-nocontrast-epi,na,akan_5,felicitous,Q1,
+akan_evidence_6,conj-contrast-sta-mod,na,akan_6,felicitous,Q1,“hia” can also mean “need”
+akan_evidence_7,conj-contrast-epi,na,akan_7,felicitous,Q1,
+akan_evidence_8,conj-contrast-negp-sta,na,akan_8,felicitous,Q1,
+akan_evidence_9,conj-contrast-negp-sta,na,akan_9,felicitous,Q1,
+akan_evidence_10,conj-contrast-negp-epi,na,akan_10,felicitous,Q1,
+akan_evidence_11,disj-spk-1,na,akan_11,felicitous,Q1,Can be a statement or a question
+akan_evidence_12,disj-spk-2,na,akan_12,felicitous,Q1,“Either” can be used in Akan as well
+akan_evidence_13,disj-spk-2,na,akan_13,felicitous,Q1,“Either” can be used in Akan as well
+akan_evidence_14,disj-nspk-epi,na,akan_14,felicitous,Q1,... I left it at the time I went home.
+akan_evidence_15,disj-nspk-epi,na,akan_15,felicitous,Q1,... I left it at the time I went home.
+akan_evidence_16,disj-nspk-sta-exc-mod,na,akan_16,felicitous,Q1,
+akan_evidence_17,disj-nspk-sta-inc-mod,na,akan_17,felicitous,Q1,
+akan_evidence_18,disj-nspk-epi-q-mod,na,akan_18,felicitous,Q1,
+akan_evidence_19,disj-nspk-epi-q-mod,na,akan_19,felicitous,Q1,
+akan_evidence_20,disj-nspk-sta-inc-q,na,akan_20,felicitous,Q1,Translated as “Do you know whether...”
+akan_evidence_21,disj-nspk-sta-inc-q,na,akan_21,felicitous,Q1,Translated as “Do you know whether...”
+akan_evidence_22,disj-nspk-sta-inc-q,na,akan_22,felicitous,Q1,shorter version
+akan_evidence_23,neither-sta,na,akan_23,felicitous,Q1,
+akan_evidence_24,neither-sta,na,akan_24,felicitous,Q1,
+akan_evidence_25,neither-epi,na,akan_25,felicitous,Q1,“buy” changed to “eat”
+akan_evidence_26,neither-epi,na,akan_26,felicitous,Q1,“buy” changed to “eat”
+akan_evidence_27,fc,na,akan_27,felicitous,Q1,
+akan_evidence_28,conj-nocontrast-sta,na,akan_3,felicitous,Q2,These are okay
+akan_evidence_29,conj-nocontrast-sta,na,akan_28,felicitous,Q2,These are okay
+akan_evidence_30,disj-spk-3,na,akan_1,infelicitous,Q2,
+akan_evidence_31,disj-spk-3,na,akan_2,infelicitous,Q2,
+akan_evidence_32,disj-nspk-sta-exc-2,na,akan_1,infelicitous,Q2,
+akan_evidence_33,disj-nspk-sta-exc-2,na,akan_2,infelicitous,Q2,
+akan_evidence_34,disj-nspk-sta-inc-2,na,akan_1,infelicitous,Q2,
+akan_evidence_35,disj-nspk-sta-inc-2,na,akan_2,infelicitous,Q2,
+akan_evidence_36,neither-sta-2,na,akan_1,infelicitous,Q2,
+akan_evidence_37,neither-sta-2,na,akan_2,infelicitous,Q2,
+akan_evidence_38,conj-nocontrast-epi,na,akan_29,felicitous,Q2,This is ok
+akan_evidence_39,disj-spk-4,na,akan_4,infelicitous,Q2,
+akan_evidence_40,disj-nspk-epi-exc-2,na,akan_4,infelicitous,Q2,
+akan_evidence_41,disj-nspk-epi-inc-2,na,akan_4,felicitous,Q2,That’s okay
+akan_evidence_42,neither-epi-2,na,akan_4,infelicitous,Q2,
+akan_evidence_43,conj-contrast-sta-mod,na,akan_30,felicitous,Q2,That’s okay
+akan_evidence_44,disj-spk-4-prime,na,akan_6,infelicitous,Q2,
+akan_evidence_45,disj-nspk-sta-exc-3,na,akan_6,infelicitous,Q2,
+akan_evidence_46,disj-nspk-sta-inc-3,na,akan_6,infelicitous,Q2,
+akan_evidence_47,neither-sta-3,na,akan_6,infelicitous,Q2,
+akan_evidence_48,conj-contrast-epi,na,akan_31,infelicitous,Q2,sounds like she intentionally bought it for the stranger
+akan_evidence_49,conj-contrast-negp-sta,na,akan_33,felicitous,Q2,That’s ok
+akan_evidence_50,conj-contrast-negp-epi,na,akan_34,felicitous,Q2,That’s ok
+akan_evidence_51,conj-nocontrast-sta,na,akan_35,infelicitous,Q2,
+akan_evidence_52,conj-nocontrast-sta,na,akan_36,infelicitous,Q2,
+akan_evidence_53,conj-contrast-sta-mod,na,akan_37,felicitous,Q2,That’s ok
+akan_evidence_54,conj-contrast-sta-mod,na,akan_38,felicitous,Q2,That’s ok
+akan_evidence_55,disj-spk-2,na,akan_39,infelicitous,Q2,
+akan_evidence_56,disj-spk-2,na,akan_40,infelicitous,Q2,
+akan_evidence_57,disj-nspk-sta-exc-mod,na,akan_41,infelicitous,Q2,not good because the context says that you’re not sure
+akan_evidence_58,disj-nspk-sta-exc-mod,na,akan_42,infelicitous,Q2,not good because the context says that you’re not sure
+akan_evidence_59,disj-nspk-sta-inc-mod,na,akan_43,infelicitous,Q2,
+akan_evidence_60,disj-nspk-sta-inc-mod,na,akan_44,infelicitous,Q2,
+akan_evidence_61,neither-sta,na,akan_45,infelicitous,Q2,
+akan_evidence_62,neither-sta,na,akan_46,infelicitous,Q2,
+akan_evidence_63,neither-sta,na,akan_47,infelicitous,Q2,
+akan_evidence_64,neither-sta,na,akan_48,infelicitous,Q2,
+akan_evidence_65,disj-spk-2,na,akan_49,infelicitous,Q2,
+akan_evidence_66,conj-nocontrast-sta-2,na,akan_12,infelicitous,Q2,not good because the context says they are both doctors
+akan_evidence_67,conj-nocontrast-sta-2,na,akan_13,*,Q2,
+akan_evidence_68,conj-nocontrast-sta-2,na,akan_50,infelicitous,Q2,
+akan_evidence_69,conj-nocontrast-sta-2,na,akan_51,infelicitous,Q2,
+akan_evidence_70,disj-nspk-sta-exc-4,na,akan_12,felicitous,Q2,That’s okay
+akan_evidence_71,disj-nspk-sta-exc-4,na,akan_13,*,Q2,The form of the sentence is not good
+akan_evidence_72,disj-nspk-sta-exc-4,na,akan_50,felicitous,Q2,That’s okay
+akan_evidence_73,disj-nspk-sta-exc-4,na,akan_51,?,Q2,"That’s ok, but sounds more like a question"
