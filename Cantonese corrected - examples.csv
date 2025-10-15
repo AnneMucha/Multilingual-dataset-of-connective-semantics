@@ -1,0 +1,46 @@
+ref,expression,full_form,words,glosses,translation,comment,questionnaire
+CAN_001,jau,jau,Susie hai go jisang jau hai go lousi,Susie COP CL doctor CONN COP CL teacher,Susie is a doctor and she is a teacher.,,Q1
+CAN_002,∅,∅,Susie hai go jisang keoi hai go lou-si,Susie COP CL doctor 3SG COP CL teacher,Susie is a doctor; she is a teacher.,"Doesn’t sound quite right, a bit contradictory",Q1
+CAN_003,∅,∅,"Paul tai-gan dinsi, keoi tong-gan saam","Paul watch-PROG TV, 3SG iron-PROG clothes",Paul is watching TV; he is ironing his shirts.,,Q1
+CAN_004,daanhai,daanhai,"Susie hai go jisang, daanhai keoi mou cin","Susie COP CL doctor, CONN 3SG not.have money",Susie is a doctor but she is poor.,,Q1
+CAN_005,batgwo,batgwo,Jen maai-zo syutgou batgwo keoi hai maai bei go maksang-jan ge,Jen buy-PERF ice-cream CONN 3SG COP buy give CL strange-person COMP,Jen bought ice cream but she bought it for a stranger.,,Q1
+CAN_006,∅,∅,"Paul m hai go jisang, koei hai go receptionist","Paul NEG COP CL doctor, 3SG COP CL receptionist",Paul is not a doctor but he is a receptionist.,the first example without the connective is preferred (and was first volunteered),Q1
+CAN_007,jik,jik,Paul m hai go jisang jik hai go receptionist,Paul NEG COP CL doctor CONN COP CL receptionist,Paul is not a doctor but he is a receptionist.,the first example without the connective is preferred (and was first volunteered),Q1
+CAN_008,batgwo,batgwo,"Jen mou maai dou syutgou, batgwo keoi maai-zo zyukulik","Jen not.have buy achieve ice-cream, CONN 3SG buy-PERF chocolate",Jen didn’t buy ice cream but she bought chocolate.,,Q1
+CAN_009,jat-hai,jat-hai … jat-hai,Go daapon jat-hai A jat-hai B,CL answer one-COP A one-COP B,(Either) the answer to the question is A or the answer to the question is B.,"“jat-hai” could be translated as “either”, but can be decomposed as in the glosses",Q1
+CAN_010,waakze,waakze,Paul waakze John hai jisang,Paul CONN John COP doctor,(Either) Paul is a doctor or John is a doctor.,full clause disjunction sounds odd in the first sentence,Q1
+CAN_011,jat-hai,jat-hai … jat-hai,Jathai Paul jathai John hai jisang,CONN Paul CONN John COP doctor,(Either) Paul is a doctor or John is a doctor.,second sentence works better if you know for sure that one of them is a doctor,Q1
+CAN_012,jat-hai,jat-hai … jat-hai,Ngo jathai lau-zo go dinwaa hai gongsi jathai faan ukkei ge sihau dit-zo,1SG CONN leave-PERF CL phone LOC office CONN return home COMP time drop-PERF,I left my phone at work or I dropped it on my way home.,,Q1
+CAN_013,jat-hai,jat-hai … jat-hai,John jathai jisang jathai zokga,John CONN doctor CONN writer,John is a doctor or he is a writer.,,Q1
+CAN_014,jik,jau honang … jik jau honang,John jau honang hai go jisang jik jau honang hai go zokga,John have possibility COP CL doctor CONN have possibility COP CL writer,John is a doctor or he is a writer (maybe both).,,Q1
+CAN_015,dinghai,dinghai,"Nei hai mai lau-zo go dinwa hai gongsi, dinghai lau-zo hai basi","2SG COP not.COP leave-PERF CL phone LOC office, CONN leave-PERF LOC bus",Did you leave your phone at work or did you leave it on the bus?,“hai mai” is the interrogative form,Q1
+CAN_016,dinghai,dinghai,li go paaizi Shop A wui maai dinghai Shop B wui maai?,this CL brand Shop A will sell CONN Shop B will sell,Would Shop A sell this brand or would Shop B sell this brand?,Topicalising “this brand” makes it sound better,Q1
+CAN_017,jik,m … jik m,Paul m hai jisang jik m hai wusi,Paul not COP doctor CONN not COP nurse,Paul is neither a doctor nor is he a nurse.,,Q1
+CAN_018,jau,jau m … jau m,Paul jau m hai jisang jau m hai wusi,Paul CONN not COP doctor CONN not COP nurse,Paul is neither a doctor nor is he a nurse.,,Q1
+CAN_019,jik,mou … jik mou,Mike mou maai dou syutgou jik mou bei dou syutgou keoi go mui,Mike not.have buy achieve ice-cream CONN not.have give achieve ice-cream 3SG CL sister,Mike didn’t buy ice cream nor did he give it to his sister.,,Q1
+CAN_020,waakze,waakze,Paul hoji sik go daangou waakze fai cukkei,Paul can eat CL cake CONN CL cookie,Paul can eat a cupcake or he can eat a cookie.,,Q1
+CAN_021,jau,jau m … jau m,Susie jau m hai jisang jau m hai paausau,Susie CONN not COP doctor CONN not COP runner,Susie isn’t a doctor or a runner.,(= It’s not the case that Susie is a doctor or that Susie is a runner.),Q1
+CAN_022,jik,m … jik m,Susie m hai jisang jik m hai paausau,Susie not COP doctor CONN not COP runner,Susie isn’t a doctor or a runner.,(= It’s not the case that Susie is a doctor or that Susie is a runner.),Q1
+CAN_023,∅,∅,"Susie hai go jisang, keoi mou cin","Susie COP CL doctor, 3SG not.have money",,"This feels like two separate ideas, would be better with “daanhai”",Q2
+CAN_024,∅,∅,"Jen maai-zo syutgou, keoi hai maai bei go maksang-jan ge",Jen buy-PERF ice-cream 3SG COP buy give CL strange-person COMP,,"that’s ok, but with a break between clauses (full stop more appropriate)",Q2
+CAN_025,batgwo,batgwo,Paul tong saam batgwo Paul tai dinsi,Paul iron clothes CONN Paul watch TV,,,Q2
+CAN_026,∅,∅,"Jen mou maai dou syutgou, keoi maai-zo zyukulik","Jen not.have buy achieve ice-cream, 3SG buy-PERF chocolate",,That’s ok,Q2
+CAN_027,jik,jik,Susie hai go jisang jik hai go lousi,Susie COP CL doctor CONN COP CL teacher,,"okay, means: Susie is a doctor while (also) being a teacher",Q2
+CAN_028,jik,jik,Susie hai go jisang jik mou cin,Susie COP CL doctor CONN not.have money,,,Q2
+CAN_029,jik,jik,Paul hai jisang jik John hai jisang,Paul COP doctor CONN John COP doctor,,"This is not well-formed, jik wants the same subject",Q2
+CAN_030,jik,jik,Paul jik John hai jisang,Paul CONN John COP doctor,,"This is not well-formed, jik wants the same subject",Q2
+CAN_031,jik,jik,John hai go jisang jik hai go zokga,John COP CL doctor CONN COP CL writer,,The sentence asserts that J. is doing both jobs,Q2
+CAN_032,jik,jik,Paul m hai jisang jik hai wusi,Paul not COP doctor CONN COP nurse,,Would be possible if “m hai” was added to the second conjunct,Q2
+CAN_033,jik,jik,Paul hai jisang jik hai wusi,Paul COP doctor CONN COP nurse,,,Q2
+CAN_034,∅,∅,"Paul hai jisang, John hai jisang",Paul COP doctor John COP doctor,,This would need sth. like “previously” in the second clause,Q2
+CAN_035,waakze,waakze,Paul waakze John dou jau honang hai jisang,Paul CONN John also have possibility COP doctor,,Volunteered in a follow-up,Q2
+CAN_036,∅,∅,"Ngo lau-zo go dinwaa hai gongsi, ngo faan ukkei ge sihau dit-zo",1SG leave-PERF CL phone LOC office 1SG return home COMP time drop-PERF,,The sentence means that both happened.,Q2
+CAN_037,∅,∅,"John hai jisang, John hai zokga",John COP doctor John COP writer,,,Q2
+CAN_038,waakze,waakze,"Nei hai mai lau-zo go dinwa hai gongsi, waakze lau-zo hai basi","2SG COP not.COP leave-PERF CL phone LOC office, CONN leave-PERF LOC bus",,“waakze” doesn’t work so well here,Q2
+CAN_039,jik,jik,"Nei hai mai lau-zo go dinwa hai gongsi, jik lau-zo hai basi","2SG COP not.COP leave-PERF CL phone LOC office, CONN leave-PERF LOC bus",,This would mean on the bus and in the office,Q2
+CAN_040,jat-hai,jat-hai … jat-hai,"Nei hai mai jathai lau-zo go dinwa hai gongsi, jathai lau-zo hai basi","2SG COP not.COP CONN leave-PERF CL phone LOC office, CONN leave-PERF LOC bus",,jathai … jathai is also not great in questions,Q2
+CAN_041,∅,∅,Paul m hai jisang m hai wusi,Paul not COP doctor not COP nurse,,"This could work, but doesn’t feel quite complete… would need a third conjunct saying what he actually is.",Q2
+CAN_042,jat-hai,jat-hai … jat-hai,Paul jathai hoji sik go daangou jathai hoji sik fai cukkei,Paul CONN can eat CL cake CONN can eat CL cookie,,"“jathai” and “hoji” sound a bit odd together, but that’s more about syntax than felicity. “Jathai” might be more of a VP connective.",Q2
+CAN_043,jik,jik,Paul hoji sik go daangou jik hoji sik fai cukkei,Paul can eat CL cake CONN can eat CL cookie,,that’s ok in this form,Q2
+CAN_044,dinghai,dinghai,Paul hoji sik go daangou dinghai fai cukkei,Paul can eat CL cake CONN CL cookie,,This sounds like a question “Is he allowed to eat a cake or (is he allowed to choose) a cookie?”,Q2
+CAN_045,dinghai,dinghai,Paul hoji sik go daangou dinghai hoji sik fai cukkei,Paul can eat CL cake CONN can eat CL cookie,,This sounds like a question “Is he allowed to eat a cake or (is he allowed to choose) a cookie?”,Q2
