@@ -1,0 +1,94 @@
+ref,context,premise,example,judgment,questionnaire,comment
+hebrew-ev-1,conj-nocontrast-sta,na,hebrew-con-1,felicitous,1,
+hebrew-ev-2,conj-nocontrast-sta,na,hebrew-con-2,?,1,Not so great (same as in English)
+hebrew-ev-3,conj-nocontrast-epi,na,hebrew-con-3a,felicitous,1,
+hebrew-ev-4,conj-nocontrast-epi,na,hebrew-con-3b,felicitous,1,
+hebrew-ev-5,conj-contrast-sta-mod,na,hebrew-con-4,felicitous,1,
+hebrew-ev-6,conj-contrast-epi,na,hebrew-con-5,felicitous,1,
+hebrew-ev-7,conj-contrast-negp-sta,na,hebrew-con-6,felicitous,1,
+hebrew-ev-8,conj-contrast-negp-epi,na,hebrew-con-7,felicitous,1,the ela reading is slightly harder to get when full clauses are conjoined (in English)
+hebrew-ev-9,disj-spk-1,na,hebrew-con-8a,felicitous,1,
+hebrew-ev-10,disj-spk-1,na,hebrew-con-8b,felicitous,1,
+hebrew-ev-11,disj-spk-1,na,hebrew-con-9,felicitous,1,"Here, both o’s are required"
+hebrew-ev-12,disj-spk-2,na,hebrew-con-10,felicitous,1,
+hebrew-ev-13,disj-spk-2,na,hebrew-con-11,felicitous,1,probably wouldn’t choose this one (above) [but volunteered]
+hebrew-ev-14,disj-spk-2,na,hebrew-con-12,felicitous,1,
+hebrew-ev-15,disj-nspk-epi,na,hebrew-con-13,felicitous,1,
+hebrew-ev-16,disj-nspk-sta-exc-mod,na,hebrew-con-14,felicitous,1,
+hebrew-ev-17,disj-nspk-sta-exc-mod,na,hebrew-con-15,felicitous,1,
+hebrew-ev-18,disj-nspk-sta-inc-mod,na,hebrew-con-16,felicitous,1,
+hebrew-ev-19,disj-nspk-epi-q-mod,na,hebrew-con-17a,felicitous,1,
+hebrew-ev-20,disj-nspk-epi-q-mod,na,hebrew-con-17b,felicitous,1,
+hebrew-ev-21,disj-nspk-sta-inc-q,na,hebrew-con-18,felicitous,1,
+hebrew-ev-22,neither-sta,na,hebrew-con-19,felicitous,1,
+hebrew-ev-23,neither-sta,na,hebrew-con-20,felicitous,1,
+hebrew-ev-24,neither-epi,na,hebrew-con-21,felicitous,1,variant with o not very good in this context
+hebrew-ev-25,fc,na,hebrew-con-22a,felicitous,1,
+hebrew-ev-26,fc,na,hebrew-con-22b,felicitous,1,
+hebrew-ev-27,fc,na,hebrew-con-23,felicitous,1,the complementiser is needed in the second example; no second “o še-” in the clausal disjunction (this would block the FC reading)
+hebrew-ev-28,disj-spk-3,na,hebrew-con-1,infelicitous,2,
+hebrew-ev-29,disj-nspk-sta-exc-2,na,hebrew-con-1,infelicitous,2,
+hebrew-ev-30,disj-nspk-sta-inc-2,na,hebrew-con-1,infelicitous,2,
+hebrew-ev-31,neither-sta-2,na,hebrew-con-1,infelicitous,2,
+hebrew-ev-32,disj-spk-4,na,hebrew-con-3a,felicitous,2,
+hebrew-ev-33,disj-spk-4,na,hebrew-con-3b,felicitous,2,
+hebrew-ev-34,disj-nspk-epi-exc-2,na,hebrew-con-3a,felicitous,2,
+hebrew-ev-35,disj-nspk-epi-exc-2,na,hebrew-con-3b,felicitous,2,
+hebrew-ev-36,disj-nspk-epi-inc-2,na,hebrew-con-3a,felicitous,2,
+hebrew-ev-37,disj-nspk-epi-inc-2,na,hebrew-con-3b,felicitous,2,
+hebrew-ev-38,neither-epi-2,na,hebrew-con-3a,felicitous,2,
+hebrew-ev-39,neither-epi-2,na,hebrew-con-3b,felicitous,2,
+hebrew-ev-40,conj-contrast-sta-mod,na,hebrew-con-24,infelicitous,2,sounds a bit weird
+hebrew-ev-41,disj-spk-4-prime,na,hebrew-con-4,infelicitous,2,
+hebrew-ev-42,disj-nspk-sta-exc-3,na,hebrew-con-4,infelicitous,2,
+hebrew-ev-43,disj-nspk-sta-inc-3,na,hebrew-con-4,infelicitous,2,
+hebrew-ev-44,neither-sta-3,na,hebrew-con-4,infelicitous,2,
+hebrew-ev-45,conj-contrast-epi,na,hebrew-con-25,infelicitous,2,would be ok as a clarification
+hebrew-ev-46,conj-contrast-negp-sta,na,hebrew-con-26,felicitous,2,"That’s ok, but the pronoun has to be there."
+hebrew-ev-47,conj-contrast-negp-epi,na,hebrew-con-27,felicitous,2,s.a.
+hebrew-ev-48,conj-nocontrast-sta,na,hebrew-con-31a,infelicitous,2,
+hebrew-ev-49,conj-nocontrast-sta,na,hebrew-con-31b,infelicitous,2,
+hebrew-ev-50,conj-contrast-sta-mod,na,hebrew-con-32,infelicitous,2,
+hebrew-ev-51,disj-spk-2,na,hebrew-con-33,infelicitous,2,
+hebrew-ev-52,disj-nspk-sta-exc-mod,na,hebrew-con-34a,infelicitous,2,
+hebrew-ev-53,disj-nspk-sta-exc-mod,na,hebrew-con-34b,infelicitous,2,
+hebrew-ev-54,disj-nspk-sta-inc-mod,na,hebrew-con-35a,infelicitous,2,
+hebrew-ev-55,disj-nspk-sta-inc-mod,na,hebrew-con-35b,infelicitous,2,
+hebrew-ev-56,neither-sta,na,hebrew-con-36,infelicitous,2,well-formed but false in the context
+hebrew-ev-57,neither-sta,na,hebrew-con-37,infelicitous,2,generally bad without negation in the first conjunct
+hebrew-ev-58,disj-spk-2,na,hebrew-con-38,infelicitous,2,
+hebrew-ev-59,conj-nocontrast-sta-2,na,hebrew-con-10,infelicitous,2,means that only one of them is a doctor
+hebrew-ev-60,conj-nocontrast-sta-2,na,hebrew-con-11,infelicitous,2,"grammatical, but a little weird"
+hebrew-ev-61,conj-contrast-sta-2,na,hebrew-con-10,infelicitous,2,
+hebrew-ev-62,conj-contrast-sta-2,na,hebrew-con-11,infelicitous,2,
+hebrew-ev-63,disj-nspk-sta-exc-4,na,hebrew-con-10,felicitous,2,this is ok
+hebrew-ev-64,disj-nspk-sta-exc-4,na,hebrew-con-11,?/#,2,a bit awkward (conjoining two clauses w/o the complementizer)
+hebrew-ev-65,disj-nspk-sta-exc-4,na,hebrew-con-12,felicitous,2,
+hebrew-ev-66,disj-nspk-sta-exc-4,na,hebrew-con-39,?,2,"single ‘o’ seems unnatural in this example, not quite clear why, might be because of the copular/pronoun"
+hebrew-ev-67,disj-nspk-sta-inc-4,na,hebrew-con-10,infelicitous,2,strongly exclusive interpretation
+hebrew-ev-68,disj-nspk-sta-inc-4,na,hebrew-con-40,infelicitous,2,sounds a bit like you’re changing your mind (afterthought)
+hebrew-ev-69,disj-nspk-sta-inc-4,na,hebrew-con-11,infelicitous,2,
+hebrew-ev-70,disj-nspk-sta-inc-4,na,hebrew-con-28,felicitous,2,
+hebrew-ev-71,disj-nspk-sta-inc-4,na,hebrew-con-29,felicitous,2,
+hebrew-ev-72,disj-nspk-sta-inc-4,na,hebrew-con-30,felicitous,2,with ‘o … o’ it would more likely be interpreted exclusively
+hebrew-ev-73,neither-sta-4,na,hebrew-con-10,infelicitous,2,
+hebrew-ev-74,neither-sta-4,na,hebrew-con-11,infelicitous,2,
+hebrew-ev-75,disj-nspk-epi,na,hebrew-con-41,infelicitous,2,
+hebrew-ev-76,disj-nspk-sta-exc,na,hebrew-con-42,*,2,
+hebrew-ev-77,disj-nspk-sta-exc,na,hebrew-con-43,infelicitous,2,
+hebrew-ev-78,disj-nspk-epi-q-mod,na,hebrew-con-17a,felicitous,2,this is ok
+hebrew-ev-79,disj-nspk-epi-q-mod,na,hebrew-con-17b,felicitous,2,this is ok
+hebrew-ev-80,disj-nspk-epi-q-mod,na,hebrew-con-44,infelicitous,2,this is not good in a question
+hebrew-ev-81,neither-sta,na,hebrew-con-45,infelicitous,2,
+hebrew-ev-82,conj-nocontrast-sta-3,na,hebrew-con-19,infelicitous,2,
+hebrew-ev-83,conj-nocontrast-sta-3,na,hebrew-con-20,infelicitous,2,
+hebrew-ev-84,conj-contrast-sta-3,na,hebrew-con-19,infelicitous,2,"could be ok if it means that he’s sth. in between, but not in a conjunctive reading"
+hebrew-ev-85,conj-contrast-sta-3,na,hebrew-con-20,infelicitous,2,
+hebrew-ev-86,disj-spk-5,na,hebrew-con-19,infelicitous,2,
+hebrew-ev-87,disj-spk-5,na,hebrew-con-20,infelicitous,2,
+hebrew-ev-88,disj-nspk-sta-exc-5,na,hebrew-con-19,infelicitous,2,
+hebrew-ev-89,disj-nspk-sta-exc-5,na,hebrew-con-20,infelicitous,2,
+hebrew-ev-90,disj-nspk-sta-inc-5,na,hebrew-con-19,infelicitous,2,
+hebrew-ev-91,disj-nspk-sta-inc-5,na,hebrew-con-20,infelicitous,2,
+hebrew-ev-92,fc,na,hebrew-con-23,felicitous,2,this is ok
+hebrew-ev-93,fc,na,hebrew-con-46,infelicitous,2,this doesn’t have the FC reading

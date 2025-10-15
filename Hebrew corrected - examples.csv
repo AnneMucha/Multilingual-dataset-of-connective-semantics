@@ -1,0 +1,35 @@
+ref,expression,full form,words,gloss,translation,comment,questionnaire
+hebrew-con-1,ve,ve,Suzi hi rofʔa ve -hi mora.,S. she doctor.F CONN -she teacher.F,Susie is a doctor and she is a teacher.,,1
+hebrew-con-2,∅,juxtaposition,Suzi hi rofʔa hi mora.,,Susie is a doctor; she is a teacher.,Not so great (same as in English),1
+hebrew-con-3a,ve,ve,Pol cofe b-a-televizia ve megahec et ha-xulc-ot šel-o.,P. watch.prs.sg.m in-def-television CONN iron.prs.sg.m acc def-shirt-pl poss.3sg.m,Paul is watching TV and he is ironing his shirts.,,1
+hebrew-con-3b,ve,ve,Pol cofe b-a-televizia ve -hu megahec et ha-xulc-ot šel-o.,P. watch.prs.sg.m in-def-television CONN -he iron.prs.sg.m acc def-shirt-pl poss.3sg.m,Paul is watching TV and he is ironing his shirts.,,1
+hebrew-con-4,aval,aval,Suzi hi rofʔa aval hi ani-a.,S. she doctor.f CONN she poor-sg.f,Susie is a doctor but she is poor.,,1
+hebrew-con-5,aval,aval,Jen kanta glida aval hi kanta ot-a bišvil mišehu axer.,J. buy.pst.3sg.f ice.cream CONN she buy.pst.3sg.f acc-3sg.f for someone else,Jen bought ice cream but she bought it for a stranger.,,1
+hebrew-con-6,ela,ela,Pol hu lo rofe ela pkid kabala.,P. he neg doctor CONN clerk.of reception,Paul is not a doctor but he is a receptionist.,,1
+hebrew-con-7,ela,ela,Jen lo kanta glida ela šokolad.,J. neg buy.pst.3sg.f ice.cream CONN chocolate,Jen didn’t buy ice cream but she bought chocolate.,the ela reading is slightly harder to get when full clauses are conjoined (in English); with ela conjoining full clauses is not so good in this context,1
+hebrew-con-8a,o,o,Ha-tšuva hi alef o bet,def-answer she A CONN B,(Either) the answer to the question is A or the answer to the question is B.,,1
+hebrew-con-8b,o ... o,o ... o,Ha-tšuva hi o alef o bet,def-answer she CONN A CONN B,(Either) the answer to the question is A or the answer to the question is B.,,1
+hebrew-con-9,o ... o,o ... o,O še-ha-tšuva hi alef o še-hi bet,CONN comp-def-answer she A CONN comp-she B,(Either) the answer to the question is A or the answer to the question is B.,"Here, both o’s are required",1
+hebrew-con-10,o ... o,o ... o,O še-pol hu rofe o še-jon hu rofe,CONN comp-Paul he doctor CONN comp-pn he doctor,(Either) Paul is a doctor or John is a doctor.,,1
+hebrew-con-11,o,o,Pol hu rofe o jon hu rofe,P. he doctor CONN J. he doctor,(Either) Paul is a doctor or John is a doctor.,probably wouldn’t choose this one (above) [but volunteered],1
+hebrew-con-12,o ... o,o ... o,O pol o jon hu rofe,CONN P. CONN J. he doctor,(Either) Paul is a doctor or John is a doctor.,,1
+hebrew-con-13,o ... o,o ... o,O še-hišʔarti et ha-telefon šel-i b-a-avoda o še-hu nafal l-i b-a-derex ha-bayt-a.,CONN comp-leave.pst.1sg acc def-telephone poss-1sg in-def-work CONN comp-he fall.pst.3sg.m dat-1sg in-def-way def-house-allative,I left my phone at work or I dropped it on my way home.,,1
+hebrew-con-14,o ... o,o ... o,O še-jon rofe o še-hu sofer.,CONN comp-J. doctor CONN comp-he writer,John is a doctor or he is a writer.,,1
+hebrew-con-15,o ... o,o ... o,Jon hu o rofe o sofer.,J. he CONN doctor CONN writer,John is a doctor or he is a writer.,,1
+hebrew-con-16,o,o,Jon hu rofe o sofer (ulay šney-hem),J. he doctor CONN writer (maybe two.of-3pl.m),John is a doctor or he is a writer (maybe both).,,1
+hebrew-con-17a,o,o,Hišʔarta et ha-telefon šel-xa b-a-avoda o hišʔarta ot-o b-a-otobus?,leave-pst.2sg.m acc def-telephone poss-2sg.m in-def-work CONN leave-pst.2sg.m acc-3sg.m in-def-bus,Did you leave your phone at work or did you leave it on the bus?,,1
+hebrew-con-17b,o,o,Hišʔarta et ha-telefon šel-xa b-a-avoda o še-hišʔarta ot-o b-a-otobus?,leave-pst.2sg.m acc def-telephone poss-2sg.m in-def-work CONN comp-leave-pst.2sg.m acc-3sg.m in-def-bus,Did you leave your phone at work or did you leave it on the bus?,,1
+hebrew-con-18,o,o,Xanut alef moxeret et ha-mutag ha-ze o xanut bet moxeret et ha-mutag ha-ze?,shop A sell.prs.sg.f acc def-brand def-this CONN shop B sell.prs.sg.f acc def-brand def-this,Would Shop A sell this brand or would Shop B sell this brand?,,1
+hebrew-con-19,ve,lo ... ve-lo,Pol hu lo rofe ve-lo ax.,P. he neg doctor CONN -neg nurse,Paul is neither a doctor nor is he a nurse.,,1
+hebrew-con-20,o,lo ... o,Pol hu lo rofe o ax.,P. he neg doctor CONN nurse,Paul is neither a doctor nor is he a nurse.,,1
+hebrew-con-21,ve,lo ... ve-lo,Mayk lo kana glida ve-lo natan ot-a le-axot-o.,M. neg buy.pst.3sg.m ice.cream CONN -neg give.pst.3sg.m acc-3sg.f to-sister-3sg.m,Mike didn’t buy ice cream nor did he give it to his sister.,,1
+hebrew-con-22a,o,o,Pol yaxol leʔexol kapkeyk o ugiya.,P. can.prs.3sg.m eat.inf cupcake CONN cookie,Paul can eat a cupcake or he can eat a cookie.,,1
+hebrew-con-22b,o ... o,o ... o,Pol yaxol leʔexol o kapkeyk o ugiya.,P. can.prs.3sg.m eat.inf CONN cupcake CONN cookie,Paul can eat a cupcake or he can eat a cookie.,,1
+hebrew-con-23,o,o,Pol yaxol leʔexol kapkeyk o še-hu yaxol leʔexol ugiya.,P. can.prs.3sg.m eat.inf cupcake CONN comp-he can.prs.3sg.m eat.inf cookie,Paul can eat a cupcake or he can eat a cookie.,the complementiser is needed in the second example; no second “o še-” in the clausal disjunction (this would block the FC reading),1
+hebrew-con-24,∅,juxtaposition,"Suzi hi rofʔa , hi ani-a.",S. she doctor.f she poor-sg.f,"Susie is a doctor, she is poor.",sounds a bit weird,2
+hebrew-con-25,∅,juxtaposition,"Jen kanta glida, hi kanta ot-a bišvil mišehu axer.",J. buy.pst.3sg.f ice.cream she buy.pst.3sg.f acc-3sg.f for someone else,"Jen bought ice cream, she bought it for someone else.",would be ok as a clarification,2
+hebrew-con-26,∅,juxtaposition,"Pol hu lo rofe, hu pkid kabala.",P. he neg doctor he clerk.of reception,"Paul is not a doctor, he is a receptionist.","That’s ok, but the pronoun has to be there.",2
+hebrew-con-27,∅,juxtaposition,Jen lo kanta glida hi kanta šokolad.,J. neg buy.pst.3sg.f ice.cream buy.pst.3sg.f chocolate,Jen didn't buy ice cream she bought chocolate.,s.a.,2
+hebrew-con-28,o,o,Pol hu rofe o jon hu rofe (ulay šney-hem),,Paul is a doctor or John is a doctor (maybe both of them).,,2
+hebrew-con-29,o ... o,o ... o,O Pol o Jon hu rofe (ulay šney-hem),,Either Paul or John is a doctor (maybe both of them).,,2
+hebrew-con-30,o,o,Pol o jon yavou,P. conn J. fut.come,Paul or John will come.,with ‘o … o’ it would more likely be interpreted exclusively,2
