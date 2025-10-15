@@ -1,0 +1,97 @@
+ref,context,premise,example,judgment,questionnaire,comment
+spa_ev_001,conj-nocontrast-sta,na,spa_001,felicitous,Q1,NA
+spa_ev_002,conj-nocontrast-sta,na,spa_002,felicitous,Q1,NA
+spa_ev_003,conj-nocontrast-epi,na,spa_003,felicitous,Q1,NA
+spa_ev_004,conj-nocontrast-epi,na,spa_004,felicitous,Q1,NA
+spa_ev_005,conj-contrast-sta-mod,na,spa_005,felicitous,Q1,“es” has to be there
+spa_ev_006,conj-contrast-epi,na,spa_006,felicitous,Q1,NA
+spa_ev_007,conj-contrast-negp-sta,na,spa_007,felicitous,Q1,NA
+spa_ev_008,conj-contrast-negp-sta,na,spa_008,felicitous,Q1,NA
+spa_ev_009,conj-contrast-negp-epi,na,spa_009,felicitous,Q1,NA
+spa_ev_010,conj-contrast-negp-epi,na,spa_010,felicitous,Q1,NA
+spa_ev_011,disj-spk-1,na,spa_011,felicitous,Q1,NA
+spa_ev_012,disj-spk-1,na,spa_012,felicitous,Q1,NA
+spa_ev_013,disj-spk-2,na,spa_013,felicitous,Q1,NA
+spa_ev_014,disj-spk-2,na,spa_014,felicitous,Q1,NA
+spa_ev_015,disj-nspk-epi,na,spa_015,felicitous,Q1,O… o ~ either … or
+spa_ev_016,disj-nspk-sta-exc-mod,na,spa_016,felicitous,Q1,elliptical constructions are possible with context
+spa_ev_017,disj-nspk-sta-inc-mod,na,spa_017,felicitous,Q1,NA
+spa_ev_018,disj-nspk-sta-inc-mod,na,spa_018,felicitous,Q1,NA
+spa_ev_019,disj-nspk-epi-q-mod,na,spa_019,felicitous,Q1,NA
+spa_ev_020,disj-nspk-sta-inc-q,na,spa_020,felicitous,Q1,NA
+spa_ev_021,disj-nspk-sta-inc-q,na,spa_021,felicitous,Q1,NA
+spa_ev_022,neither-sta,na,spa_022,felicitous,Q1,NA
+spa_ev_023,neither-epi,na,spa_023,felicitous,Q1,NA
+spa_ev_024,fc,na,spa_024,felicitous,Q1,NA
+spa_ev_025,fc,na,spa_025,felicitous,Q1,NA
+spa_ev_026,fc,na,spa_026,felicitous,Q1,NA
+spa_ev_027,fc,na,spa_027,felicitous,Q1,NA
+spa_ev_028,negative,na,spa_028,felicitous,Q1,NA
+spa_ev_029,negative,na,spa_029,felicitous,Q1,sea= is.sbjv
+spa_ev_030,conj-nocontrast-sta,na,spa_030,infelicitous,Q2,"sounds contradictory, or needs something in addition (in an enumeration)"
+spa_ev_031,conj-nocontrast-sta,na,spa_031,infelicitous,Q2,"sounds contradictory, or needs something in addition (in an enumeration)"
+spa_ev_032,disj-spk-3,na,spa_001,infelicitous,Q2,NA
+spa_ev_033,disj-spk-3,na,spa_002,infelicitous,Q2,NA
+spa_ev_034,disj-nspk-sta-exc-2,na,spa_001,infelicitous,Q2,NA
+spa_ev_035,disj-nspk-sta-exc-2,na,spa_002,infelicitous,Q2,NA
+spa_ev_036,disj-nspk-sta-inc-2,na,spa_001,infelicitous,Q2,NA
+spa_ev_037,disj-nspk-sta-inc-2,na,spa_002,infelicitous,Q2,NA
+spa_ev_038,neither-sta-2,na,spa_001,infelicitous,Q2,NA
+spa_ev_039,neither-sta-2,na,spa_002,infelicitous,Q2,NA
+spa_ev_040,conj-nocontrast-epi,na,spa_032,infelicitous,Q2,NA
+spa_ev_041,conj-nocontrast-epi,na,spa_033,infelicitous,Q2,NA
+spa_ev_042,disj-spk-4,na,spa_003,felicitous,Q2,NA
+spa_ev_043,disj-spk-4,na,spa_004,felicitous,Q2,NA
+spa_ev_044,disj-nspk-epi-exc-2,na,spa_003,felicitous,Q2,NA
+spa_ev_045,disj-nspk-epi-exc-2,na,spa_004,felicitous,Q2,NA
+spa_ev_046,disj-nspk-epi-inc-2,na,spa_003,felicitous,Q2,NA
+spa_ev_047,disj-nspk-epi-inc-2,na,spa_004,felicitous,Q2,NA
+spa_ev_048,neither-epi-2,na,spa_003,felicitous,Q2,NA
+spa_ev_049,neither-epi-2,na,spa_004,felicitous,Q2,NA
+spa_ev_050,conj-contrast-sta-mod,na,spa_034,infelicitous,Q2,"sounds contradictory, would make more sense with a low-paying job"
+spa_ev_051,conj-contrast-sta-mod,na,spa_035,infelicitous,Q2,"sounds contradictory, would make more sense with a low-paying job"
+spa_ev_052,disj-spk-4-prime,na,spa_005,infelicitous,Q2,NA
+spa_ev_053,disj-nspk-sta-exc-3,na,spa_005,infelicitous,Q2,"wouldn’t use pero here, (maybe y)"
+spa_ev_054,disj-nspk-sta-inc-3,na,spa_005,infelicitous,Q2,NA
+spa_ev_055,neither-sta-3,na,spa_005,infelicitous,Q2,NA
+spa_ev_056,conj-contrast-epi,na,spa_036,felicitous,Q2,"that’s ok, translated as “Jen bought an ice cream, she bought it for a stranger.” (a bit narrative-like)"
+spa_ev_057,conj-contrast-negp-sta,na,spa_037,felicitous,Q2,that’s fine
+spa_ev_058,conj-contrast-negp-epi,na,spa_038,felicitous,Q2,that’s okay too
+spa_ev_059,conj-nocontrast-sta,na,spa_039,infelicitous,Q2,this sounds contradictory
+spa_ev_060,conj-nocontrast-sta,na,spa_040,infelicitous,Q2,this sounds contradictory
+spa_ev_061,conj-nocontrast-sta,na,spa_041,felicitous,Q2,NA
+spa_ev_062,conj-nocontrast-sta,na,spa_042,felicitous,Q2,NA
+spa_ev_063,conj-contrast-sta-mod,na,spa_043,infelicitous,Q2,NA
+spa_ev_064,conj-contrast-sta-mod,na,spa_044,felicitous,Q2,NA
+spa_ev_065,disj-spk-2,na,spa_045,infelicitous,Q2,NA
+spa_ev_066,disj-spk-2,na,spa_046,felicitous,Q2,NA
+spa_ev_067,disj-nspk-sta-exc-mod,na,spa_047,infelicitous,Q2,NA
+spa_ev_068,disj-nspk-sta-exc-mod,na,spa_048,felicitous,Q2,NA
+spa_ev_069,disj-nspk-sta-inc-mod,na,spa_047,infelicitous,Q2,NA
+spa_ev_070,disj-nspk-sta-inc-mod,na,spa_048,felicitous,Q2,NA
+spa_ev_071,neither-sta,na,spa_049,infelicitous,Q2,NA
+spa_ev_072,neither-sta,na,spa_050,felicitous,Q2,NA
+spa_ev_073,disj-spk-2,na,spa_051,infelicitous,Q2,NA
+spa_ev_074,conj-nocontrast-sta-2,na,spa_013,infelicitous,Q2,NA
+spa_ev_075,conj-nocontrast-sta-2,na,spa_052,infelicitous,Q2,NA
+spa_ev_076,conj-contrast-sta-2,na,spa_013,infelicitous,Q2,NA
+spa_ev_077,conj-contrast-sta-2,na,spa_052,infelicitous,Q2,NA
+spa_ev_078,disj-nspk-sta-exc-4,na,spa_013,?,Q2,"both mean either/or, second sentence makes more sense"
+spa_ev_079,disj-nspk-sta-exc-4,na,spa_052,felicitous,Q2,"both mean either/or, second sentence makes more sense"
+spa_ev_080,disj-nspk-sta-inc-4,na,spa_013,infelicitous,Q2,"to make it work, it needs another disjunct with “o” (would work with both sentences then again, second sentence sounds more natural"
+spa_ev_081,disj-nspk-sta-inc-4,na,spa_052,infelicitous,Q2,"to make it work, it needs another disjunct with “o” (would work with both sentences then again, second sentence sounds more natural"
+spa_ev_082,neither-sta-4,na,spa_013,infelicitous,Q2,NA
+spa_ev_083,neither-sta-4,na,spa_052,infelicitous,Q2,NA
+spa_ev_084,disj-nspk-epi,na,spa_053,infelicitous,Q2,"Translation “I left my phone at work, it fell on my way home.”"
+spa_ev_085,disj-nspk-sta-exc,na,spa_054,infelicitous,Q2,NA
+spa_ev_086,disj-nspk-epi-q,na,spa_055,infelicitous,Q2,"doesn’t work as an alternative question; means sth. like “Are you saying that you either left your phone at work or at the bus?”; for the intended meaning, omit the first “o”"
+spa_ev_087,neither-sta,na,spa_056,infelicitous,Q2,NA
+spa_ev_088,neither-sta,na,spa_057,infelicitous,Q2,NA
+spa_ev_089,conj-nocontrast-sta-3,na,spa_022,infelicitous,Q2,NA
+spa_ev_090,conj-nocontrast-sta-3,na,spa_058,*,Q2,NA
+spa_ev_091,conj-contrast-sta-3,na,spa_022,infelicitous,Q2,NA
+spa_ev_092,disj-spk-5,na,spa_022,infelicitous,Q2,NA
+spa_ev_093,disj-nspk-sta-exc-5,na,spa_022,infelicitous,Q2,NA
+spa_ev_094,disj-nspk-sta-inc-5,na,spa_022,infelicitous,Q2,NA
+spa_ev_095,fc,na,spa_059,infelicitous,Q2,"the first sentence is a lot better, the second one implies that the speaker is not sure “Either P can eat a cupcake or he can eat a cookie.” (not a FC reading)"
+spa_ev_096,fc,na,spa_060,infelicitous,Q2,"the first sentence is a lot better, the second one implies that the speaker is not sure “Either P can eat a cupcake or he can eat a cookie.” (not a FC reading)"
