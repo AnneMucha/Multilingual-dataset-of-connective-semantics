@@ -1,0 +1,67 @@
+expression,full form,shorthand,kboth,kneither,contrast,stative,negated_p,Kp,question,fc,can_express,evidence,negation,comments
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,EVD_TEL_058,neither,"In A1, requires a certain intonation"
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,EVD_TEL_011,neither,"In A1, requires a certain intonation"
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"EVD_TEL_006,EVD_TEL_036,EVD_TEL_037",neither,Conflicting evidence exists. Judged felicitous in Q1 but infelicitous/marginal in Q2.
+∅,∅,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,EVD_TEL_014,neither,"In A1, requires a certain intonation"
+∅,∅,disj-nspk-epi,0,0,1,0,0,0,0,0,1,EVD_TEL_079,neither,"In A1, requires a certain intonation"
+∅,∅,disj-spk,0,0,,0,0,1,0,0,0,EVD_TEL_063,neither,"In A1, requires a certain intonation"
+...aa...aa,...aa...aa,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,EVD_TEL_025,neither,-aa' = question particle
+...aa...aa,...aa...aa,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,EVD_TEL_027,neither,-aa' = question particle
+...ainaa...ainaa,...ainaa...ainaa,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,EVD_TEL_090,neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,EVD_TEL_088,neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,disj-nspk-q-exc,0,0,1,0,0,0,1,0,0,"EVD_TEL_098,EVD_TEL_099",neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,fc,0,0,,0,0,0,0,1,1,"EVD_TEL_032,EVD_TEL_034",neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,conj-nocontrast-epi,1,0,0,0,0,1,0,0,0,EVD_TEL_082,neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,conj-contrast-epi,1,0,1,0,0,1,0,0,0,EVD_TEL_084,neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,disj-spk,0,0,,0,0,1,0,0,0,EVD_TEL_086,neither,"in free choice, there is no exclusivity implication"
+...ainaa...ainaa,...ainaa...ainaa,neither-epi,0,1,,0,1,0,0,0,0,EVD_TEL_092,neither,"in free choice, there is no exclusivity implication"
+leeda,...ainaa leeda...ainaa,fc,0,0,,0,0,0,0,1,1,EVD_TEL_033,neither,"in free choice, there is exclusivity implicature"
+...kaadu...kaadu,...kaadu...kaadu,neither-sta,0,1,,1,0,0,0,0,1,"EVD_TEL_028,EVD_TEL_029",below,kaadu' = to negate a copula
+...leedu...leedu,...leedu...leedu,neither-epi,0,1,,0,1,0,0,0,1,EVD_TEL_030,below,leedu = negation
+...oo..oo,...oo..oo,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,EVD_TEL_089,neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,EVD_TEL_022,neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,disj-nspk-q-exc,0,0,1,0,0,0,1,0,0,"EVD_TEL_096,EVD_TEL_097",neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,fc,0,0,,0,0,0,0,1,0,"EVD_TEL_100,EVD_TEL_101",neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,conj-nocontrast-epi,1,0,0,0,0,1,0,0,0,EVD_TEL_081,neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,conj-contrast-epi,1,0,1,0,0,1,0,0,0,EVD_TEL_083,neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,disj-spk,0,0,,0,0,1,0,0,0,EVD_TEL_085,neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+...oo..oo,...oo..oo,neither-epi,0,1,,0,1,0,0,0,0,EVD_TEL_091,neither,disjunction -oo is possible if it is on object NPs; a full-clausal disjunction with '-oo' seems to be possible only if the clause is embedded
+inka,inka,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"EVD_TEL_007,EVD_TEL_008",neither,
+inka,inka,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,EVD_TEL_001,neither,
+inka,inka,disj-spk,0,0,,0,0,1,0,0,0,EVD_TEL_038,neither,
+inka,inka,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,EVD_TEL_048,neither,
+inka,inka,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,EVD_TEL_043,neither,
+inka,inka,neither-sta,0,1,,1,0,0,0,0,0,EVD_TEL_053,neither,
+kaani,kaani,conj-contrast-epi,1,0,1,0,0,1,0,0,1,EVD_TEL_013,neither,prosodic boundary is required before 'kaani'
+kaani,kaani,conj-contrast-sta,1,0,1,1,0,1,0,0,1,EVD_TEL_012,neither,prosodic boundary is required before 'kaani'
+kaani,kaani,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,EVD_TEL_015,neither,prosodic boundary is required before 'kaani'
+kaani,kaani,disj-spk,0,0,,0,0,1,0,0,0,EVD_TEL_059,neither,prosodic boundary is required before 'kaani'
+kaani,kaani,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,EVD_TEL_061,neither,prosodic boundary is required before 'kaani'
+kaani,kaani,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,EVD_TEL_060,neither,prosodic boundary is required before 'kaani'
+kaani,kaani,neither-sta,0,1,,1,0,0,0,0,0,EVD_TEL_062,neither,prosodic boundary is required before 'kaani'
+leeda,leeda,disj-spk,0,0,,0,0,1,0,0,1,"EVD_TEL_016,EVD_TEL_019",neither,"in free choice, there is exclusivity implication"
+leeda,leeda,disj-nspk-epi,0,0,1,0,0,0,0,0,1,EVD_TEL_020,neither,"in free choice, there is exclusivity implication"
+leeda,leeda,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"EVD_TEL_021,EVD_TEL_070",neither,"in free choice, there is exclusivity implication"
+leeda,...aa leeda...aa,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,"EVD_TEL_026,EVD_TEL_093",neither,
+leeda,leeda,fc,0,0,,0,0,0,0,1,1,"EVD_TEL_031,EVD_TEL_035",neither,"in free choice, there is exclusivity implication"
+leeda,leeda,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,EVD_TEL_064,neither,"in free choice, there is exclusivity implication"
+leeda,leeda,conj-contrast-sta,1,0,1,1,0,1,0,0,0,EVD_TEL_067,neither,"in free choice, there is exclusivity implication"
+leeda,leeda,neither-sta,0,0,,1,0,0,0,0,0,EVD_TEL_076,neither,"in free choice, there is exclusivity implication"
+ledante,ledante,disj-spk,0,0,,0,0,1,0,0,1,"EVD_TEL_018,EVD_TEL_021",neither,
+ledante,ledante,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,EVD_TEL_072,neither,
+ledante,..aa ledante … aa,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,EVD_TEL_095,neither,
+ledante,ledante,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,EVD_TEL_066,neither,
+ledante,ledante,conj-contrast-sta,1,0,1,1,0,1,0,0,0,EVD_TEL_069,neither,
+ledante,ledante,neither-sta,0,0,,1,0,0,0,0,0,EVD_TEL_078,neither,
+leekapote,leekapote,disj-spk,0,0,,0,0,1,0,0,1,"EVD_TEL_017,EVD_TEL_020",neither,
+leekapote,leekapote,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,EVD_TEL_071,neither,
+leekapote,..aa leekapote … aa,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,EVD_TEL_094,neither,
+leekapote,leekapote,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,EVD_TEL_065,neither,
+leekapote,leekapote,conj-contrast-sta,1,0,1,1,0,1,0,0,0,EVD_TEL_068,neither,
+leekapote,leekapote,neither-sta,0,0,,1,0,0,0,0,0,EVD_TEL_077,neither,
+mariyu,mariyu,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"EVD_TEL_009,EVD_TEL_010",neither,
+mariyu,mariyu,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"EVD_TEL_002,EVD_TEL_003,EVD_TEL_004,EVD_TEL_005",neither,
+mariyu,mariyu,disj-spk,0,0,,0,0,1,0,0,0,"EVD_TEL_039,EVD_TEL_040,EVD_TEL_041,EVD_TEL_042",neither,
+mariyu,mariyu,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"EVD_TEL_049,EVD_TEL_050,EVD_TEL_051,EVD_TEL_052",neither,
+mariyu,mariyu,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"EVD_TEL_044,EVD_TEL_045,EVD_TEL_046,EVD_TEL_047",neither,
+mariyu,mariyu,neither-sta,0,1,,1,0,0,0,0,0,"EVD_TEL_054,EVD_TEL_055,EVD_TEL_056,EVD_TEL_057",neither,
