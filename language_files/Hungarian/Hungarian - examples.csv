@@ -1,0 +1,59 @@
+ref,expression,full form,words,glosses,translation,comment,questionnaire
+HUN-001,és,és,Susie orvos és tanár.,Susie.nom doctor and teacher,Susie is a doctor and she is a teacher.,"Pronoun ő only if very stressed - syntactically possible, semantically weird",Q1
+HUN-002,∅,∅,Susie orvos; Susie tanár,,Susie is a doctor; she is a teacher.,better,Q1
+HUN-003,és,és,Paul tv-t néz és vasalja a ingjeit.,paul.nom tv-acc watch.npst.3sg and iron.npst.3sg the shirt.pl.poss.3sg.acc,Paul is watching TV and he is ironing his shirts.,,Q1
+HUN-004,∅,∅,Paul nézi a tv-t; Paul vasalja az ingjeit.,,Paul is watching TV; he is ironing his shirts.,not with the pronoun - difficult for understanding coreference,Q1
+HUN-005,de,de,Susie orvos de szegény.,Susie doctor but poor.,Susie is a doctor but she is poor.,,Q1
+HUN-006,de,de,Susie orvos de ő szegény.,Susie doctor but she poor,Susie is a doctor but she is poor.,pointing to the fact that she is the one who is poor out of a set of doctors.,Q1
+HUN-007,de,de,Jen vett egy fagyaltot de egy idegennek vette.,Jen buy.pst.3sg a ice.cream.ACC but a stanger.DAT buy.pst.3sg,Jen bought ice cream but she bought it for a stranger.,"Because there is a contrast, the second conjunct can have a pronoun",Q1
+HUN-008,de,de,Jen vett egy fagyaltot de ő egy idegennek vette.,Jen buy.pst.3sg a ice.cream.ACC but she a stanger.DAT buy.pst.3sg,Jen bought ice cream but she bought it for a stranger.,"Because there is a contrast, the second conjunct can have a pronoun",Q1
+HUN-009,∅,∅,Paul nem orvos; ő recepciós.,Paul not doctor he receptionist,Paul is not a doctor but he is a receptionist.,,Q1
+HUN-010,hanem,hanem,"Paul nem orvos, hanem recepciós.",Paul not doctor but receptionist.,Paul is not a doctor but he is a receptionist.,ha nem - if not; hanem - but,Q1
+HUN-011,hanem,hanem,"Paul nem orvos, hanem ő recepciós.",Paul not doctor but he receptionist.,Paul is not a doctor but he is a receptionist.,ha nem - if not; hanem - but,Q1
+HUN-012,hanem,hanem,Jen nem vett fagylaltot hanem csokoládét vett.,Jan not buy.pst.3sg ice.cream.ACC but chocolate.ACC buy.pst.3sg,Jen didn’t buy ice cream but she bought chocolate.,Ő a bit redundant,Q1
+HUN-013,hanem,hanem,Jen nem vett fagylaltot hanem ő csokoládét vett.,Jan not buy.pst.3sg ice.cream.ACC but she chocolate.ACC buy.pst.3sg,Jen didn’t buy ice cream but she bought chocolate.,Ő a bit redundant,Q1
+HUN-014,vagy,vagy…vagy,A kérdésre a válasz vagy A vagy B.,The question.for the answer or A or B,(Either) the answer to the question is A or the answer to the question is B.,Double vagy is strongly preferred here because if we use single vagy we need more clarification.,Q1
+HUN-015,vagy,vagy…vagy,A kérdésre a válasz vagy A vagy a kérdésre a válasz B.,The question.for the answer or A or the question.for the answer B,(Either) the answer to the question is A or the answer to the question is B.,Double vagy is strongly preferred here because if we use single vagy we need more clarification.,Q1
+HUN-016,vagy,vagy…vagy,Vagy az A vagy a B a válasz a kérdésre.,Or the A or the B the answer the question.for,(Either) the answer to the question is A or the answer to the question is B.,,Q1
+HUN-017,vagy,vagy…vagy,Vagy Paul vagy John orvos.,Or Paul or john doctor,(Either) Paul is a doctor or John is a doctor.,"Double vagy emphasises only one of the options is true, can’t be both",Q1
+HUN-018,vagy,vagy…vagy,Vagy Paul orvos vagy John orvos.,Or Paul doctor or john doctor,(Either) Paul is a doctor or John is a doctor.,"Double vagy emphasises only one of the options is true, can’t be both",Q1
+HUN-019,vagy,vagy,Paul vagy John orvos.,Paul or john doctor,(Either) Paul is a doctor or John is a doctor.,One vagy is also acceptable (good?) in this context: normally people would infer only one is a doctor,Q1
+HUN-020,vagy,vagy,Paul orvos vagy John orvos.,Paul doctor or john doctor,(Either) Paul is a doctor or John is a doctor.,One vagy is also acceptable (good?) in this context: normally people would infer only one is a doctor,Q1
+HUN-021,vagy,vagy…vagy,Vagy otthagytam a telefonomat a munkában vagy leejtettem hazafelé jövet.,Or there.leave.pst.1sg the phone.poss.1sg.acc the work.in or prt.drop.pst.1sg home.to coming,I left my phone at work or I dropped it on my way home.,Better to use double vagy even in naturally exclusive contexts,Q1
+HUN-022,vagy,vagy,John orvos vagy író.,John doctor or writer,John is a doctor or he is a writer.,"Single vagy, could leave open another option (the possibility that he is both)",Q1
+HUN-023,vagy,vagy…vagy,John vagy orvos vagy író.,John or doctor or writer,John is a doctor or he is a writer.,"Double vagy, more confident",Q1
+HUN-024,vagy,vagy,John orvos vagy író de lehet mindkettő.,John doctor or writer but maybe both,John is a doctor or he is a writer (maybe both).,"Without (maybe both) - single vagy, because you needn’t choose one",Q1
+HUN-025,vagy,vagy…vagy,John vagy orvos vagy író vagy mindkettő.,John or doctor or writer or both,John is a doctor or he is a writer (maybe both).,,Q1
+HUN-026,vagy,vagy,A telefonodat a munkában hagytad vagy otthagytad a buszon?,The phone.poss.2sg.acc the work.in leave.pst.2sg or there.leave.pst.2sg the bus.on,Did you leave your phone at work or did you leave it on the bus?,No double vagy here because it’s guessing: you don’t have to choose one,Q1
+HUN-027,vagy,vagy,Az A boltban vagy a B boltban árulnak ilyen márkát?,The a shop.in or the B shop.in sell.3pl that brand.ACC,Would Shop A sell this brand or would Shop B sell this brand?,"Single vagy, same as before",Q1
+HUN-028,se nem,se nem…se nem,Paul se nem orvos se nem ápoló.,Paul neg not doctor neg not nurse,Paul is neither a doctor nor is he a nurse.,"Se nem X se nem Y - slightly obscure. Seen occasionally, such as in written texts and L2 materials; older generations (?).",Q1
+HUN-029,se nem,se nem…se nem,Mike se nem vett fagylatot se nem adta oda a testvérének.,Mike neg not buy.pst.3sg ice.cream.acc nog not buy.pst.3sg there the sibling.poss.3sg.DAT,Mike didn’t buy ice cream nor did he give it to his sister.,,Q1
+HUN-030,vagy,vagy,Paul megeheti a muffint vagy a sütit.,Paul prt.eat.mod.3sg the cup.cake.acc or the cookie.acc,Paul can eat a cupcake or he can eat a cookie.,both single/double vagy are ok. Single more likely to be only one,Q1
+HUN-031,vagy,vagy…vagy,Paul megeheti vagy a muffint vagy a sütit.,Paul prt.eat.mod.3sg or the cup.cake.acc or the cookie.acc,Paul can eat a cupcake or he can eat a cookie.,both single/double vagy are ok,Q1
+HUN-032,∅,∅,Susie orvos; Susie tanár,,Susie is a doctor; Susie is a teacher.,The connective és is preferred here.,Q2
+HUN-033,és,és,Susie orvos és tanár.,Susie.nom doctor and teacher,Susie is a doctor and a teacher.,,Q2
+HUN-034,∅,∅,Susie orvos; ő szegény.,Susie doctor she poor,Susie is a doctor; she is poor.,"the sentence itself is not unnatural, but the contrast is not expressed.",Q2
+HUN-035,∅,∅,Paul nem orvos; ő recepciós.,Paul not doctor he receptionist,Paul is not a doctor; he is a receptionist.,,Q2
+HUN-036,∅,∅,Jen nem vett fagylaltot; csokoládét vett.,Jan not buy.pst.3sg ice.cream.ACC; chocolate.ACC buy.pst.3sg,Jen didn’t buy ice cream; she bought chocolate.,,Q2
+HUN-037,∅,∅,Jen nem vett fagylaltot; ő csokoládét vett.,Jan not buy.pst.3sg ice.cream.ACC; she chocolate.ACC buy.pst.3sg,Jen didn’t buy ice cream; she bought chocolate.,,Q2
+HUN-038,∅,∅,Jen nem fagylaltot vett; csokoládét vett.,Jan not ice.cream.ACC buy.pst.3sg; chocolate.ACC buy.pst.3sg,Jen didn’t buy ice cream; she bought chocolate.,,Q2
+HUN-039,∅,∅,Jen nem fagylaltot vett; ő csokoládét vett.,Jan not ice.cream.ACC buy.pst.3sg; she chocolate.ACC buy.pst.3sg,Jen didn’t buy ice cream; she bought chocolate.,,Q2
+HUN-040,hanem,hanem,Susie orvos hanem tanár.,Susie.nom doctor CON teacher,Susie is a doctor and a teacher.,the first conjunct has to be negated.,Q2
+HUN-041,hanem,hanem,Susie orvos hanem szegény.,Susie doctor CON poor.,Susie is a doctor but she is poor.,the first conjunct has to be negated.,Q2
+HUN-042,hanem,hanem,Susie orvos hanem ő szegény.,Susie doctor CON she poor,Susie is a doctor but she is poor.,the first conjunct has to be negated.,Q2
+HUN-043,hanem,hanem,Paul orvos hanem John orvos,,Paul is a doctor or John is a doctor.,the first conjunct has to be negated.,Q2
+HUN-044,hanem,hanem,John orvos hanem író.,,John is a doctor or he is a writer.,the first conjunct has to be negated.,Q2
+HUN-045,hanem,hanem,John orvos hanem író de lehet mindkettő.,John doctor CON writer but maybe both,John is a doctor or he is a writer (maybe both).,the first conjunct has to be negated.,Q2
+HUN-046,hanem,hanem,Paul orvos hanem ápoló.,,Paul is neither a doctor nor is he a nurse.,the first conjunct has to be negated.,Q2
+HUN-047,∅,∅,Paul orvos John orvos.,Paul doctor John doctor,(Either) Paul is a doctor or John is a doctor.,,Q2
+HUN-048,vagy,vagy,Paul orvos vagy John orvos.,Paul doctor or John doctor,Paul and John are both doctors.,"It may be logically correct, but is infelicitous.",Q2
+HUN-049,vagy,vagy…vagy,Vagy Paul orvos vagy John orvos.,Or Paul doctor or John doctor,Paul and John are both doctors.,"It may be logically correct, but is infelicitous.",Q2
+HUN-050,vagy,vagy,Paul orvos vagy John orvos.,Paul doctor or john doctor,Paul is a doctor or John is a doctor.,"In the case of double vagy, it emphasizes the exclusiveness “one one of them is a doctor”.",Q2
+HUN-051,vagy,vagy…vagy,Vagy Paul orvos vagy John orvos.,Or Paul doctor or john doctor,Paul is a doctor or John is a doctor.,"In the case of double vagy, it emphasizes the exclusiveness “one one of them is a doctor”.",Q2
+HUN-052,vagy,vagy…vagy,Vagy Paul orvos vagy John orvos.,Or Paul doctor or john doctor,Paul is a doctor or John is a doctor (maybe both).,,Q2
+HUN-053,vagy,vagy,Paul orvos vagy John orvos.,Paul doctor or john doctor,Paul is a doctor or John is a doctor (maybe both).,,Q2
+HUN-054,∅,∅,otthagytam a telefonomat a munkában leejtettem hazafelé jövet.,there.leave.pst.1sg the phone.poss.1sg.acc the work.in prt.drop.pst.1sg home.to coming,I left my phone at work or I dropped it on my way home.,,Q2
+HUN-055,∅,∅,John orvos ő író.,John doctor he writer,John is a doctor or he is a writer.,,Q2
+HUN-056,vagy,vagy…vagy,John vagy orvos vagy író.,John or doctor or writer,"John is a doctor, or he is a writer, or he might be both.","The sentence could be felicitous if the sentence is uttered with a tone of uncertainty (indicated with intonation, pausing, and other co-speech modality).",Q2
+HUN-057,vagy,vagy…vagy,John vagy orvos vagy író vagy mindkettő.,John or doctor or writer or both,"John is a doctor, or he is a writer, or he might be both.","Again, one needs indication of uncertainty.",Q2
+HUN-058,vagy,vagy…vagy,A telefonodat vagy a munkában hagytad vagy otthagytad a buszon?,,Did you leave your phone at work or did you leave it on the bus?,"The double vagy version is a Yes/No question, which is making sure that the addressee hasn’t lost the phone anywhere else.",Q2

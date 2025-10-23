@@ -1,0 +1,1395 @@
+expression,full_form,shorthand,kboth,kneither,contrast,stative,negated_p,Kp,question,fc,can_express,evidence,negation,comments,source_file,ref,words,glosses,translation,comment,questionnaire
+(na) emom,(na) emom,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,akan_evidence_10,neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"akan_evidence_8,akan_evidence_9",neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"akan_evidence_53,akan_evidence_54",neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"akan_evidence_51,akan_evidence_52",neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,disj-nspk-exc-sta,0,0,,1,0,0,0,0,0,"akan_evidence_57,akan_evidence_58",neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,disj-nspk-inc-sta,?,0,,1,0,0,0,0,0,"akan_evidence_59,akan_evidence_60",neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,disj-spk-sta,0,0,,1,0,1,0,0,0,"akan_evidence_55,akan_evidence_56",neither,,Akan,NA,NA,NA,NA,NA,NA
+(na) emom,(na) emom,neither-sta,0,1,,1,0,0,0,0,0,"akan_evidence_61,akan_evidence_62,akan_evidence_63,akan_evidence_64",neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,-n- … anaa sɛ …,neither-epi,0,1,,0,1,0,0,0,1,"akan_evidence_25,akan_evidence_26",above,,Akan,NA,NA,NA,NA,NA,NA
+anaa,-n- … anaa sɛ …,neither-sta,0,1,,1,0,0,0,0,1,akan_evidence_23,above,,Akan,NA,NA,NA,NA,NA,NA
+nso,-n- … nso … -n- …,neither-sta,0,1,,1,0,0,0,0,1,akan_evidence_24,below,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,akan_evidence_69,neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa,disj-nspk-exc-sta,0,0,,1,0,0,0,0,?,akan_evidence_73,neither,Conflicting evidence: ?,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa,disj-spk-sta,0,0,,1,0,1,0,0,1,akan_evidence_11,neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa sɛ,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,akan_evidence_68,neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa sɛ,disj-nspk-exc-epi,0,0,1,0,0,0,0,0,1,"akan_evidence_14,akan_evidence_15",neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa sɛ,disj-nspk-exc-sta,0,0,,1,0,0,0,0,1,"akan_evidence_16,akan_evidence_72",neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa sɛ,disj-nspk-inc-sta,?,0,,1,0,0,0,0,1,akan_evidence_17,neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa sɛ,disj-nspk-q,0,0,1,0,0,0,1,0,1,"akan_evidence_18,akan_evidence_19,akan_evidence_20,akan_evidence_21,akan_evidence_22",neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,anaa sɛ,fc,0,0,,0,0,0,0,1,1,akan_evidence_27,neither,,Akan,NA,NA,NA,NA,NA,NA
+anaa,either sɛ … anaa sɛ,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"akan_evidence_66,akan_evidence_67",neither,"Conflicting evidence: *, infelicitous",Akan,NA,NA,NA,NA,NA,NA
+anaa,either sɛ … anaa sɛ,disj-nspk-exc-sta,0,0,,1,0,0,0,0,?,"akan_evidence_70,akan_evidence_71",neither,"Conflicting evidence: *, felicitous",Akan,NA,NA,NA,NA,NA,NA
+anaa,either sɛ … anaa sɛ,disj-spk-sta,0,0,,1,0,1,0,0,1,"akan_evidence_12,akan_evidence_13",neither,,Akan,NA,NA,NA,NA,NA,NA
+nanso,nanso,conj-contrast-epi,1,0,1,0,0,1,0,0,1,akan_evidence_7,neither,,Akan,NA,NA,NA,NA,NA,NA
+nanso,nanso,conj-contrast-sta,1,0,1,1,0,1,0,0,1,akan_evidence_6,neither,,Akan,NA,NA,NA,NA,NA,NA
+nanso,nanso,disj-nspk-exc-sta,0,0,,1,0,0,0,0,0,akan_evidence_45,neither,,Akan,NA,NA,NA,NA,NA,NA
+nanso,nanso,disj-nspk-inc-sta,?,0,,1,0,0,0,0,0,akan_evidence_46,neither,,Akan,NA,NA,NA,NA,NA,NA
+nanso,nanso,disj-spk-sta,0,0,,1,0,1,0,0,0,akan_evidence_44,neither,,Akan,NA,NA,NA,NA,NA,NA
+nanso,nanso,neither-sta,0,1,,1,0,0,0,0,0,akan_evidence_47,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,akan_evidence_4,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,akan_evidence_2,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,disj-nspk-exc-epi,0,0,1,0,0,0,0,0,0,akan_evidence_40,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,disj-nspk-exc-sta,0,0,,1,0,0,0,0,0,akan_evidence_33,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,disj-nspk-inc-epi,?,0,,0,0,0,0,0,1,akan_evidence_41,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,disj-nspk-inc-sta,?,0,,1,0,0,0,0,0,akan_evidence_35,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,disj-spk-epi,0,0,,0,0,1,0,0,0,akan_evidence_39,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,disj-spk-sta,0,0,,1,0,1,0,0,0,akan_evidence_31,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,neither-epi,0,1,,0,1,0,0,0,0,akan_evidence_42,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna,neither-sta,0,1,,1,0,0,0,0,0,akan_evidence_37,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna … (-sane) …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,akan_evidence_1,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna … (-sane) …,disj-nspk-exc-sta,0,0,,1,0,0,0,0,0,akan_evidence_32,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna … (-sane) …,disj-nspk-inc-sta,?,0,,1,0,0,0,0,0,akan_evidence_34,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna … (-sane) …,disj-spk-sta,0,0,,1,0,1,0,0,0,akan_evidence_30,neither,,Akan,NA,NA,NA,NA,NA,NA
+ɛna,ɛna … (-sane) …,neither-sta,0,1,,1,0,0,0,0,0,akan_evidence_36,neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-epi,1,0,1,0,0,1,0,0,0,akan_evidence_48,neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,akan_evidence_50,neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,akan_evidence_49,neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,akan_evidence_43,neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"akan_evidence_38,akan_evidence_5",neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"akan_evidence_28,akan_evidence_29,akan_evidence_3",neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk-sta,0,0,,1,0,1,0,0,0,akan_evidence_65,neither,,Akan,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,basque_evidence_041,neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,basque_evidence_040,neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"basque_evidence_030, basque_evidence_031",neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"basque_evidence_005, basque_evidence_006",neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"basque_evidence_002, basque_evidence_025",neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-epi,0,0,1,0,0,0,0,0,0,basque_evidence_070,neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,0,basque_evidence_071,neither,,Basque,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk,0,0,nan,1,0,1,0,0,0,"basque_evidence_058, basque_evidence_059",neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"basque_evidence_062, basque_evidence_063",neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"basque_evidence_060, basque_evidence_061",neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,disj-nspk-epi,0,0,1,0,0,0,0,0,0,basque_evidence_072,neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,basque_evidence_020,neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,disj-nspk-q-inc,?,0,nan,1,0,0,1,0,0,basque_evidence_076,neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,?,"basque_evidence_064, basque_evidence_068, basque_evidence_065, basque_evidence_069, basque_evidence_073",neither,Conflicting evidence found.,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,disj-nspk-sta-inc,?,0,nan,1,0,0,0,0,0,"basque_evidence_066, basque_evidence_067, basque_evidence_074",neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,disj-spk,0,0,nan,1,0,1,0,0,1,"basque_evidence_015, basque_evidence_016, basque_evidence_014",neither,,Basque,NA,NA,NA,NA,NA,NA
+ala,ala,fc,0,0,nan,0,0,0,0,1,1,basque_evidence_024,neither,,Basque,NA,NA,NA,NA,NA,NA
+baina,baina,conj-contrast-epi,1,0,1,0,0,1,0,0,1,basque_evidence_009,neither,,Basque,NA,NA,NA,NA,NA,NA
+baina,baina,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"basque_evidence_007, basque_evidence_008",neither,,Basque,NA,NA,NA,NA,NA,NA
+baina,baina,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,0,"basque_evidence_034, basque_evidence_035",neither,,Basque,NA,NA,NA,NA,NA,NA
+baina,baina,disj-nspk-sta-inc,?,0,nan,1,0,0,0,0,0,"basque_evidence_036, basque_evidence_037",neither,,Basque,NA,NA,NA,NA,NA,NA
+baina,baina,disj-spk,0,0,nan,1,0,1,0,0,0,"basque_evidence_032, basque_evidence_033",neither,,Basque,NA,NA,NA,NA,NA,NA
+baina,baina,neither-sta,0,1,nan,1,0,0,0,0,0,"basque_evidence_038, basque_evidence_039",neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,basque_evidence_013,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,basque_evidence_011,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"basque_evidence_046, basque_evidence_047",neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,basque_evidence_043,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,0,basque_evidence_053,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,disj-nspk-sta-inc,?,0,nan,1,0,0,0,0,0,basque_evidence_055,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,disj-spk,0,0,nan,1,0,1,0,0,0,"basque_evidence_049, basque_evidence_051",neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik,baizik,neither-sta,0,1,nan,1,0,0,0,0,0,basque_evidence_057,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,basque_evidence_012,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,basque_evidence_010,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"basque_evidence_044, basque_evidence_045",neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,basque_evidence_042,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,0,basque_evidence_052,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,disj-nspk-sta-inc,?,0,nan,1,0,0,0,0,0,basque_evidence_054,neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,disj-spk,0,0,nan,1,0,1,0,0,0,"basque_evidence_048, basque_evidence_050",neither,,Basque,NA,NA,NA,NA,NA,NA
+baizik eta,baizik eta,neither-sta,0,1,nan,1,0,0,0,0,0,basque_evidence_056,neither,,Basque,NA,NA,NA,NA,NA,NA
+edo,edo,disj-nspk-epi,0,0,1,0,0,0,0,0,1,basque_evidence_017,neither,,Basque,NA,NA,NA,NA,NA,NA
+edo,edo,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,basque_evidence_075,neither,,Basque,NA,NA,NA,NA,NA,NA
+edo,edo,disj-nspk-q-inc,?,0,nan,1,0,0,1,0,1,basque_evidence_021,neither,,Basque,NA,NA,NA,NA,NA,NA
+edo,edo,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,1,basque_evidence_018,neither,,Basque,NA,NA,NA,NA,NA,NA
+edo,edo,disj-nspk-sta-inc,?,0,nan,1,0,0,0,0,1,basque_evidence_019,neither,,Basque,NA,NA,NA,NA,NA,NA
+edo,edo,fc,0,0,nan,0,0,0,0,1,0,basque_evidence_077,neither,,Basque,NA,NA,NA,NA,NA,NA
+eta,eta,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"basque_evidence_003, basque_evidence_004",neither,,Basque,NA,NA,NA,NA,NA,NA
+eta,eta,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,basque_evidence_001,neither,,Basque,NA,NA,NA,NA,NA,NA
+eta,eta,disj-nspk-sta-exc,0,0,nan,1,0,0,0,0,0,basque_evidence_027,neither,,Basque,NA,NA,NA,NA,NA,NA
+eta,eta,disj-nspk-sta-inc,?,0,nan,1,0,0,0,0,0,basque_evidence_028,neither,,Basque,NA,NA,NA,NA,NA,NA
+eta,eta,disj-spk,0,0,nan,1,0,1,0,0,0,basque_evidence_026,neither,,Basque,NA,NA,NA,NA,NA,NA
+eta,eta,neither-sta,0,1,nan,1,0,0,0,0,0,basque_evidence_029,neither,,Basque,NA,NA,NA,NA,NA,NA
+ez ... ezta,ez ... ezta,neither-epi,0,1,nan,0,1,0,0,0,1,basque_evidence_023,above,,Basque,NA,NA,NA,NA,NA,NA
+ez ... ezta,ez ... ezta,neither-sta,0,1,nan,1,0,0,0,0,1,basque_evidence_022,above,,Basque,NA,NA,NA,NA,NA,NA
+jau,jau,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,CAN_EVID_001,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jau,jau,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,CAN_EVID_024,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jau,jau,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,CAN_EVID_025,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jau,jau,disj-spk,0,0,,1,0,1,0,0,0,CAN_EVID_023,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jau,jau,neither-sta,0,1,,1,0,0,0,0,0,CAN_EVID_026,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+daanhai,daanhai,conj-contrast-sta,1,0,1,1,0,1,0,0,1,CAN_EVID_004,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+daanhai,daanhai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,CAN_EVID_029,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+daanhai,daanhai,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,CAN_EVID_030,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+daanhai,daanhai,disj-spk,0,0,,1,0,1,0,0,0,CAN_EVID_028,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+daanhai,daanhai,neither-sta,0,1,,1,0,0,0,0,0,CAN_EVID_031,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+batgwo,batgwo,conj-contrast-epi,1,0,1,0,0,1,0,0,1,CAN_EVID_005,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+batgwo,batgwo,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,CAN_EVID_008,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+batgwo,batgwo,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,CAN_EVID_033,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+batgwo,batgwo,disj-nspk-epi-inc,?,0,,0,0,0,0,0,0,CAN_EVID_034,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+batgwo,batgwo,neither-epi,0,1,,0,0,0,0,0,0,CAN_EVID_035,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,CAN_EVID_007,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,conj-contrast-sta,1,0,1,1,0,1,0,0,0,CAN_EVID_038,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,CAN_EVID_037,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,disj-nspk-epi-q,0,0,1,0,0,0,1,0,0,CAN_EVID_063,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,CAN_EVID_041,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,disj-spk,0,0,,1,0,1,0,0,0,"CAN_EVID_039,CAN_EVID_040",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,fc,0,0,,0,0,0,0,1,1,CAN_EVID_077,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jik,neither-sta,0,1,,1,0,0,0,0,0,"CAN_EVID_044,CAN_EVID_045",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jau honang … jik jau honang,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,CAN_EVID_060,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,jau honang … jik jau honang,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"CAN_EVID_014,CAN_EVID_042",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jat-hai,jat-hai … jat-hai,disj-nspk-epi,0,0,1,0,0,0,0,0,1,CAN_EVID_012,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jat-hai,jat-hai … jat-hai,disj-nspk-epi-q,0,0,1,0,0,0,1,0,?,CAN_EVID_064,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jat-hai,jat-hai … jat-hai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,CAN_EVID_013,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jat-hai,jat-hai … jat-hai,disj-spk,0,0,,1,0,1,0,0,1,"CAN_EVID_009,CAN_EVID_011",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jat-hai,jat-hai … jat-hai,fc,0,0,,0,0,0,0,1,?,CAN_EVID_076,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"CAN_EVID_049,CAN_EVID_050",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"CAN_EVID_047,CAN_EVID_048",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,disj-nspk-epi-q,0,0,1,0,0,0,1,0,?,CAN_EVID_062,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"CAN_EVID_051,CAN_EVID_052",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"CAN_EVID_053,CAN_EVID_055",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,disj-spk,0,0,,1,0,1,0,0,1,CAN_EVID_010,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,fc,0,0,,0,0,0,0,1,1,CAN_EVID_020,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+waakze,waakze,neither-sta,0,1,,1,0,0,0,0,0,"CAN_EVID_056,CAN_EVID_057",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+dinghai,dinghai,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,CAN_EVID_015,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+dinghai,dinghai,disj-nspk-sta-q,?,0,,1,0,0,1,0,1,CAN_EVID_016,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+dinghai,dinghai,fc,0,0,,0,0,0,0,1,0,"CAN_EVID_078,CAN_EVID_079",neither,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"CAN_EVID_068,CAN_EVID_069",below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"CAN_EVID_066,CAN_EVID_067",below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"CAN_EVID_072,CAN_EVID_073",below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"CAN_EVID_074,CAN_EVID_075",below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,disj-spk,0,0,,1,0,1,0,0,0,"CAN_EVID_070,CAN_EVID_071",below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,negative,0,1,,1,,0,0,0,1,CAN_EVID_022,below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,m … jik m,neither-sta,0,1,,1,0,0,0,0,1,CAN_EVID_017,below,,Cantonese,NA,NA,NA,NA,NA,NA
+jau,jau m … jau m,negative,0,1,,1,,0,0,0,1,CAN_EVID_021,below,,Cantonese,NA,NA,NA,NA,NA,NA
+jau,jau m … jau m,neither-sta,0,1,,1,0,0,0,0,1,CAN_EVID_018,below,,Cantonese,NA,NA,NA,NA,NA,NA
+jik,mou … jik mou,neither-epi,0,1,,0,1,0,0,0,1,CAN_EVID_019,below,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-epi,1,0,1,0,0,1,0,0,1,CAN_EVID_032,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,CAN_EVID_036,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,CAN_EVID_006,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,?,CAN_EVID_027,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,?,CAN_EVID_003,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,CAN_EVID_002,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-epi,0,0,1,0,0,0,0,0,0,CAN_EVID_058,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,CAN_EVID_059,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk,0,0,,1,0,1,0,0,0,CAN_EVID_046,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+∅,∅,neither-sta,0,1,,1,0,0,0,0,?,CAN_EVID_065,neither,,Cantonese,NA,NA,NA,NA,NA,NA
+yucitongshi,(bingqie) yucitongshi,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"chinese-ev-6,chinese-ev-7",neither,,Chinese,NA,NA,NA,NA,NA,NA
+bingqie,bingqie + (hai/ye),conj-contrast-sta,1,0,1,1,0,1,0,0,1,"chinese-ev-44,chinese-ev-45",neither,,Chinese,NA,NA,NA,NA,NA,NA
+bingqie,bingqie + (hai/ye),conj-nocontrast-epi,1,0,0,0,0,1,0,0,?,"chinese-ev-4,chinese-ev-5",neither,Conflicting evidence found.,Chinese,NA,NA,NA,NA,NA,NA
+bingqie,bingqie + (hai/ye),disj-spk,0,0,0,1,0,1,0,0,0,"chinese-ev-51,chinese-ev-52",neither,,Chinese,NA,NA,NA,NA,NA,NA
+buguo,buguo,conj-contrast-epi,1,0,1,0,0,1,0,0,1,chinese-ev-14,neither,,Chinese,NA,NA,NA,NA,NA,NA
+buguo,buguo,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,chinese-ev-18,neither,,Chinese,NA,NA,NA,NA,NA,NA
+buguo,buguo,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,chinese-ev-59,neither,,Chinese,NA,NA,NA,NA,NA,NA
+buguo,buguo,disj-spk,0,0,0,1,0,1,0,0,0,chinese-ev-64,neither,,Chinese,NA,NA,NA,NA,NA,NA
+danshi,danshi,conj-contrast-epi,1,0,1,0,0,1,0,0,?,chinese-ev-13,neither,Conflicting evidence found.,Chinese,NA,NA,NA,NA,NA,NA
+danshi,danshi,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,chinese-ev-17,neither,,Chinese,NA,NA,NA,NA,NA,NA
+danshi,danshi,conj-contrast-sta,1,0,1,1,0,1,0,0,1,chinese-ev-12,neither,,Chinese,NA,NA,NA,NA,NA,NA
+danshi,danshi,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,chinese-ev-58,neither,,Chinese,NA,NA,NA,NA,NA,NA
+danshi,danshi,disj-spk,0,0,0,1,0,1,0,0,0,chinese-ev-63,neither,,Chinese,NA,NA,NA,NA,NA,NA
+er,er,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,?,chinese-ev-74,neither,Conflicting evidence found.,Chinese,NA,NA,NA,NA,NA,NA
+er,er,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,?,chinese-ev-16,neither,Conflicting evidence found.,Chinese,NA,NA,NA,NA,NA,NA
+er,er,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,chinese-ev-62,neither,,Chinese,NA,NA,NA,NA,NA,NA
+er,er,disj-spk,0,0,0,1,0,1,0,0,0,chinese-ev-67,neither,,Chinese,NA,NA,NA,NA,NA,NA
+er,negation + er,neither-epi,0,1,0,0,1,0,0,0,1,chinese-ev-21,above,,Chinese,NA,NA,NA,NA,NA,NA
+erqie,erqie + (hai/ye),conj-contrast-sta,1,0,1,1,0,1,0,0,1,"chinese-ev-41,chinese-ev-42,chinese-ev-43",neither,,Chinese,NA,NA,NA,NA,NA,NA
+erqie,erqie + (hai/ye),conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"chinese-ev-1,chinese-ev-2",neither,,Chinese,NA,NA,NA,NA,NA,NA
+erqie,erqie + (hai/ye),disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,chinese-ev-54,neither,,Chinese,NA,NA,NA,NA,NA,NA
+erqie,erqie + (hai/ye),disj-spk,0,0,0,1,0,1,0,0,0,"chinese-ev-48,chinese-ev-49,chinese-ev-50",neither,,Chinese,NA,NA,NA,NA,NA,NA
+hai,juxtaposition + hai,conj-contrast-sta,1,0,1,1,0,1,0,0,1,chinese-ev-39,neither,,Chinese,NA,NA,NA,NA,NA,NA
+hai,juxtaposition + hai,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,chinese-ev-3,neither,,Chinese,NA,NA,NA,NA,NA,NA
+hai,juxtaposition + hai,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,chinese-ev-53,neither,,Chinese,NA,NA,NA,NA,NA,NA
+hai,juxtaposition + hai,disj-nspk-sta-inc,-1,0,0,1,0,0,0,0,0,chinese-ev-55,neither,,Chinese,NA,NA,NA,NA,NA,NA
+hai,juxtaposition + hai,disj-spk,0,0,0,1,0,1,0,0,0,chinese-ev-46,neither,,Chinese,NA,NA,NA,NA,NA,NA
+hai,juxtaposition + hai,neither-sta,0,1,0,1,0,0,0,0,0,chinese-ev-56,neither,,Chinese,NA,NA,NA,NA,NA,NA
+haishi,haishi,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,chinese-ev-79,neither,,Chinese,NA,NA,NA,NA,NA,NA
+haishi,haishi,disj-nspk-q,0,0,1,0,0,0,1,0,1,"chinese-ev-31,chinese-ev-33",neither,,Chinese,NA,NA,NA,NA,NA,NA
+haishi,haishi,fc,0,0,0,0,0,0,0,1,0,chinese-ev-38,neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,chinese-ev-78,neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,disj-nspk-epi-exc,0,0,1,0,0,0,0,0,1,chinese-ev-26,neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,disj-nspk-q,0,0,1,0,0,0,1,0,0,"chinese-ev-32,chinese-ev-34",neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,1,"chinese-ev-29,chinese-ev-81",neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,disj-nspk-sta-inc,-1,0,0,1,0,0,0,0,1,"chinese-ev-30,chinese-ev-83",neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,disj-spk,0,0,0,1,0,1,0,0,1,chinese-ev-24,neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,fc,0,0,0,0,0,0,0,1,1,chinese-ev-37,neither,,Chinese,NA,NA,NA,NA,NA,NA
+huozhe,huozhe,neither-sta,0,1,0,1,0,0,0,0,0,chinese-ev-85,neither,,Chinese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,1,chinese-ev-68,neither,,Chinese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,chinese-ev-69,neither,,Chinese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,chinese-ev-40,neither,,Chinese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"chinese-ev-8,chinese-ev-9,chinese-ev-10,chinese-ev-11",neither,,Chinese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk,0,0,0,1,0,1,0,0,0,"chinese-ev-47,chinese-ev-75,chinese-ev-76",neither,,Chinese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-sta,0,1,0,1,0,0,0,0,0,chinese-ev-87,neither,,Chinese,NA,NA,NA,NA,NA,NA
+keshi,keshi,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,chinese-ev-73,neither,,Chinese,NA,NA,NA,NA,NA,NA
+keshi,keshi,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,chinese-ev-61,neither,,Chinese,NA,NA,NA,NA,NA,NA
+keshi,keshi,disj-spk,0,0,0,1,0,1,0,0,0,chinese-ev-66,neither,,Chinese,NA,NA,NA,NA,NA,NA
+keshi,keshi + negation,neither-epi,0,1,0,0,1,0,0,0,1,chinese-ev-20,above,,Chinese,NA,NA,NA,NA,NA,NA
+ye,NEG ye NEG,neither-epi,0,1,0,0,1,0,0,0,1,chinese-ev-36,below,,Chinese,NA,NA,NA,NA,NA,NA
+ye,NEG ye NEG,neither-sta,0,1,0,1,0,0,0,0,1,chinese-ev-35,below,,Chinese,NA,NA,NA,NA,NA,NA
+qishi,qishi,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,chinese-ev-15,neither,,Chinese,NA,NA,NA,NA,NA,NA
+ran'er,ran'er,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,chinese-ev-72,neither,,Chinese,NA,NA,NA,NA,NA,NA
+ran'er,ran'er,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,chinese-ev-60,neither,,Chinese,NA,NA,NA,NA,NA,NA
+ran'er,ran'er,disj-spk,0,0,0,1,0,1,0,0,0,chinese-ev-65,neither,,Chinese,NA,NA,NA,NA,NA,NA
+ran'er,ran'er + negation,neither-epi,0,1,0,0,1,0,0,0,1,chinese-ev-19,above,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,chinese-ev-77,neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",disj-nspk-epi-exc,0,0,1,0,0,0,0,0,1,chinese-ev-25,neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",disj-nspk-q,0,0,1,0,0,0,1,0,1,chinese-ev-86,neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",disj-nspk-sta-exc,0,0,0,1,0,0,0,0,1,"chinese-ev-27,chinese-ev-28,chinese-ev-80",neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",disj-nspk-sta-inc,-1,0,0,1,0,0,0,0,0,chinese-ev-82,neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",disj-spk,0,0,0,1,0,1,0,0,1,"chinese-ev-22,chinese-ev-23",neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",fc,0,0,0,0,0,0,0,1,1,chinese-ev-88,neither,,Chinese,NA,NA,NA,NA,NA,NA
+yaome,"Yaome P, yaome Q",neither-sta,0,1,0,1,0,0,0,0,0,chinese-ev-84,neither,,Chinese,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,0,NL_E_43,neither,,Dutch,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,NL_E_45,neither,,Dutch,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,NL_E_44,neither,,Dutch,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,1,NL_E_38,neither,,Dutch,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,NL_E_29,neither,Conflicting evidence,Dutch,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,NL_E_46,neither,,Dutch,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,neither-sta,0,1,,1,0,0,0,0,0,NL_E_62,neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,en,conj-nocontrast-epi,1,0,0,0,0,1,0,0,?,"NL_E_34,NL_E_35,NL_E_36,NL_E_37,NL_E_4",neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,en,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"NL_E_1,NL_E_2",neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,en,disj-spk,0,0,,1,0,1,0,0,0,NL_E_30,neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,en,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,NL_E_31,neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,en,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,NL_E_32,neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,en,neither-sta,0,1,,1,0,0,0,0,0,NL_E_33,neither,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,NL_E_63,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,NL_E_65,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,disj-spk,0,0,,1,0,1,0,0,0,NL_E_67,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,NL_E_69,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,NL_E_71,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,negative,0,1,,1,,0,0,0,1,NL_E_26,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en … geen …,neither-sta,0,1,,1,0,0,0,0,1,NL_E_21,below,,Dutch,NA,NA,NA,NA,NA,NA
+en,geen … en och niet …,neither-epi,0,1,,0,1,0,0,0,1,NL_E_23,below,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,conj-contrast-epi,1,0,1,0,0,1,0,0,1,NL_E_6,neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,NL_E_9,neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"NL_E_7,NL_E_8",neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,conj-contrast-sta,1,0,1,1,0,1,0,0,1,NL_E_5,neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,disj-spk,0,0,,1,0,1,0,0,0,NL_E_39,neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,NL_E_40,neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,NL_E_41,neither,,Dutch,NA,NA,NA,NA,NA,NA
+maar,maar,neither-sta,0,1,,1,0,0,0,0,0,NL_E_42,neither,,Dutch,NA,NA,NA,NA,NA,NA
+noch,geen … noch …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,NL_E_64,above,,Dutch,NA,NA,NA,NA,NA,NA
+noch,geen … noch …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,NL_E_66,above,,Dutch,NA,NA,NA,NA,NA,NA
+noch,geen … noch …,disj-spk,0,0,,1,0,1,0,0,0,NL_E_68,above,,Dutch,NA,NA,NA,NA,NA,NA
+noch,geen … noch …,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,NL_E_70,above,,Dutch,NA,NA,NA,NA,NA,NA
+noch,geen … noch …,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,NL_E_72,above,,Dutch,NA,NA,NA,NA,NA,NA
+noch,geen … noch …,neither-sta,0,1,,1,0,0,0,0,1,NL_E_22,above,,Dutch,NA,NA,NA,NA,NA,NA
+noch,niet … noch …,negative,0,1,,1,,0,0,0,1,NL_E_28,above,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,NL_E_49,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,conj-contrast-sta,1,0,1,1,0,1,0,0,0,NL_E_51,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,disj-spk,0,0,,1,0,1,0,0,1,"NL_E_10,NL_E_12,NL_E_47",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,disj-nspk-epi-q,0,0,1,0,0,0,1,0,?,NL_E_61,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"NL_E_53,NL_E_60",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,NL_E_55,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,fc,0,0,,0,0,0,0,1,1,NL_E_74,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,(of) … of,neither-sta,0,1,,1,0,0,0,0,0,NL_E_57,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,NL_E_50,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,conj-contrast-sta,1,0,1,1,0,1,0,0,0,NL_E_52,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,disj-spk,0,0,,1,0,1,0,0,1,"NL_E_11,NL_E_13,NL_E_48",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,disj-nspk-epi,0,0,1,0,0,0,0,0,1,NL_E_14,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,"NL_E_17,NL_E_18",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"NL_E_15,NL_E_54,NL_E_59",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"NL_E_16,NL_E_56",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,disj-nspk-sta-inc-q,?,0,,1,0,0,1,0,1,"NL_E_19,NL_E_20",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,fc,0,0,,0,0,0,0,1,1,"NL_E_24,NL_E_25,NL_E_73",neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,of,neither-sta,0,1,,1,0,0,0,0,0,NL_E_58,neither,,Dutch,NA,NA,NA,NA,NA,NA
+of,niet … of …,negative,0,1,,1,,0,0,0,1,NL_E_27,above,,Dutch,NA,NA,NA,NA,NA,NA
+va,va,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,farsi-ev-1,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,farsi-ev-2,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,disj-spk,0,0,,1,0,1,0,0,0,"farsi-ev-28, farsi-ev-33",neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,farsi-ev-29,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,farsi-ev-30,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,farsi-ev-34,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,disj-nspk-epi-inc,?,0,,0,0,0,0,0,0,farsi-ev-35,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-31,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va,va,neither-epi,0,1,,0,1,0,0,0,0,farsi-ev-36,neither,,Farsi,NA,NA,NA,NA,NA,NA
+amma,amma,conj-contrast-sta,1,0,1,1,0,1,0,0,1,farsi-ev-3,neither,,Farsi,NA,NA,NA,NA,NA,NA
+amma,amma,disj-spk,0,0,,1,0,1,0,0,0,farsi-ev-38,neither,,Farsi,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,farsi-ev-40,neither,,Farsi,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,farsi-ev-42,neither,,Farsi,NA,NA,NA,NA,NA,NA
+amma,amma,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-44,neither,,Farsi,NA,NA,NA,NA,NA,NA
+vali,vali,conj-contrast-sta,1,0,1,1,0,1,0,0,1,farsi-ev-4,neither,,Farsi,NA,NA,NA,NA,NA,NA
+vali,vali,disj-spk,0,0,,1,0,1,0,0,0,farsi-ev-39,neither,,Farsi,NA,NA,NA,NA,NA,NA
+vali,vali,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,farsi-ev-41,neither,,Farsi,NA,NA,NA,NA,NA,NA
+vali,vali,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,farsi-ev-43,neither,,Farsi,NA,NA,NA,NA,NA,NA
+vali,vali,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-45,neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,farsi-ev-5,neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,farsi-ev-7,neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"farsi-ev-49, farsi-ev-50",neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-51,neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,disj-spk,0,0,,1,0,1,0,0,0,"farsi-ev-52, farsi-ev-53",neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"farsi-ev-54, farsi-ev-55",neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"farsi-ev-56, farsi-ev-57",neither,,Farsi,NA,NA,NA,NA,NA,NA
+balke,balke,neither-sta,0,1,,1,0,0,0,0,?,"farsi-ev-58, farsi-ev-59",neither,Conflicting evidence,Farsi,NA,NA,NA,NA,NA,NA
+bejash,bejash,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,farsi-ev-8,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,disj-spk,0,0,,1,0,1,0,0,1,"farsi-ev-9, farsi-ev-10, farsi-ev-11, fars-ev-12, farsi-ev-13, farsi-ev-14",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,disj-nspk-epi,0,0,1,0,0,0,0,0,1,farsi-ev-15,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"farsi-ev-16, farsi-ev-69",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"farsi-ev-17, farsi-ev-18, farsi-ev-73",neither,Conflicting evidence,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,disj-nspk-q-exc,0,0,1,0,0,0,1,0,0,farsi-ev-84,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,fc,0,0,,0,0,0,0,1,1,"farsi-ev-23, farsi-ev-93",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,negative,0,1,,1,,0,0,0,1,"farsi-ev-25, farsi-ev-26",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,farsi-ev-61,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-65,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... ya,ya ... ya,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-77,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,"farsi-ev-19, farsi-ev-83",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,farsi-ev-20,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,fc,0,0,,0,0,0,0,1,?,"farsi-ev-95, farsi-ev-96",neither,Conflicting evidence,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,negative,0,1,,1,,0,0,0,1,farsi-ev-24,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,farsi-ev-64,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-68,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,farsi-ev-72,neither,Uncertain judgment,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,farsi-ev-76,neither,Uncertain judgment,Farsi,NA,NA,NA,NA,NA,NA
+ya,ya,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-80,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,neither-sta,0,1,,1,0,0,0,0,1,farsi-ev-21,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,neither-epi,0,1,,0,1,0,0,0,1,farsi-ev-22,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,farsi-ev-88,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-89,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,disj-spk,0,0,,1,0,1,0,0,0,farsi-ev-90,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,farsi-ev-91,neither,,Farsi,NA,NA,NA,NA,NA,NA
+na ... na,na ... na,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,farsi-ev-92,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"farsi-ev-6, farsi-ev-47",neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,farsi-ev-48,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-37,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,1,farsi-ev-46,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,farsi-ev-27,neither,Uncertain judgment,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,0,farsi-ev-32,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk,0,0,,1,0,1,0,0,?,farsi-ev-60,neither,Uncertain judgment,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-epi,0,0,1,0,0,0,0,0,0,farsi-ev-81,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,farsi-ev-82,neither,,Farsi,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-sta,0,1,,1,0,0,0,0,0,"farsi-ev-86, farsi-ev-87",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,disj-spk,0,0,,1,0,1,0,0,1,"farsi-ev-11, farsi-ev-12",neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,farsi-ev-70,neither,Uncertain judgment,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,farsi-ev-74,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,disj-nspk-q-exc,0,0,1,0,0,0,1,0,0,farsi-ev-85,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,fc,0,0,,0,0,0,0,1,1,farsi-ev-94,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,farsi-ev-62,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-66,neither,,Farsi,NA,NA,NA,NA,NA,NA
+ya ... va ya,ya ... va ya,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-78,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va ya,va ya,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,farsi-ev-63,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va ya,va ya,conj-contrast-sta,1,0,1,1,0,1,0,0,0,farsi-ev-67,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va ya,va ya,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,farsi-ev-71,neither,Uncertain judgment,Farsi,NA,NA,NA,NA,NA,NA
+va ya,va ya,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,farsi-ev-75,neither,,Farsi,NA,NA,NA,NA,NA,NA
+va ya,va ya,neither-sta,0,1,,1,0,0,0,0,0,farsi-ev-79,neither,,Farsi,NA,NA,NA,NA,NA,NA
+kai,kai,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,GRK-EVID-001,neither,,Greek,NA,NA,NA,NA,NA,NA
+kai,kai,disj-spk,0,0,,1,0,1,0,0,0,GRK-EVID-039,neither,,Greek,NA,NA,NA,NA,NA,NA
+kai,kai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"GRK-EVID-040,GRK-EVID-041",neither,,Greek,NA,NA,NA,NA,NA,NA
+kai,kai,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"GRK-EVID-042,GRK-EVID-043",neither,,Greek,NA,NA,NA,NA,NA,NA
+kai,kai,neither-sta,0,1,,1,0,0,0,0,0,GRK-EVID-044,neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"GRK-EVID-002,GRK-EVID-038",neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,GRK-EVID-004,neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"GRK-EVID-045,GRK-EVID-046",neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,GRK-EVID-011,neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk,0,0,,1,0,1,0,0,0,GRK-EVID-055,neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-epi,0,0,1,0,0,0,0,0,0,GRK-EVID-066,neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"GRK-EVID-067,GRK-EVID-068",neither,,Greek,NA,NA,NA,NA,NA,NA
+∅,∅,neither-sta,0,1,,1,0,0,0,0,0,"GRK-EVID-077,GRK-EVID-078",neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,conj-contrast-sta,1,0,1,1,0,1,0,0,1,GRK-EVID-005,neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,conj-contrast-epi,1,0,1,0,0,1,0,0,1,GRK-EVID-007,neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"GRK-EVID-009,GRK-EVID-010",neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,GRK-EVID-012,neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,disj-spk,0,0,,1,0,1,0,0,0,GRK-EVID-047,neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,GRK-EVID-049,neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,GRK-EVID-051,neither,,Greek,NA,NA,NA,NA,NA,NA
+alla,alla,neither-sta,0,1,,1,0,0,0,0,0,GRK-EVID-053,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,conj-contrast-sta,1,0,1,1,0,1,0,0,1,GRK-EVID-006,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,conj-contrast-epi,1,0,1,0,0,1,0,0,1,GRK-EVID-008,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,GRK-EVID-013,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,disj-spk,0,0,,1,0,1,0,0,0,GRK-EVID-048,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,GRK-EVID-050,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,GRK-EVID-052,neither,,Greek,NA,NA,NA,NA,NA,NA
+omos,omos,neither-sta,0,1,,1,0,0,0,0,0,GRK-EVID-054,neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,disj-spk,0,0,,1,0,1,0,0,1,"GRK-EVID-014,GRK-EVID-016,GRK-EVID-017",neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,disj-nspk-epi,0,0,1,0,0,0,0,0,1,GRK-EVID-018,neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"GRK-EVID-020,GRK-EVID-021",neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"GRK-EVID-022,GRK-EVID-023,GRK-EVID-071,GRK-EVID-072",neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,disj-nspk-q,0,0,1,0,0,0,1,0,1,"GRK-EVID-024,GRK-EVID-025",neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,fc,0,0,,0,0,0,0,1,1,"GRK-EVID-036,GRK-EVID-037",neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,GRK-EVID-057,neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,conj-contrast-sta,1,0,1,1,0,1,0,0,0,GRK-EVID-059,neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,GRK-EVID-063,neither,,Greek,NA,NA,NA,NA,NA,NA
+‘i,‘i,neither-sta,0,1,,1,0,0,0,0,0,GRK-EVID-065,neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,disj-spk,0,0,,1,0,1,0,0,1,"GRK-EVID-015,GRK-EVID-016",neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,disj-nspk-epi,0,0,1,0,0,0,0,0,1,GRK-EVID-019,neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,fc,0,0,,0,0,0,0,1,1,GRK-EVID-035,neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,GRK-EVID-056,neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,GRK-EVID-058,neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"GRK-EVID-060,GRK-EVID-069,GRK-EVID-070",neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"GRK-EVID-062,GRK-EVID-073,GRK-EVID-074",neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,neither-sta,0,1,,1,0,0,0,0,0,GRK-EVID-064,neither,,Greek,NA,NA,NA,NA,NA,NA
+ite … ite …,ite … ite …,disj-nspk-q,0,0,1,0,0,0,1,0,0,GRK-EVID-075,neither,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,neither-sta,0,1,,1,0,0,0,0,1,"GRK-EVID-026,GRK-EVID-027,GRK-EVID-028,GRK-EVID-029",below,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,neither-epi,0,1,,0,1,0,0,0,1,GRK-EVID-034,below,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"GRK-EVID-079,GRK-EVID-080,GRK-EVID-081,GRK-EVID-082",below,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"GRK-EVID-083,GRK-EVID-084,GRK-EVID-085,GRK-EVID-086",below,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,disj-spk,0,0,,1,0,1,0,0,0,"GRK-EVID-087,GRK-EVID-088,GRK-EVID-089,GRK-EVID-090",below,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"GRK-EVID-091,GRK-EVID-092,GRK-EVID-093,GRK-EVID-094",below,,Greek,NA,NA,NA,NA,NA,NA
+dhen … (ute) …. ute …,dhen … (ute) …. ute …,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"GRK-EVID-095,GRK-EVID-096,GRK-EVID-097,GRK-EVID-098",below,,Greek,NA,NA,NA,NA,NA,NA
+ute … ute ….,ute … ute ….,neither-sta,0,1,,1,0,0,0,0,1,"GRK-EVID-030,GRK-EVID-031",neither,,Greek,NA,NA,NA,NA,NA,NA
+ute … ute ….,ute … ute ….,neither-epi,0,1,,0,1,0,0,0,1,GRK-EVID-033,neither,,Greek,NA,NA,NA,NA,NA,NA
+dhen …. ute …. dhen … ute …,dhen …. ute …. dhen … ute …,neither-sta,0,1,,1,0,0,0,0,1,GRK-EVID-032,below,,Greek,NA,NA,NA,NA,NA,NA
+ite,ite,disj-nspk-q,0,0,1,0,0,0,1,0,1,GRK-EVID-076,neither,,Greek,NA,NA,NA,NA,NA,NA
+kuma,kuma,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,hausa-con-evid1,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,hausa-con-evid3,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,conj-contrast-sta,1,0,1,1,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,conj-contrast-epi,1,0,1,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,disj-spk,0,0,,1,0,1,0,0,0,hausa-con-evid26,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,disj-nspk-epi,0,0,1,0,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,hausa-con-evid27,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,hausa-con-evid28,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,disj-nspk-q-exc,0,0,1,1,0,0,1,0,0,hausa-con-evid29,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,disj-nspk-q-inc,?,0,,1,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,neither-sta,0,1,,1,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,fc,0,0,,0,0,0,0,1,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,kuma,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,hausa-con-evid65,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,conj-nocontrast-epi,1,0,0,0,0,1,0,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,conj-contrast-sta,1,0,1,1,0,1,0,0,0,conj-contrast-sta-3,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,conj-contrast-epi,1,0,1,0,0,1,0,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,disj-spk,0,0,,1,0,1,0,0,0,hausa-con-evid67,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,disj-nspk-epi,0,0,1,0,0,0,0,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,hausa-con-evid68,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,hausa-con-evid69,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,disj-nspk-q-exc,0,0,1,1,0,0,1,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,disj-nspk-q-inc,?,0,,1,0,0,1,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,neither-sta,0,1,,1,0,0,0,0,1,hausa-con-evid21,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,neither-epi,0,1,,0,1,0,0,0,1,hausa-con-evid22,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,fc,0,0,,0,0,0,0,1,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+kuma,ba ... kuma ba ...,negative,0,1,,1,,0,0,0,,,below,ba = negation,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,conj-nocontrast-sta,1,0,0,1,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,conj-nocontrast-epi,1,0,0,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,conj-contrast-sta,1,0,1,1,0,1,0,0,1,hausa-con-evid5,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,conj-contrast-epi,1,0,1,0,0,1,0,0,1,hausa-con-evid6,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,hausa-con-evid7,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,hausa-con-evid8,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,disj-spk,0,0,,1,0,1,0,0,0,hausa-con-evid31,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-epi,0,0,1,0,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,hausa-con-evid32,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,hausa-con-evid33,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-q-exc,0,0,1,0,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,disj-nspk-q-inc,?,0,,1,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,neither-sta,0,1,,1,0,0,0,0,0,hausa-con-evid34,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,fc,0,0,,0,0,0,0,1,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+amma,amma,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,hausa-con-evid42,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,conj-nocontrast-epi,1,0,0,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,conj-contrast-sta,1,0,1,1,0,1,0,0,0,hausa-con-evid46,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,conj-contrast-epi,1,0,1,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,disj-spk,0,0,,1,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,disj-nspk-epi,0,0,1,0,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,hausa-con-evid50,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,hausa-con-evid54,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,disj-nspk-q-exc,0,0,1,1,0,0,1,0,1,"hausa-con-evid18, hausa-con-evid61",neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,hausa-con-evid20,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,neither-sta,0,1,,1,0,0,0,0,0,hausa-con-evid58,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,fc,0,0,,0,0,0,0,1,1,hausa-con-evid24,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,hausa-con-evid41,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,conj-nocontrast-epi,1,0,0,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,conj-contrast-sta,1,0,1,1,0,1,0,0,0,hausa-con-evid45,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,conj-contrast-epi,1,0,1,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,disj-spk,0,0,,1,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,disj-nspk-epi,0,0,1,0,0,0,0,0,1,hausa-con-evid13,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,hausa-con-evid14,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"hausa-con-evid15, hausa-con-evid16",neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,disj-nspk-q-exc,0,0,1,1,0,0,1,0,1,"hausa-con-evid17, hausa-con-evid60, hausa-con-evid18, hausa-con-evid61",neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,hausa-con-evid19,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,neither-sta,0,1,,1,0,0,0,0,0,hausa-con-evid58,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,fc,0,0,,0,0,0,0,1,1,hausa-con-evid23,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko kuma,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,hausa-con-evid40,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,conj-nocontrast-epi,1,0,0,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,conj-contrast-sta,1,0,1,1,0,1,0,0,0,hausa-con-evid44,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,conj-contrast-epi,1,0,1,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,disj-spk,0,0,,1,0,1,0,0,1,"hausa-con-evid10, hausa-con-evid12",neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,disj-nspk-epi,0,0,1,0,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,hausa-con-evid48,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,hausa-con-evid52,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,disj-nspk-q-exc,0,0,1,1,0,0,1,0,?,hausa-con-evid63,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,disj-nspk-q-inc,?,0,,1,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,neither-sta,0,1,,1,0,0,0,0,0,hausa-con-evid56,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,fc,0,0,,0,0,0,0,1,1,hausa-con-evid71,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko ...,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,hausa-con-evid39,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,conj-nocontrast-epi,1,0,0,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,conj-contrast-sta,1,0,1,1,0,1,0,0,0,hausa-con-evid43,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,conj-contrast-epi,1,0,1,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,disj-spk,0,0,,1,0,1,0,0,1,"hausa-con-evid9, hausa-con-evid11",neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,disj-nspk-epi,0,0,1,0,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,hausa-con-evid47,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,hausa-con-evid51,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,disj-nspk-q-exc,0,0,1,1,0,0,1,0,?,hausa-con-evid62,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,disj-nspk-q-inc,?,0,,1,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,neither-sta,0,1,,1,0,0,0,0,0,hausa-con-evid55,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,fc,0,0,,0,0,0,0,1,1,hausa-con-evid70,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ko,ko-dai ... ko kuma ...,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"hausa-con-1b, ",neither,conflicting judgment,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,hausa-con-2b ,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,hausa-con-evid30,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,hausa-con-evid35,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,0,hausa-con-evid36,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,hausa-con-evid38,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-epi,0,0,1,0,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,hausa-con-evid59,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-sta-inc,?,0,,1,0,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-q-exc,0,0,1,1,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-q-inc,?,0,,1,0,0,1,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-sta,0,1,,1,0,0,0,0,0,hausa-con-evid64,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-epi,0,1,,0,1,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,fc,0,0,,0,0,0,0,1,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,negative,0,1,,1,,0,0,0,,,neither,,Hausa,NA,NA,NA,NA,NA,NA
+ve,ve,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,heb_ev_1,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,ve,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"heb_ev_3,heb_ev_4",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,ve,disj-spk,0,0,,1,0,1,0,0,1,heb_ev_28,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,ve,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,heb_ev_29,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,ve,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,heb_ev_30,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,ve,neither-sta,0,1,,1,0,0,0,0,0,heb_ev_31,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,heb_ev_2,neither,Judgment is '?',Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,heb_ev_32,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,0,heb_ev_37,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,heb_ev_38,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,heb_ev_39,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,heb_ev_50,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-nspk-epi,0,0,1,0,0,0,0,0,0,heb_ev_67,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,"heb_ev_68,heb_ev_69",neither,Judgments include '*' and 'infelicitous',Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,neither-sta,0,1,,1,0,0,0,0,0,heb_ev_76,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+aval,aval,conj-contrast-sta,1,0,1,1,0,1,0,0,1,heb_ev_5,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+aval,aval,conj-contrast-epi,1,0,1,0,0,1,0,0,1,heb_ev_6,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+aval,aval,disj-spk,0,0,,1,0,1,0,0,0,heb_ev_33,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+aval,aval,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,heb_ev_34,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+aval,aval,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,heb_ev_35,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+aval,aval,neither-sta,0,1,,1,0,0,0,0,0,heb_ev_36,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"heb_ev_40,heb_ev_41",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,conj-contrast-sta,1,0,1,1,0,1,0,0,0,heb_ev_42,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,heb_ev_7,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,heb_ev_8,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,disj-spk,0,0,,1,0,1,0,0,0,heb_ev_43,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"heb_ev_44,heb_ev_45",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"heb_ev_46,heb_ev_47",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ela,ela,neither-sta,0,1,,1,0,0,0,0,0,"heb_ev_48,heb_ev_49",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,disj-spk,0,0,,1,0,1,0,0,1,"heb_ev_9,heb_ev_11,heb_ev_12,heb_ev_14",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,heb_ev_51,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,heb_ev_53,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"heb_ev_16,heb_ev_17,heb_ev_55,heb_ev_57",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"heb_ev_59,heb_ev_60,heb_ev_63",neither,Evidence for both felicitous and infelicitous judgments exists.,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,neither-sta,0,1,,1,0,0,0,0,0,heb_ev_65,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,disj-nspk-epi,0,0,1,0,0,0,0,0,1,heb_ev_15,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,disj-nspk-q-exc,0,0,1,0,0,0,1,0,0,"heb_ev_72,heb_ev_73,heb_ev_74,heb_ev_75",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o...o,o ... o,fc,0,0,,0,0,0,0,1,?,"heb_ev_25,heb_ev_88",neither,Evidence for both felicitous and infelicitous judgments exists.,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,disj-spk,0,0,,1,0,1,0,0,1,"heb_ev_10,heb_ev_13",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,heb_ev_52,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,heb_ev_54,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,"heb_ev_56,heb_ev_58",neither,Judgments include '?' and '?/#',Hebrew,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"heb_ev_18,heb_ev_61,heb_ev_62,heb_ev_64",neither,Evidence for both felicitous and infelicitous judgments exists.,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,neither-sta,0,1,,1,0,0,0,0,0,heb_ev_66,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,"heb_ev_19,heb_ev_20,heb_ev_70,heb_ev_71",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,heb_ev_21,neither,,Hebrew,NA,NA,NA,NA,NA,NA
+o,o,fc,0,0,,0,0,0,0,1,1,"heb_ev_26,heb_ev_27,heb_ev_87",neither,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,neither-sta,0,1,,1,0,0,0,0,1,heb_ev_22,below,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,neither-epi,0,1,,0,1,0,0,0,1,heb_ev_24,below,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,heb_ev_77,below,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,conj-contrast-sta,1,0,1,1,0,1,0,0,0,heb_ev_79,below,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,disj-spk,0,0,,1,0,1,0,0,0,heb_ev_81,below,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,heb_ev_83,below,,Hebrew,NA,NA,NA,NA,NA,NA
+ve,lo ... ve-lo,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,heb_ev_85,below,,Hebrew,NA,NA,NA,NA,NA,NA
+o,lo ... o,neither-sta,0,1,,1,0,0,0,0,1,heb_ev_23,above,,Hebrew,NA,NA,NA,NA,NA,NA
+o,lo ... o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,heb_ev_78,above,,Hebrew,NA,NA,NA,NA,NA,NA
+o,lo ... o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,heb_ev_80,above,,Hebrew,NA,NA,NA,NA,NA,NA
+o,lo ... o,disj-spk,0,0,,1,0,1,0,0,0,heb_ev_82,above,,Hebrew,NA,NA,NA,NA,NA,NA
+o,lo ... o,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,heb_ev_84,above,,Hebrew,NA,NA,NA,NA,NA,NA
+o,lo ... o,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,heb_ev_86,above,,Hebrew,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,HIN_EVD_38,neither,,Hindi,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,HIN_EVD_5,neither,,Hindi,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"HIN_EVD_3, HIN_EVD_31, HIN_EVD_32",neither,Conflicting evidence,Hindi,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"HIN_EVD_12, HIN_EVD_47",neither,,Hindi,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"HIN_EVD_8, HIN_EVD_46",neither,,Hindi,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-nspk-exc,0,0,,,0,0,0,0,0,"HIN_EVD_62, HIN_EVD_63",neither,,Hindi,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,HIN_EVD_48,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,HIN_EVD_4,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,HIN_EVD_2,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur,disj-nspk-exc,0,0,,,0,0,0,0,0,HIN_EVD_34,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur,disj-nspk-inc,?,0,,1,0,0,0,0,?,"HIN_EVD_35, HIN_EVD_36",neither,Conflicting evidence,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur,disj-spk,0,0,,1,0,1,0,0,0,HIN_EVD_33,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur,neither,0,1,,,,0,0,0,0,HIN_EVD_37,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,aur … bhi …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,HIN_EVD_1,neither,,Hindi,NA,NA,NA,NA,NA,NA
+aur,bhi nahi … aur … bhi nahi …,neither,0,1,,,,0,0,0,1,"HIN_EVD_28, HIN_EVD_29",below,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,lekin,conj-contrast-epi,1,0,1,0,0,1,0,0,1,HIN_EVD_7,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,lekin,conj-contrast-sta,1,0,1,1,0,1,0,0,1,HIN_EVD_6,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,lekin,disj-nspk-exc,0,0,,,0,0,0,0,0,HIN_EVD_43,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,lekin,disj-nspk-inc,?,0,,1,0,0,0,0,0,HIN_EVD_44,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,lekin,disj-spk,0,0,,1,0,1,0,0,0,HIN_EVD_42,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,lekin,neither,0,1,,,,0,0,0,0,HIN_EVD_45,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,nahi … lekin …,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,HIN_EVD_11,neither,,Hindi,NA,NA,NA,NA,NA,NA
+lekin,nahi … lekin …,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,0,"HIN_EVD_9, HIN_EVD_10",neither,,Hindi,NA,NA,NA,NA,NA,NA
+magar,magar,conj-contrast-sta,1,0,1,1,0,1,0,0,1,HIN_EVD_41,neither,,Hindi,NA,NA,NA,NA,NA,NA
+par,par,conj-contrast-sta,1,0,1,1,0,1,0,0,1,HIN_EVD_40,neither,,Hindi,NA,NA,NA,NA,NA,NA
+parantu,parantu,conj-contrast-sta,1,0,1,1,0,1,0,0,1,HIN_EVD_39,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,bhi … ya … bhi,disj-nspk-inc,?,0,,1,0,0,0,0,1,HIN_EVD_25,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-exc,0,0,,,0,0,0,0,1,HIN_EVD_68,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-inc,?,0,,1,0,0,0,0,0,HIN_EVD_73,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-nspk-q,0,0,,,0,0,1,0,1,"HIN_EVD_26, HIN_EVD_27, HIN_EVD_76",neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya,disj-spk,0,0,,1,0,1,0,0,1,HIN_EVD_59,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya,fc,0,0,,0,0,0,0,1,1,HIN_EVD_78,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,HIN_EVD_51,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,HIN_EVD_49,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,disj-nspk-exc,0,0,,,0,0,0,0,1,"HIN_EVD_53, HIN_EVD_66, HIN_EVD_67",neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,disj-nspk-inc,?,0,,1,0,0,0,0,?,"HIN_EVD_55, HIN_EVD_57, HIN_EVD_71, HIN_EVD_72",neither,Conflicting evidence,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,disj-nspk-q,0,0,,,0,0,1,0,0,HIN_EVD_75,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,disj-spk,0,0,,1,0,1,0,0,1,"HIN_EVD_13, HIN_EVD_15, HIN_EVD_17",neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,fc,0,0,,0,0,0,0,1,1,HIN_EVD_77,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya … ya …,neither,0,1,,,,0,0,0,0,HIN_EVD_60,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,HIN_EVD_52,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,HIN_EVD_50,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,disj-nspk-exc,0,0,,,0,0,0,0,1,"HIN_EVD_19, HIN_EVD_20, HIN_EVD_21, HIN_EVD_54, HIN_EVD_64, HIN_EVD_65",neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,disj-nspk-inc,?,0,,1,0,0,0,0,?,"HIN_EVD_22, HIN_EVD_23, HIN_EVD_56, HIN_EVD_58, HIN_EVD_69, HIN_EVD_70",neither,Conflicting evidence,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,disj-nspk-q,0,0,,,0,0,1,0,0,HIN_EVD_74,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,disj-spk,0,0,,1,0,1,0,0,1,"HIN_EVD_14, HIN_EVD_16, HIN_EVD_18",neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,fc,0,0,,0,0,0,0,1,1,HIN_EVD_30,neither,,Hindi,NA,NA,NA,NA,NA,NA
+ya,ya toh … ya …,neither,0,1,,,,0,0,0,0,HIN_EVD_61,neither,,Hindi,NA,NA,NA,NA,NA,NA
+és,és,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,HUN-EVID-001,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+és,és,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,HUN-EVID-003,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+és,és,disj-spk,0,0,,1,0,1,0,0,0,HUN-EVID-033,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+és,és,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,HUN-EVID-034,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+és,és,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,HUN-EVID-035,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+és,és,neither-sta,0,1,,1,0,0,0,0,0,HUN-EVID-036,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+de,de,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"HUN-EVID-005,HUN-EVID-006",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+de,de,conj-contrast-epi,1,0,1,0,0,1,0,0,1,"HUN-EVID-007,HUN-EVID-008",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+de,de,disj-spk,0,0,,1,0,1,0,0,0,"HUN-EVID-038,HUN-EVID-039",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+de,de,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"HUN-EVID-040,HUN-EVID-041",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+de,de,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"HUN-EVID-042,HUN-EVID-043",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+de,de,neither-sta,0,1,,1,0,0,0,0,0,"HUN-EVID-044,HUN-EVID-045",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"HUN-EVID-010,HUN-EVID-011",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"HUN-EVID-012,HUN-EVID-013",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,HUN-EVID-051,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"HUN-EVID-052,HUN-EVID-053",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,disj-spk,0,0,,1,0,1,0,0,0,HUN-EVID-054,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,HUN-EVID-055,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,HUN-EVID-056,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+hanem,hanem,neither-sta,0,1,,1,0,0,0,0,0,HUN-EVID-057,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,disj-spk,0,0,,1,0,1,0,0,1,"HUN-EVID-019,HUN-EVID-020",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"HUN-EVID-022,HUN-EVID-063",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"HUN-EVID-024,HUN-EVID-066",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,HUN-EVID-026,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,disj-nspk-sta-inc-q,?,0,,1,0,0,1,0,1,HUN-EVID-027,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,fc,0,0,,0,0,0,0,1,1,HUN-EVID-030,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,HUN-EVID-059,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,conj-contrast-sta,1,0,1,1,0,1,0,0,0,HUN-EVID-061,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy,vagy,neither-sta,0,0,,1,0,0,0,0,0,HUN-EVID-067,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,disj-spk,0,0,,1,0,1,0,0,1,"HUN-EVID-014,HUN-EVID-015,HUN-EVID-016,HUN-EVID-017,HUN-EVID-018",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,disj-nspk-epi,0,0,1,0,0,0,0,0,1,HUN-EVID-021,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"HUN-EVID-023,HUN-EVID-064,HUN-EVID-071",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"HUN-EVID-025,HUN-EVID-056,HUN-EVID-057",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,fc,0,0,,0,0,0,0,1,1,HUN-EVID-031,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,HUN-EVID-060,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,conj-contrast-sta,1,0,1,1,0,1,0,0,0,HUN-EVID-062,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,HUN-EVID-065,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,neither-sta,0,0,,1,0,0,0,0,0,HUN-EVID-068,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+vagy…vagy,vagy...vagy,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,HUN-EVID-075,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+se nem…se nem,se nem...se nem,neither-sta,0,1,,1,0,0,0,0,1,HUN-EVID-028,below,,Hungarian,NA,NA,NA,NA,NA,NA
+se nem…se nem,se nem...se nem,neither-epi,0,1,,0,1,0,0,0,1,HUN-EVID-029,below,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"HUN-EVID-002,HUN-EVID-032",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,HUN-EVID-004,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"HUN-EVID-009,HUN-EVID-035",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,HUN-EVID-034,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"HUN-EVID-047,HUN-EVID-048,HUN-EVID-049,HUN-EVID-050",neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk,0,0,,1,0,1,0,0,0,HUN-EVID-058,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-epi,0,0,1,0,0,0,0,0,0,HUN-EVID-069,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,HUN-EVID-070,neither,,Hungarian,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,*,Igbo_Evi_39,neither,Conflicting or uncertain evidence: *,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,Igbo_Evi_41,neither,,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,Igbo_Evi_40,neither,,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,?,Igbo_Evi_34,neither,Conflicting or uncertain evidence: ?,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"Igbo_Evi_4,Igbo_Evi_29",neither,,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,Igbo_Evi_21,neither,,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,Igbo_Evi_52,neither,,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,*,Igbo_Evi_44,neither,Conflicting or uncertain evidence: *,Igbo,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,neither-sta,0,1,,1,0,0,0,0,?,Igbo_Evi_55,neither,Conflicting or uncertain evidence: ?,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-ghi … -ghi-kwa,conj-contrast-sta,1,0,1,1,0,1,0,0,0,Igbo_Evi_57,below,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-ghi … -ghi-kwa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,Igbo_Evi_56,below,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-ghi … -ghi-kwa,disj-spk,0,0,0,1,0,1,0,0,0,"Igbo_Evi_58,Igbo_Evi_59,Igbo_Evi_60",below,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-ghi … -ghi-kwa,negative,0,1,,1,,0,0,0,1,Igbo_Evi_20,below,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-ghi … -ghi-kwa,neither-epi,0,1,,0,1,0,0,0,1,Igbo_Evi_18,below,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-ghi … -ghi-kwa,neither-sta,0,1,,1,0,0,0,0,1,Igbo_Evi_17,below,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-kwa,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,Igbo_Evi_3,neither,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-kwa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Igbo_Evi_1,neither,,Igbo,NA,NA,NA,NA,NA,NA
+-kwa,-kwa,disj-spk,0,0,,0,0,1,0,0,?,"Igbo_Evi_22,Igbo_Evi_24,Igbo_Evi_25,Igbo_Evi_27",neither,"Conflicting or uncertain evidence: felicitous, infelicitous",Igbo,NA,NA,NA,NA,NA,NA
+ka o bu,ka o bu,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,"Igbo_Evi_14,Igbo_Evi_54",neither,,Igbo,NA,NA,NA,NA,NA,NA
+ka o bu,ka o bu,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,"Igbo_Evi_15,Igbo_Evi_16",neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,conj-contrast-epi,1,0,1,0,0,1,0,0,?,"Igbo_Evi_6,Igbo_Evi_39",neither,"Conflicting or uncertain evidence: *, felicitous",Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,Igbo_Evi_8,neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,Igbo_Evi_7,neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,conj-contrast-sta,1,0,1,1,0,1,0,0,1,Igbo_Evi_5,neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,Igbo_Evi_36,neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,Igbo_Evi_37,neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,disj-spk,0,0,,1,0,1,0,0,0,Igbo_Evi_35,neither,,Igbo,NA,NA,NA,NA,NA,NA
+mana,mana,neither-sta,0,1,,1,0,0,0,0,0,Igbo_Evi_38,neither,,Igbo,NA,NA,NA,NA,NA,NA
+na,na,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Igbo_Evi_2,neither,,Igbo,NA,NA,NA,NA,NA,NA
+na,na,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,Igbo_Evi_26,neither,,Igbo,NA,NA,NA,NA,NA,NA
+na,na,disj-spk,0,0,,1,0,1,0,0,?,Igbo_Evi_23,neither,Conflicting or uncertain evidence: ??,Igbo,NA,NA,NA,NA,NA,NA
+na,na,neither-sta,0,1,,1,0,0,0,0,0,Igbo_Evi_28,neither,,Igbo,NA,NA,NA,NA,NA,NA
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,disj-nspk-epi,0,0,1,0,0,0,0,0,?,"Igbo_Evi_11,Igbo_Evi_50,Igbo_Evi_51",neither,"Conflicting or uncertain evidence: *, felicitous",Igbo,NA,NA,NA,NA,NA,NA
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"Igbo_Evi_12,Igbo_Evi_47,Igbo_Evi_53",neither,,Igbo,NA,NA,NA,NA,NA,NA
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,disj-spk,0,0,,1,0,1,0,0,?,"Igbo_Evi_9,Igbo_Evi_10,Igbo_Evi_42,Igbo_Evi_43,Igbo_Evi_45,Igbo_Evi_46,Igbo_Evi_49",neither,"Conflicting or uncertain evidence: *, felicitous, infelicitous",Igbo,NA,NA,NA,NA,NA,NA
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,fc,0,0,,0,0,0,0,1,1,"Igbo_Evi_19,Igbo_Evi_61",neither,,Igbo,NA,NA,NA,NA,NA,NA
+"nwere ike ... ,ma o bu",nwere ike ... nwere ike ... ma o bu,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,Igbo_Evi_13,neither,,Igbo,NA,NA,NA,NA,NA,NA
+-de,-de,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,jp_ev_001,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-de,-de,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_042,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-de,-de,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_047,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-de,-de,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_052,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-de,-de,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_057,neither,,Japanese,NA,NA,NA,NA,NA,NA
+katsu,-de katsu,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,jp_ev_002,neither,,Japanese,NA,NA,NA,NA,NA,NA
+katsu,-de katsu,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_043,neither,,Japanese,NA,NA,NA,NA,NA,NA
+katsu,-de katsu,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_048,neither,,Japanese,NA,NA,NA,NA,NA,NA
+katsu,-de katsu,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_053,neither,,Japanese,NA,NA,NA,NA,NA,NA
+katsu,-de katsu,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_058,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-de mata,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,jp_ev_003,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-de mata,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_044,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-de mata,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_049,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-de mata,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_054,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-de mata,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_059,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,-de soshite,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,jp_ev_004,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,-de soshite,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_045,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,-de soshite,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_050,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,-de soshite,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_055,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,-de soshite,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_060,neither,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,-de sorekara,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,jp_ev_005,neither,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,-de sorekara,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_046,neither,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,-de sorekara,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_051,neither,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,-de sorekara,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_056,neither,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,-de sorekara,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_061,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-shi,-shi,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,jp_ev_006,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-shi,-shi,conj-contrast-epi,1,0,1,0,0,1,0,0,1,jp_ev_062,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-shi,-shi,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_064,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-shi,-shi,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,jp_ev_066,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-shi,-shi,neither-epi,0,1,,0,1,0,0,0,0,jp_ev_068,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-shi mata,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,jp_ev_007,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-shi mata,conj-contrast-epi,1,0,1,0,0,1,0,0,1,jp_ev_063,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-shi mata,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_065,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-shi mata,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,jp_ev_067,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,-shi mata,neither-epi,0,1,,0,1,0,0,0,0,jp_ev_069,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_008,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,conj-contrast-epi,1,0,1,0,0,1,0,0,1,jp_ev_012,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,jp_ev_016,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,jp_ev_017,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,jp_ev_070,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_074,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_078,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ga,-ga,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_082,neither,,Japanese,NA,NA,NA,NA,NA,NA
+shikashi,-ga shikashi,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_009,neither,,Japanese,NA,NA,NA,NA,NA,NA
+shikashi,-ga shikashi,conj-contrast-epi,1,0,1,0,0,1,0,0,1,jp_ev_013,neither,,Japanese,NA,NA,NA,NA,NA,NA
+shikashi,-ga shikashi,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,jp_ev_071,neither,Judgment is '??',Japanese,NA,NA,NA,NA,NA,NA
+shikashi,-ga shikashi,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_075,neither,,Japanese,NA,NA,NA,NA,NA,NA
+shikashi,-ga shikashi,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_079,neither,,Japanese,NA,NA,NA,NA,NA,NA
+shikashi,-ga shikashi,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_083,neither,,Japanese,NA,NA,NA,NA,NA,NA
+tokoroga,-ga tokoroga,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_010,neither,,Japanese,NA,NA,NA,NA,NA,NA
+tokoroga,-ga tokoroga,conj-contrast-epi,1,0,1,0,0,1,0,0,1,jp_ev_014,neither,,Japanese,NA,NA,NA,NA,NA,NA
+tokoroga,-ga tokoroga,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,jp_ev_072,neither,Judgment is '??',Japanese,NA,NA,NA,NA,NA,NA
+tokoroga,-ga tokoroga,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_076,neither,,Japanese,NA,NA,NA,NA,NA,NA
+tokoroga,-ga tokoroga,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_080,neither,,Japanese,NA,NA,NA,NA,NA,NA
+tokoroga,-ga tokoroga,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_084,neither,,Japanese,NA,NA,NA,NA,NA,NA
+demo,-ga demo,conj-contrast-sta,1,0,1,1,0,1,0,0,1,jp_ev_011,neither,,Japanese,NA,NA,NA,NA,NA,NA
+demo,-ga demo,conj-contrast-epi,1,0,1,0,0,1,0,0,1,jp_ev_015,neither,,Japanese,NA,NA,NA,NA,NA,NA
+demo,-ga demo,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,jp_ev_073,neither,Judgment is '??',Japanese,NA,NA,NA,NA,NA,NA
+demo,-ga demo,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_077,neither,,Japanese,NA,NA,NA,NA,NA,NA
+demo,-ga demo,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_081,neither,,Japanese,NA,NA,NA,NA,NA,NA
+demo,-ga demo,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_085,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka,-ka,disj-spk,0,0,,1,0,1,0,0,1,"jp_ev_018,jp_ev_022",neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka,-ka,disj-nspk-epi,0,0,1,0,0,0,0,0,1,jp_ev_026,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka,-ka,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"jp_ev_028,jp_ev_094",neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka,-ka,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_086,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka,-ka,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_090,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka,-ka,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_098,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,disj-spk,0,0,,1,0,1,0,0,1,"jp_ev_019,jp_ev_023",neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"jp_ev_029,jp_ev_097",neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,jp_ev_032,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,disj-nspk-sta-q,?,0,,1,0,0,1,0,1,jp_ev_034,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_089,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_093,neither,,Japanese,NA,NA,NA,NA,NA,NA
+-ka ... -ka,-ka ... -ka,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_101,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa,disj-spk,0,0,,1,0,1,0,0,1,"jp_ev_020,jp_ev_024",neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa,disj-nspk-epi,0,0,1,0,0,0,0,0,1,jp_ev_027,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,jp_ev_030,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_087,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_091,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_099,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa -ka,disj-spk,0,0,,1,0,1,0,0,1,"jp_ev_021,jp_ev_025",neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa -ka,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"jp_ev_031,jp_ev_096",neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa -ka,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_088,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa -ka,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_092,neither,,Japanese,NA,NA,NA,NA,NA,NA
+matawa,-ka matawa -ka,neither-sta,0,1,,1,0,0,0,0,0,jp_ev_100,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soretomo,-ka soretomo -ka,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,jp_ev_033,neither,,Japanese,NA,NA,NA,NA,NA,NA
+soretomo,-ka soretomo -ka,disj-nspk-sta-q,?,0,,1,0,0,1,0,1,jp_ev_035,neither,,Japanese,NA,NA,NA,NA,NA,NA
+mata,nai-shi mata ... nai,neither-sta,0,1,,1,0,0,0,0,1,jp_ev_036,below,,Japanese,NA,NA,NA,NA,NA,NA
+mata,nai-shi mata ... nai,neither-epi,0,1,,0,1,0,0,0,1,jp_ev_039,below,,Japanese,NA,NA,NA,NA,NA,NA
+mata,nai-shi mata ... nai,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_102,below,,Japanese,NA,NA,NA,NA,NA,NA
+mata,nai-shi mata ... nai,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_105,below,,Japanese,NA,NA,NA,NA,NA,NA
+mata,nai-shi mata ... nai,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_108,below,,Japanese,NA,NA,NA,NA,NA,NA
+mata,nai-shi mata ... nai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_111,below,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,nai-shi sorekara ... nai,neither-sta,0,1,,1,0,0,0,0,1,jp_ev_037,below,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,nai-shi sorekara ... nai,neither-epi,0,1,,0,1,0,0,0,?,jp_ev_041,below,Judgment is '??',Japanese,NA,NA,NA,NA,NA,NA
+sorekara,nai-shi sorekara ... nai,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_103,below,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,nai-shi sorekara ... nai,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_106,below,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,nai-shi sorekara ... nai,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_109,below,,Japanese,NA,NA,NA,NA,NA,NA
+sorekara,nai-shi sorekara ... nai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_112,below,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,nai-shi soshite ... nai,neither-sta,0,1,,1,0,0,0,0,1,jp_ev_038,below,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,nai-shi soshite ... nai,neither-epi,0,1,,0,1,0,0,0,1,jp_ev_040,below,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,nai-shi soshite ... nai,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,jp_ev_104,below,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,nai-shi soshite ... nai,conj-contrast-sta,1,0,1,1,0,1,0,0,0,jp_ev_107,below,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,nai-shi soshite ... nai,disj-spk,0,0,,1,0,1,0,0,0,jp_ev_110,below,,Japanese,NA,NA,NA,NA,NA,NA
+soshite,nai-shi soshite ... nai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,jp_ev_113,below,,Japanese,NA,NA,NA,NA,NA,NA
+nangk,nangk,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Khmer_evidence_1,neither,,Khmer,NA,NA,NA,NA,NA,NA
+nangk,nangk,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,Khmer_evidence_4,neither,,Khmer,NA,NA,NA,NA,NA,NA
+nangk,nangk,disj-spk,0,0,,1,0,1,0,0,0,Khmer_evidence_22,neither,,Khmer,NA,NA,NA,NA,NA,NA
+nangk,nangk,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,Khmer_evidence_24,neither,,Khmer,NA,NA,NA,NA,NA,NA
+nangk,nangk,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,Khmer_evidence_26,neither,,Khmer,NA,NA,NA,NA,NA,NA
+nangk,nangk,neither-sta,0,1,,1,0,0,0,0,0,Khmer_evidence_28,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,haj,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Khmer_evidence_2,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,haj,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,Khmer_evidence_5,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,haj,disj-spk,0,0,,1,0,1,0,0,0,Khmer_evidence_23,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,haj,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,Khmer_evidence_25,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,haj,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,Khmer_evidence_27,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,haj,neither-sta,0,1,,1,0,0,0,0,0,Khmer_evidence_29,neither,,Khmer,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Khmer_evidence_3,neither,,Khmer,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,?,"Khmer_evidence_32, Khmer_evidence_33",neither,Judgment is recorded as ?(?),Khmer,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,Khmer_evidence_43,neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"Khmer_evidence_6, Khmer_evidence_7, Khmer_evidence_30, Khmer_evidence_31",neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,conj-contrast-epi,1,0,1,0,0,1,0,0,1,Khmer_evidence_8,neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,Khmer_evidence_9,neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,Khmer_evidence_10,neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,disj-spk,0,0,,1,0,1,0,0,0,"Khmer_evidence_34, Khmer_evidence_35",neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"Khmer_evidence_36, Khmer_evidence_37",neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"Khmer_evidence_38, Khmer_evidence_39",neither,,Khmer,NA,NA,NA,NA,NA,NA
+pon.tai,pon.tai,neither-sta,0,1,,1,0,0,0,0,0,"Khmer_evidence_40, Khmer_evidence_41",neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,Khmer_evidence_44,neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,conj-contrast-sta,1,0,1,1,0,1,0,0,0,Khmer_evidence_45,neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,disj-spk,0,0,,1,0,1,0,0,1,"Khmer_evidence_11, Khmer_evidence_12, Khmer_evidence_42",neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,disj-nspk-epi,0,0,1,0,0,0,0,0,1,"Khmer_evidence_13, Khmer_evidence_14",neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"Khmer_evidence_15, Khmer_evidence_46",neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"Khmer_evidence_16, Khmer_evidence_47",neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,Khmer_evidence_17,neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,Khmer_evidence_18,neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,neither-sta,0,0,,1,0,0,0,0,0,Khmer_evidence_48,neither,,Khmer,NA,NA,NA,NA,NA,NA
+reuh,reuh,fc,0,0,,0,0,0,0,1,1,Khmer_evidence_21,neither,,Khmer,NA,NA,NA,NA,NA,NA
+haj,m-nmen … haj … m-nmen …,neither-sta,0,1,,1,0,0,0,0,1,Khmer_evidence_19,below,,Khmer,NA,NA,NA,NA,NA,NA
+haj,m-n … haj … m-n …,neither-epi,0,1,,0,1,0,0,0,1,Khmer_evidence_20,below,,Khmer,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"kii_ev_3,kii_ev_30",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kii_ev_22,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,0,kii_ev_36,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,kii_ev_38,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,kii_ev_37,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kii_ev_31,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-epi,0,0,1,0,0,0,0,0,0,kii_ev_58,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,kii_ev_59,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk-sta,0,0,0,1,0,1,0,0,0,kii_ev_39,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-sta,0,1,0,1,0,0,0,0,0,kii_ev_64,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,MOD + kana,disj-nspk-epi,0,0,1,0,0,0,0,0,1,"kii_ev_13,kii_ev_56",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,MOD + kana,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,1,"kii_ev_15,kii_ev_27,kii_ev_32,kii_ev_52,kii_ev_53",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,MOD + kana,disj-spk-sta,0,0,0,1,0,1,0,0,1,"kii_ev_10,kii_ev_11",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,disj-nspk-epi,0,0,1,0,0,0,0,0,0,kii_ev_57,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,?,"kii_ev_14,kii_ev_47,kii_ev_48",neither,Conflicting evidence,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,"kii_ev_50,kii_ev_51",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,disj-q-epi,0,0,1,0,0,0,1,0,1,"kii_ev_16,kii_ev_61",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,disj-q-sta,?,0,0,1,0,0,1,0,1,kii_ev_17,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,disj-spk-sta,0,0,0,1,0,1,0,0,?,"kii_ev_40,kii_ev_41",neither,Conflicting evidence,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,fc,0,0,0,0,0,0,0,1,?,"kii_ev_20,kii_ev_70,kii_ev_71",neither,Conflicting evidence,Kiitharaka,NA,NA,NA,NA,NA,NA
+kana,kana,neither-sta,0,1,0,1,0,0,0,0,0,kii_ev_55,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,MOD + na,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,1,kii_ev_25,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kii_ev_42,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kii_ev_44,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,1,"kii_ev_46,kii_ev_60",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,kii_ev_49,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,disj-q-epi,0,0,1,0,0,0,1,0,1,"kii_ev_62,kii_ev_63",neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,disj-spk-sta,0,0,0,1,0,1,0,0,1,kii_ev_12,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,fc,0,0,0,0,0,0,0,1,1,kii_ev_72,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,gati ka … na …,neither-sta,0,1,0,1,0,0,0,0,0,kii_ev_54,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,na,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,kii_ev_2,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,na,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,kii_ev_1,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,na,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,kii_ev_24,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,na,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,kii_ev_26,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,na,disj-spk-sta,0,0,0,1,0,1,0,0,0,kii_ev_23,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,na,neither-sta,0,1,0,1,0,0,0,0,0,kii_ev_28,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kii_ev_65,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kii_ev_66,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,kii_ev_68,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,kii_ev_69,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,disj-spk-sta,0,0,0,1,0,1,0,0,0,kii_ev_67,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,negative,0,1,0,1,0,0,0,0,1,kii_ev_21,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,neither-epi,0,1,0,0,1,0,0,0,1,kii_ev_19,below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+na,ti … na ti,neither-sta,0,1,0,1,0,0,0,0,1,"kii_ev_18,kii_ev_29",below,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,conj-contrast-epi,1,0,1,0,0,1,0,0,1,kii_ev_5,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,kii_ev_9,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,kii_ev_7,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,conj-contrast-sta,1,0,1,1,0,1,0,0,1,kii_ev_4,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,kii_ev_33,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,kii_ev_34,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,disj-spk-sta,0,0,0,1,0,1,0,0,0,kii_ev_32,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+îndî,îndî,neither-sta,0,1,0,1,0,0,0,0,0,kii_ev_35,neither,,Kiitharaka,NA,NA,NA,NA,NA,NA
+-ko,-ko,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"kor_evidence_1,kor_evidence_47",neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"kor_evidence_2,kor_evidence_3,kor_evidence_48,kor_evidence_49",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"kor_evidence_4,kor_evidence_5,kor_evidence_62,kor_evidence_63",neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"kor_evidence_6,kor_evidence_7,kor_evidence_64,kor_evidence_65",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"kor_evidence_8,kor_evidence_9",neither,,Korean,NA,NA,NA,NA,NA,NA
+haciman,haciman,conj-contrast-sta,1,0,1,1,0,1,0,0,1,kor_evidence_10,neither,,Korean,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,kor_evidence_82,neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,conj-contrast-epi,1,0,1,0,0,1,0,0,1,kor_evidence_11,neither,,Korean,NA,NA,NA,NA,NA,NA
+la,(ani-) la,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"kor_evidence_12,kor_evidence_13,kor_evidence_98",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"kor_evidence_14,kor_evidence_15",neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,disj-spk,0,0,,1,0,1,0,0,1,"kor_evidence_16,kor_evidence_19,kor_evidence_99",neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,disj-spk,0,0,,1,0,1,0,0,1,"kor_evidence_17,kor_evidence_20,kor_evidence_100",neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,disj-spk,0,0,,1,0,1,0,0,1,"kor_evidence_18,kor_evidence_21,kor_evidence_101",neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,disj-nspk-epi,0,0,1,0,0,0,0,0,1,"kor_evidence_22,kor_evidence_23",neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,disj-nspk-epi,0,0,1,0,0,0,0,0,1,"kor_evidence_24,kor_evidence_25",neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,disj-nspk-epi,0,0,1,0,0,0,0,0,1,"kor_evidence_26,kor_evidence_27",neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"kor_evidence_28,kor_evidence_108",neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"kor_evidence_29,kor_evidence_109",neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"kor_evidence_30,kor_evidence_110",neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"kor_evidence_31,kor_evidence_111",neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,kor_evidence_112,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,kor_evidence_113,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,animyen,disj-nspk-q,0,0,1,0,0,0,1,0,1,"kor_evidence_32,kor_evidence_34,kor_evidence_36,kor_evidence_117",neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,ttonun,disj-nspk-q,0,0,1,0,0,0,1,0,1,"kor_evidence_33,kor_evidence_35,kor_evidence_37,kor_evidence_118",neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,disj-nspk-q,0,0,1,0,0,0,1,0,1,kor_evidence_119,neither,,Korean,NA,NA,NA,NA,NA,NA
+...ko...,-to … ani/anh- … -ko … -to ani/anh- …,neither-sta,0,1,,1,0,0,0,0,1,kor_evidence_38,below,,Korean,NA,NA,NA,NA,NA,NA
+...ko...,-to … ani/anh- … -ko … -to ani/anh- …,neither-epi,0,1,,0,1,0,0,0,1,"kor_evidence_39,kor_evidence_40",below,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,fc,0,0,,0,0,0,0,1,1,kor_evidence_41,neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,fc,0,0,,0,0,0,0,1,1,kor_evidence_42,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,fc,0,0,,0,0,0,0,1,1,kor_evidence_43,neither,,Korean,NA,NA,NA,NA,NA,NA
+-ina,-ina,fc,0,0,,0,0,0,0,1,1,kor_evidence_44,neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-ina ttonun,fc,0,0,,0,0,0,0,1,1,kor_evidence_45,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-ina animyen,fc,0,0,,0,0,0,0,1,1,kor_evidence_46,neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,disj-spk,0,0,,1,0,1,0,0,0,"kor_evidence_50,kor_evidence_66,kor_evidence_67",neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,disj-spk,0,0,,1,0,1,0,0,0,"kor_evidence_51,kor_evidence_52,kor_evidence_68,kor_evidence_69",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,kor_evidence_53,neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"kor_evidence_54,kor_evidence_55",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,kor_evidence_56,neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"kor_evidence_57,kor_evidence_58",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,neither-sta,0,1,,1,0,0,0,0,0,kor_evidence_59,neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,neither-sta,0,1,,1,0,0,0,0,0,"kor_evidence_60,kor_evidence_61",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,"kor_evidence_70,kor_evidence_71",neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,"kor_evidence_72,kor_evidence_73",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,disj-nspk-epi-inc,?,0,,0,0,0,0,0,0,"kor_evidence_74,kor_evidence_75",neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,disj-nspk-epi-inc,?,0,,0,0,0,0,0,0,"kor_evidence_76,kor_evidence_77",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ko,-ko,neither-epi,0,1,,0,0,0,0,0,0,"kor_evidence_78,kor_evidence_79",neither,,Korean,NA,NA,NA,NA,NA,NA
+kuliko,kuliko,neither-epi,0,1,,0,0,0,0,0,0,"kor_evidence_80,kor_evidence_81",neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,disj-spk,0,0,,1,0,1,0,0,0,"kor_evidence_83,kor_evidence_84",neither,,Korean,NA,NA,NA,NA,NA,NA
+haciman,haciman,disj-spk,0,0,,1,0,1,0,0,0,kor_evidence_85,neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"kor_evidence_86,kor_evidence_87",neither,,Korean,NA,NA,NA,NA,NA,NA
+haciman,haciman,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,kor_evidence_88,neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"kor_evidence_89,kor_evidence_90",neither,,Korean,NA,NA,NA,NA,NA,NA
+haciman,haciman,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,kor_evidence_91,neither,,Korean,NA,NA,NA,NA,NA,NA
+-ciman,-ciman,neither-sta,0,1,,1,0,0,0,0,0,"kor_evidence_92,kor_evidence_93",neither,,Korean,NA,NA,NA,NA,NA,NA
+haciman,haciman,neither-sta,0,1,,1,0,0,0,0,0,kor_evidence_94,neither,,Korean,NA,NA,NA,NA,NA,NA
+la,(ani-) la,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kor_evidence_95,neither,,Korean,NA,NA,NA,NA,NA,NA
+la,(ani-) la,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kor_evidence_96,neither,,Korean,NA,NA,NA,NA,NA,NA
+la,(ani-) la,neither-sta,0,1,,1,0,0,0,0,0,kor_evidence_97,neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kor_evidence_102,neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kor_evidence_103,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,kor_evidence_104,neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kor_evidence_105,neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kor_evidence_106,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,conj-contrast-sta,1,0,1,1,0,1,0,0,0,kor_evidence_107,neither,,Korean,NA,NA,NA,NA,NA,NA
+-kena,-kena,neither-sta,0,1,,1,0,0,0,0,0,kor_evidence_114,neither,,Korean,NA,NA,NA,NA,NA,NA
+ttonun,-kena ttonun,neither-sta,0,1,,1,0,0,0,0,0,kor_evidence_115,neither,,Korean,NA,NA,NA,NA,NA,NA
+animyen,-kena animyen,neither-sta,0,1,,1,0,0,0,0,0,kor_evidence_116,neither,,Korean,NA,NA,NA,NA,NA,NA
+ka,ka,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"mapudungun-ev-1,mapudungun-ev-2",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+ka,ka,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"mapudungun-ev-4,mapudungun-ev-5",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,mapudungun-ev-3,n/a,,Mapudungun,NA,NA,NA,NA,NA,NA
+welu,welu,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"mapudungun-ev-6,mapudungun-ev-7",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+welu,welu,conj-contrast-epi,1,0,1,0,0,1,0,0,1,"mapudungun-ev-8,mapudungun-ev-9,mapudungun-ev-10,mapudungun-ev-11",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+re,re,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,mapudungun-ev-12,neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+kam,kam,disj-spk,0,0,,1,0,1,0,0,1,"mapudungun-ev-13,mapudungun-ev-14",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+kam,kam,disj-nspk-epi,0,0,1,0,0,0,0,0,1,"mapudungun-ev-15,mapudungun-ev-16",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+kam,kam,disj-nspk-sta,0,0,,1,0,0,0,0,1,mapudungun-ev-17,neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+kam,kam,disj-nspk-inc,?,0,,1,0,0,0,0,1,mapudungun-ev-18,neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+kam,kam,disj-nspk-q,0,0,1,0,0,0,1,0,1,"mapudungun-ev-19,mapudungun-ev-20",neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+kam,kam,fc,0,0,,0,0,0,0,1,1,mapudungun-ev-23,neither,,Mapudungun,NA,NA,NA,NA,NA,NA
+ka,rüme ka,neither-sta,0,1,,1,0,0,0,0,1,mapudungun-ev-21,below,,Mapudungun,NA,NA,NA,NA,NA,NA
+ka,rüme ka,neither-epi,0,1,,0,1,0,0,0,1,mapudungun-ev-22,below,,Mapudungun,NA,NA,NA,NA,NA,NA
+ka,rüme ka,negative,0,1,,1,,0,0,0,1,mapudungun-ev-24,below,,Mapudungun,NA,NA,NA,NA,NA,NA
+i,i…i,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,RUS_EVID_001,neither,,Russian,NA,NA,NA,NA,NA,NA
+i,i…i,conj-nocontrast-epi,1,0,0,0,0,1,0,0,?,RUS_EVID_026,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+i,i…i,disj-spk,0,0,,1,0,1,0,0,0,RUS_EVID_022,neither,,Russian,NA,NA,NA,NA,NA,NA
+i,i…i,disj-nspk-exc,0,0,,1,0,0,0,0,?,RUS_EVID_023,neither,Judgment is '??',Russian,NA,NA,NA,NA,NA,NA
+i,i…i,disj-nspk-inc,?,0,,1,0,0,0,0,0,RUS_EVID_024,neither,,Russian,NA,NA,NA,NA,NA,NA
+i,i…i,neither,0,1,,1,0,0,0,0,0,RUS_EVID_025,neither,,Russian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"RUS_EVID_002,RUS_EVID_020",neither,Conflicting evidence found.,Russian,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,?,RUS_EVID_027,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk,0,0,,1,0,1,0,0,?,RUS_EVID_040,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-exc,0,0,1,0,0,0,0,0,?,RUS_EVID_047,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+∅,∅,neither,0,1,,1,0,0,0,0,?,RUS_EVID_053,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+a,a,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"RUS_EVID_021,RUS_EVID_034",neither,Judgments are infelicitous and '*',Russian,NA,NA,NA,NA,NA,NA
+a,a,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,RUS_EVID_003,neither,,Russian,NA,NA,NA,NA,NA,NA
+a,a,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"RUS_EVID_029,RUS_EVID_035",neither,,Russian,NA,NA,NA,NA,NA,NA
+a,a,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,RUS_EVID_006,neither,,Russian,NA,NA,NA,NA,NA,NA
+a,a,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,RUS_EVID_007,neither,,Russian,NA,NA,NA,NA,NA,NA
+a,a,disj-spk,0,0,,1,0,1,0,0,?,RUS_EVID_036,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+a,a,disj-nspk-exc,0,0,,1,0,0,0,0,?,RUS_EVID_037,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+a,a,disj-nspk-inc,?,0,,1,0,0,0,0,?,RUS_EVID_038,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+a,a,neither,0,1,,1,0,0,0,0,?,RUS_EVID_039,neither,Judgment is '*',Russian,NA,NA,NA,NA,NA,NA
+no,no,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"RUS_EVID_004,RUS_EVID_028",neither,,Russian,NA,NA,NA,NA,NA,NA
+no,no,conj-contrast-epi,1,0,1,0,0,1,0,0,1,RUS_EVID_005,neither,,Russian,NA,NA,NA,NA,NA,NA
+no,no,disj-spk,0,0,,1,0,1,0,0,0,RUS_EVID_030,neither,,Russian,NA,NA,NA,NA,NA,NA
+no,no,disj-nspk-exc,0,0,,1,0,0,0,0,0,RUS_EVID_031,neither,,Russian,NA,NA,NA,NA,NA,NA
+no,no,disj-nspk-inc,?,0,,1,0,0,0,0,0,RUS_EVID_032,neither,,Russian,NA,NA,NA,NA,NA,NA
+no,no,neither,0,1,,1,0,0,0,0,0,RUS_EVID_033,neither,,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,disj-spk,0,0,,1,0,1,0,0,1,"RUS_EVID_008,RUS_EVID_009",neither,,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,disj-nspk-exc,0,0,1,0,0,0,0,0,1,RUS_EVID_043,neither,,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,disj-nspk-inc,?,0,,1,0,0,0,0,?,"RUS_EVID_044,RUS_EVID_045",neither,Conflicting evidence found.,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,fc,0,0,,0,0,0,0,1,1,RUS_EVID_019,neither,,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,RUS_EVID_041,neither,,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,conj-contrast-sta,1,0,1,1,0,1,0,0,0,RUS_EVID_042,neither,,Russian,NA,NA,NA,NA,NA,NA
+libo,libo…libo,neither,0,0,,1,0,0,0,0,0,RUS_EVID_046,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,disj-spk,0,0,,1,0,1,0,0,1,RUS_EVID_050,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,disj-nspk-exc,0,0,1,0,0,0,0,0,1,"RUS_EVID_010,RUS_EVID_012",neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,disj-nspk-inc,?,0,,1,0,0,0,0,1,RUS_EVID_013,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,fc,0,0,,0,0,0,0,1,1,RUS_EVID_017,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,RUS_EVID_048,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,conj-contrast-sta,1,0,1,1,0,1,0,0,0,RUS_EVID_049,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili…ili,neither,0,1,,1,0,0,0,0,0,RUS_EVID_051,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili,disj-nspk-exc,0,0,1,0,0,0,0,0,1,RUS_EVID_011,neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili,disj-nspk-q,0,0,1,0,0,0,1,0,1,"RUS_EVID_014,RUS_EVID_015",neither,,Russian,NA,NA,NA,NA,NA,NA
+ili,ili,fc,0,0,,0,0,0,0,1,1,RUS_EVID_018,neither,,Russian,NA,NA,NA,NA,NA,NA
+ni,ni…ni,neither,0,1,,1,0,0,0,0,1,RUS_EVID_016,below,,Russian,NA,NA,NA,NA,NA,NA
+ni,ni…ni,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,RUS_EVID_054,below,,Russian,NA,NA,NA,NA,NA,NA
+ni,ni…ni,conj-contrast-sta,1,0,1,1,0,1,0,0,0,RUS_EVID_055,below,,Russian,NA,NA,NA,NA,NA,NA
+ni,ni…ni,disj-spk,0,0,0,1,0,1,0,0,0,RUS_EVID_056,below,,Russian,NA,NA,NA,NA,NA,NA
+ni,ni…ni,disj-nspk-exc,0,0,0,1,0,0,0,0,0,RUS_EVID_057,below,,Russian,NA,NA,NA,NA,NA,NA
+ni,ni…ni,disj-nspk-inc,?,0,0,1,0,0,0,0,0,RUS_EVID_058,below,,Russian,NA,NA,NA,NA,NA,NA
+y,y,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"spa_ev_003,spa_ev_004",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+y,y,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"spa_ev_001,spa_ev_002",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+y,y,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,"spa_ev_034,spa_ev_035",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+y,y,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,"spa_ev_036,spa_ev_037",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+y,y,neither-sta,0,1,0,1,0,0,0,0,0,"spa_ev_038,spa_ev_039",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+pero,pero,conj-contrast-epi,1,0,1,0,0,1,0,0,1,spa_ev_006,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+pero,pero,conj-contrast-sta,1,0,1,1,0,1,0,0,1,spa_ev_005,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+pero,pero,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,spa_ev_053,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+pero,pero,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,spa_ev_054,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+pero,pero,disj-spk,0,0,0,1,0,1,0,0,0,spa_ev_052,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+pero,pero,neither-sta,0,1,0,1,0,0,0,0,0,spa_ev_055,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"spa_ev_009,spa_ev_010",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"spa_ev_007,spa_ev_008",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,conj-contrast-sta,1,0,1,1,0,1,0,0,?,"spa_ev_063,spa_ev_064",neither,"Conflicting evidence: felicitous with explicit negation, infelicitous without.",Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"spa_ev_059,spa_ev_060,spa_ev_061,spa_ev_062",neither,"Conflicting evidence: felicitous with explicit negation, infelicitous without.",Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,?,"spa_ev_067,spa_ev_068",neither,"Conflicting evidence: felicitous with explicit negation, infelicitous without.",Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,?,"spa_ev_069,spa_ev_070",neither,"Conflicting evidence: felicitous with explicit negation, infelicitous without.",Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,disj-spk,0,0,0,1,0,1,0,0,?,"spa_ev_065,spa_ev_066",neither,"Conflicting evidence: felicitous with explicit negation, infelicitous without.",Spanish,NA,NA,NA,NA,NA,NA
+sino que,sino que,neither-sta,0,1,0,1,0,0,0,0,?,"spa_ev_071,spa_ev_072",neither,"Conflicting evidence: felicitous with explicit negation, infelicitous without.",Spanish,NA,NA,NA,NA,NA,NA
+o,o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,spa_ev_076,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,spa_ev_074,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-q,0,0,1,0,0,0,1,0,1,"spa_ev_019,spa_ev_020,spa_ev_021",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,?,spa_ev_078,neither,Original judgment is '?'.,Spanish,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,spa_ev_080,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,disj-spk,0,0,0,1,0,1,0,0,1,"spa_ev_011,spa_ev_012,spa_ev_013,spa_ev_014",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,fc,0,0,0,0,0,0,0,1,1,"spa_ev_024,spa_ev_025,spa_ev_026,spa_ev_027",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,negative,0,1,0,1,0,0,0,0,1,spa_ev_029,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o,o,neither-sta,0,1,0,1,0,0,0,0,0,spa_ev_082,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,spa_ev_077,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,spa_ev_075,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,disj-nspk-epi,0,0,1,0,0,0,0,0,1,spa_ev_015,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,disj-nspk-q,0,0,1,0,0,0,1,0,0,spa_ev_086,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,1,"spa_ev_016,spa_ev_079",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,spa_ev_081,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,fc,0,0,0,0,0,0,0,1,0,"spa_ev_095,spa_ev_096",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+o … o,o … o,neither-sta,0,1,0,1,0,0,0,0,0,spa_ev_083,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,conj-contrast-sta,1,0,1,1,0,1,0,0,0,spa_ev_091,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"spa_ev_089,spa_ev_090","no = negation, but here part of the connective (~ neither)","Conflicting evidence: infelicitous without negation on first conjunct, '*' with negation.",Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,spa_ev_093,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,spa_ev_094,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,disj-spk,0,0,0,1,0,1,0,0,0,spa_ev_092,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,negative,0,1,0,1,0,0,0,0,1,spa_ev_028,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,neither-epi,0,1,0,0,1,0,0,0,1,spa_ev_023,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+no … ni,no … ni,neither-sta,0,1,0,1,0,0,0,0,1,spa_ev_022,"no = negation, but here part of the connective (~ neither)",NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,1,spa_ev_056,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,spa_ev_058,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,spa_ev_057,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"spa_ev_050,spa_ev_051",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,0,"spa_ev_040,spa_ev_041",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"spa_ev_030,spa_ev_031",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-epi,0,0,1,0,0,0,0,0,0,spa_ev_084,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,spa_ev_085,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk,0,0,0,1,0,1,0,0,0,spa_ev_073,neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-sta,0,1,0,1,0,0,0,0,0,"spa_ev_087,spa_ev_088",neither,NA,Spanish,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,tagalog-ev-34,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,tagalog-ev-39,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,tagalog-ev-4,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"tagalog-ev-2, tagalog-ev-25",neither,Conflicting evidence,Tagalog,NA,NA,NA,NA,NA,NA
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-47,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+at,at,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,tagalog-ev-3,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+at,at,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"tagalog-ev-1, tagalog-ev-27",neither,Conflicting evidence,Tagalog,NA,NA,NA,NA,NA,NA
+at,at,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,tagalog-ev-31,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+at,at,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,tagalog-ev-32,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+at,at,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-30,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+at,at,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-33,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+at,hindi … at hindi …,neither-epi,0,1,,0,1,0,0,0,1,tagalog-ev-21,below,,Tagalog,NA,NA,NA,NA,NA,NA
+at,hindi … at hindi …,neither-sta,0,1,,1,0,0,0,0,1,tagalog-ev-19,below,,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,tagalog-ev-8,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,conj-contrast-sta,1,0,1,1,0,1,0,0,1,tagalog-ev-42,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,conj-nocontrast-sta,1,0,0,1,0,1,0,0,?,"tagalog-ev-40, tagalog-ev-41",neither,Conflicting evidence,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,tagalog-ev-44,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,tagalog-ev-45,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-43,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+ngunit,ngunit,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-46,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+ni,hindi … ni hindi …,neither-epi,0,1,,0,1,0,0,0,1,tagalog-ev-22,below,,Tagalog,NA,NA,NA,NA,NA,NA
+ni,hindi … ni hindi …,neither-sta,0,1,,1,0,0,0,0,?,"tagalog-ev-20, tagalog-ev-54, tagalog-ev-55, tagalog-ev-56, tagalog-ev-57",below,Conflicting evidence,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,conj-contrast-sta,1,0,1,1,0,1,0,0,0,tagalog-ev-49,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,tagalog-ev-48,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-epi,0,0,1,0,0,0,0,0,1,tagalog-ev-13,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,tagalog-ev-16,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,"tagalog-ev-14, tagalog-ev-50",neither,Conflicting evidence,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"tagalog-ev-15, tagalog-ev-51, tagalog-ev-52",neither,Conflicting evidence,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,disj-nspk-sta-inc-q,?,0,,1,0,0,1,0,1,"tagalog-ev-17,tagalog-ev-18",neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,disj-spk,0,0,,1,0,1,0,0,1,"tagalog-ev-11,tagalog-ev-12",neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,fc,0,0,,0,0,0,0,1,1,tagalog-ev-23,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+o,o,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-53,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,conj-contrast-epi,1,0,1,0,0,1,0,0,1,tagalog-ev-6,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"tagalog-ev-10,tagalog-ev-9",neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,tagalog-ev-7,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,conj-contrast-sta,1,0,1,1,0,1,0,0,1,tagalog-ev-5,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,tagalog-ev-36,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,tagalog-ev-37,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,disj-spk,0,0,,1,0,1,0,0,0,tagalog-ev-35,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+pero,pero,neither-sta,0,1,,1,0,0,0,0,0,tagalog-ev-38,neither,,Tagalog,NA,NA,NA,NA,NA,NA
+inka,inka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_001,Susie oka doctor inka tanu oka teacher,Susie one doctor and 3.animate one teacher,Susie is a doctor and she is a teacher.,,Q1
+mariyu,mariyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_002,Susie doctor mariyu teacher,Susie doctor and teacher,Susie is a doctor and she is a teacher.,"In this context, mariyu cannot conjoin full clauses, but the consultant is not confident that this is the case in general.",Q1
+mariyu,mariyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_003,Susie oka doctor mariyu teacher,Susie one doctor and teacher,Susie is a doctor and she is a teacher.,"In this context, mariyu cannot conjoin full clauses, but the consultant is not confident that this is the case in general.",Q1
+mariyu,mariyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_004,Susie doctor mariyu oka teacher,Susie doctor and one teacher,Susie is a doctor and she is a teacher.,"In this context, mariyu cannot conjoin full clauses, but the consultant is not confident that this is the case in general.",Q1
+mariyu,mariyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_005,Susie oka doctor mariyu oka teacher,Susie one doctor and one teacher,Susie is a doctor and she is a teacher.,"In this context, mariyu cannot conjoin full clauses, but the consultant is not confident that this is the case in general.",Q1
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_006,Susie oka doctor. tanu oka teacher,Susie one doctor. 3.animate one teacher,Susie is a doctor; she is a teacher.,"In principle possible, but without kuda, the natural interpretation is where tanu does not refer to Susie.",Q1
+inka,inka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_007,Paul TV choos-tunn-aadu inka chokkalu istrii ches-tunn-aadu,Paul TV see-npst-3ms and shirts iron do-npst-3ms,Paul is watching TV and he is ironing his shirts.,,Q1
+inka,inka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_008,Paul TV choos-tunn-aadu inka tanu chokkalu istrii ches-tunn-aadu,Paul TV see-npst-3ms and 3.animate shirts iron do-npst-3ms,Paul is watching TV and he is ironing his shirts.,,Q1
+mariyu,mariyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_009,Paul TV choos-tunn-aadu mariyu chokkalu istrii ches-tunn-aadu,Paul TV see-npst-3ms and shirts iron do-npst-3ms,Paul is watching TV and he is ironing his shirts.,"Here, mariyu can coordinate full clauses.",Q1
+mariyu,mariyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_010,Paul TV choos-tunn-aadu mariyu tanu chokkalu istrii ches-tunn-aadu,Paul TV see-npst-3ms and 3.animate shirts iron do-npst-3ms,Paul is watching TV and he is ironing his shirts.,"Here, mariyu can coordinate full clauses.",Q1
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_011,Paul TV choostunnaaduu; chokkalu istrii chestunnaduu,Paul TV see-npst-3ms; shirts iron do-npst-3ms,Paul is watching TV; he is ironing his shirts.,lengthening of the final vowel indicating conjunction,Q1
+kaani,kaani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_012,Susie oka doctor kaani tanu ped-aame,Susie one doctor but 3.anim poor-3fs,Susie is a doctor but she is poor.,,Q1
+kaani,kaani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_013,Jen ice-cream konindi kaani vere vaaLLa-kosam konindi,Jen ice-cream bought but different person-BEN bought,Jen bought ice cream but she bought it for a stranger.,,Q1
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_014,Paul doctor kaadu; tanu oka receptionist,Paul doctor not 3.anim one receptionist,Paul is not a doctor but he is a receptionist.,,Q1
+kaani,kaani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_015,Jen ice cream kona-leedu. kaani chocolate konindi,Jen ice cream buy-neg but chocolate bought,Jen didn’t buy ice cream but she bought chocolate.,Prosodic boundary is required before kaani (indicated by the full stop).,Q1
+leeda,leeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_016,ii prasna-ku jawaabu A leeda ii prasna-ku jawaabu B,This question-DAT answer A or this question answer B,(Either) the answer to the question is A or the answer to the question is B.,leeda ~ leekapote ~ ledante,Q1
+leekapote,leekapote,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_017,ii prasna-ku jawaabu A leekapote ii prasna-ku jawaabu B,This question-DAT answer A or this question answer B,(Either) the answer to the question is A or the answer to the question is B.,leeda ~ leekapote ~ ledante,Q1
+ledante,ledante,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_018,ii prasna-ku jawaabu A ledante ii prasna-ku jawaabu B,This question-DAT answer A or this question answer B,(Either) the answer to the question is A or the answer to the question is B.,leeda ~ leekapote ~ ledante,Q1
+leeda,leeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_019,Paul oka doctor leeda john oka doctor,Paul one doctor or john one doctor,(Either) Paul is a doctor or John is a doctor.,,Q1
+leekapote,leekapote,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_020,Paul oka doctor leekapote john oka doctor,Paul one doctor or john one doctor,(Either) Paul is a doctor or John is a doctor.,,Q2
+ledante,ledante,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_021,Paul oka doctor ledante john oka doctor,Paul one doctor or john one doctor,(Either) Paul is a doctor or John is a doctor.,,Q2
+leeda,leeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_022,Nenu naa phone-ni office-lo vadilaeaenu leeda inti daari-lo padaeaesaeaenu,1sg 1sg.poss phone-acc office-loc left or home.obl route-loc dropped,I left my phone at work or I dropped it on my way home.,,Q1
+leeda,leeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_023,John oka doctor leeda vaadu oka writer,John one doctor or 3ms one writer,John is a doctor or he is a writer.,,Q1
+...oo..oo,...oo..oo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_024,John doctor- oo vaadu writer- oo teliyadu,John doctor- Disj 3ms writer- Disj know.neg,John is a doctor or he is a writer.,The full-clausal disjunction with -oo seems to be possible only if the clause is embedded.,Q1
+...ainaa...ainaa,...ainaa...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_025,John doctor- ainaa writer- ainaa kaavocchu,John doctor-ainaa writer-ainaa be.may,John is a doctor or he is a writer (maybe both).,,Q1
+...oo..oo,...oo..oo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_026,Vaadu annam-oo noodles-oo tinnadu.,He rice-oo noodles-oo ate,He ate rice or noodle [maybe both],[rendu tini-undocchu],Q1
+...aa...aa,...aa...aa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_027,Nuvvu phone office-lo vadilaeaeva- aa daan-ni bus-miida vadilaeaev- aa ?,You phone office-loc left-Q it-acc bus-on left-Q,Did you leave your phone at work or did you leave it on the bus?,,Q1
+leeda,...aa leeda...aa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_028,Nuvvu phone office-lo vadilaeaeva- aa ledaa daan-ni bus-miida vadilaeaev- aa ?,You phone office-loc left-Q or it-acc bus-on left-Q,Did you leave your phone at work or did you leave it on the bus?,,Q1
+...aa...aa,...aa...aa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_029,Shop A ii brand ammutand-aa? Shop B ii-brand ammutund-aa?,Shop A this brand sell?-Q Shop B this-brand sell?-Q,Would Shop A sell this brand or would Shop B sell this brand?,,Q1
+...kaadu...kaadu,...kaadu...kaadu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_030,Paul doctor kaaduu nursuu kaaduu,Paul doctor not-vv nurse not-vv,Paul is neither a doctor nor is he a nurse.,vv — lengthening of the vowel,Q1
+...kaadu...kaadu,...kaadu...kaadu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_031,Paul doctor kaaduu vaadu nursuu kaaduu,Paul doctor not-vv 3ms nurse not-vv,Paul is neither a doctor nor is he a nurse.,vv — lengthening of the vowel,Q1
+...leedu...leedu,...leedu...leedu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_032,"Mike icecream kona- leeduu , tana chellelaki ivva- leeduu","Mike icecream buy-neg.vv, his sister give-neg.vv",Mike didn’t buy ice cream nor did he give it to his sister.,,Q1
+leeda,leeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_033,Paul cupcake tin-ochu ledaa tanu cookie tin-ochu,Paul cupcake eat-may ledaa 3sg cookie eat-may,Paul can eat a cupcake or (he can eat) a cookie.,#ERROR!,Q1
+...ainaa...ainaa,...ainaa...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_034,Paul cupcake ainaa tin-ochu tanu cookie ainaa tin-ochu,Paul cupcake ainaa eat-may 3sg cookie ainaa eat-may,Paul can eat a cupcake or (he can eat) a cookie.,#ERROR!,Q1
+leeda,...ainaa leeda...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_035,Paul cupcake ainaa tin-ochu ledaa tanu cookie ainaa tin-ochu,Paul cupcake ainaa eat-may ledaa 3sg cookie ainaa eat-may,Paul can eat a cupcake or (he can eat) a cookie.,#ERROR!,Q1
+...ainaa...ainaa,...ainaa...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_036,Paul cupcake ainaa cookie ainaa tin-ochu,Paul cupcake ainaa cookie ainaa eat-may,Paul can eat a cupcake or (he can eat) a cookie.,,Q1
+leeda,leeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_037,Paul cupcake ledaa cookie tin-ochu,Paul cupcake ledaa cookie eat-may,Paul can eat a cupcake or (he can eat) a cookie.,,Q1
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_038,Susie oka doctor; tanu oka teacher,Susie one doctor 3.animate one teacher,"Susie works as a doctor in a hospital. In her spare time, she gives classes at the local college. You tell your friend about Susie:",,Q2
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_039,Susie oka doctor oka teacher,Susie one doctor one teacher,"Susie works as a doctor in a hospital. In her spare time, she gives classes at the local college. You tell your friend about Susie:","the second version requires a certain intonation. Probably with a rising intonation at the end of the first conjunct, and a fall after the second.",Q2
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_040,Susie oka doctor; tanu ped-aame,Susie one doctor 3.anim poor-3fs,"You live in a place where doctors are wealthy. Susie works as a doctor. She mainly treats patients who cannot pay for their treatment, so Susie earns much less money than other doctors do. You tell your friend about Susie:",,Q2
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_041,Paul oka doctor; John oka doctor,Paul one doctor; John one doctor,"You and your friend are playing a game guessing the jobs of Paul and John. She can’t think of the answer, and she asks you for a hint. You know that Paul is a doctor, and that John used to be a doctor but is not anymore. So you say:",,Q2
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_042,Nenu naa phone-ni office-lo vadilaeaenu; inti daari-lo padaeaesaeaenu,1sg 1sg.poss phone-acc office-loc left; home.obl route-loc dropped,You have lost your phone. You remember it at your work office desk before cycling home. You tell your friend:,,Q2
+∅,∅,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_043,Vaadu annam tinnadu; noodles tinnadu.,He rice ate; noodles ate.,He ate rice or noodles.,,Q2
+...ainaa...ainaa,...ainaa...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_044,Vaadu annam-ainaa noodles-ainaa tinnadu.,He rice-ainaa noodles-ainaa ate.,He ate rice or noodles.,"Within the context, if it is appropriate for the speaker to have a pretence of ignorance, the version with -oo can be felicitous. There is a contrast between -oo and -ainaa in such a context: -oo is better than -ainaa.",Q2
+leekapote,..aa leekapote … aa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_045,Nuvvu phone office-lo vadilaeaeva- aa leekapote daan-ni bus-miida vadilaeaev- aa ?,You phone office-loc left-Q or it-acc bus-on left-Q,Did you leave your phone at work or did you leave it on the bus?,,Q2
+ledante,..aa ledante … aa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_046,Nuvvu phone office-lo vadilaeaeva- aa ledante daan-ni bus-miida vadilaeaev- aa ?,You phone office-loc left-Q or it-acc bus-on left-Q,Did you leave your phone at work or did you leave it on the bus?,,Q2
+...oo..oo,...oo..oo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_047,Nuvvu phone office-lo vadilaeaeva- oo daan-ni bus-miida vadilaeaev- oo ?,You phone office-loc left- oo it-acc bus-on left- oo ?,Did you leave your phone at work or did you leave it on the bus?,,Q2
+...oo..oo,...oo..oo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_048,Nuvvu phone office-lo vadilaeaeva- oo leeda daan-ni bus-miida vadilaeaev- oo ?,You phone office-loc left- oo or it-acc bus-on left- oo ?,Did you leave your phone at work or did you leave it on the bus?,,Q2
+...ainaa...ainaa,...ainaa...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_049,Nuvvu phone office-lo vadilaeaeva- ainaa daan-ni bus-miida vadilaeaev- ainaa ?,You phone office-loc left- ainaa it-acc bus-on left- ainaa ?,Did you leave your phone at work or did you leave it on the bus?,,Q2
+...ainaa...ainaa,...ainaa...ainaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_050,Nuvvu phone office-lo vadilaeaeva- ainaa leeda daan-ni bus-miida vadilaeaev- ainaa ?,You phone office-loc left- ainaa or it-acc bus-on left- ainaa ?,Did you leave your phone at work or did you leave it on the bus?,,Q2
+...oo..oo,...oo..oo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_051,Paul cupcake oo tin-ochu tanu cookie oo tin-ochu,Paul cupcake oo eat-may 3sg cookie oo eat-may,Paul can eat a cupcake or (he can eat) a cookie.,,Q2
+...oo..oo,...oo..oo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Telugu,TEL_052,Paul cupcake oo cookie oo tin-ochu,Paul cupcake oo cookie oo eat-may,Paul can eat a cupcake or (he can eat) a cookie.,,Q2
+lae,lae,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"THAI_EVD_001,THAI_EVD_002",neither,,Thai,NA,NA,NA,NA,NA,NA
+lae,lae,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,THAI_EVD_005,neither,,Thai,NA,NA,NA,NA,NA,NA
+lae,lae,disj-spk,0,0,,1,0,1,0,0,0,"THAI_EVD_045,THAI_EVD_046",neither,,Thai,NA,NA,NA,NA,NA,NA
+lae,lae,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,"THAI_EVD_048,THAI_EVD_049",neither,,Thai,NA,NA,NA,NA,NA,NA
+lae,lae,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"THAI_EVD_051,THAI_EVD_052",neither,,Thai,NA,NA,NA,NA,NA,NA
+lae,lae,neither-sta,0,1,,1,0,0,0,0,0,"THAI_EVD_054,THAI_EVD_055",neither,,Thai,NA,NA,NA,NA,NA,NA
+gub,gub,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"THAI_EVD_003,THAI_EVD_004",neither,,Thai,NA,NA,NA,NA,NA,NA
+gub,gub,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,THAI_EVD_006,neither,,Thai,NA,NA,NA,NA,NA,NA
+gub,gub,disj-spk,0,0,,1,0,1,0,0,0,THAI_EVD_047,neither,,Thai,NA,NA,NA,NA,NA,NA
+gub,gub,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,THAI_EVD_050,neither,,Thai,NA,NA,NA,NA,NA,NA
+gub,gub,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,THAI_EVD_053,neither,,Thai,NA,NA,NA,NA,NA,NA
+gub,gub,neither-sta,0,1,,1,0,0,0,0,0,THAI_EVD_056,neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,conj-contrast-sta,1,0,1,1,0,1,0,0,1,THAI_EVD_007,neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,conj-contrast-epi,1,0,1,0,0,1,0,0,1,THAI_EVD_008,neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"THAI_EVD_009,THAI_EVD_010,THAI_EVD_011,THAI_EVD_012",neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"THAI_EVD_013,THAI_EVD_014,THAI_EVD_015,THAI_EVD_016",neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,disj-spk,0,0,,1,0,1,0,0,0,THAI_EVD_067,neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,THAI_EVD_068,neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,THAI_EVD_069,neither,,Thai,NA,NA,NA,NA,NA,NA
+dae,dae,neither-sta,0,1,,1,0,0,0,0,0,THAI_EVD_070,neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,disj-spk,0,0,,1,0,1,0,0,1,"THAI_EVD_017,THAI_EVD_018,THAI_EVD_021",neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,disj-nspk-epi,0,0,1,0,0,0,0,0,1,THAI_EVD_023,neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"THAI_EVD_025,THAI_EVD_026",neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,"THAI_EVD_029,THAI_EVD_030,THAI_EVD_083,THAI_EVD_084",neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,disj-nspk-q,0,0,1,0,0,0,1,0,1,"THAI_EVD_031,THAI_EVD_032,THAI_EVD_033,THAI_EVD_034,THAI_EVD_091,THAI_EVD_092",neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,fc,0,0,,0,0,0,0,1,1,"THAI_EVD_040,THAI_EVD_101",neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,THAI_EVD_077,neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,conj-contrast-sta,1,0,1,1,0,1,0,0,0,THAI_EVD_079,neither,,Thai,NA,NA,NA,NA,NA,NA
+rue,rue,neither-sta,0,0,,1,0,0,0,0,0,THAI_EVD_087,neither,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,disj-spk,0,0,,1,0,1,0,0,1,"THAI_EVD_019,THAI_EVD_020,THAI_EVD_022",above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,disj-nspk-epi,0,0,1,0,0,0,0,0,1,THAI_EVD_024,above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"THAI_EVD_027,THAI_EVD_028,THAI_EVD_082",above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,disj-nspk-q,0,0,1,0,0,0,1,0,1,"THAI_EVD_093,THAI_EVD_094",above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,fc,0,0,,0,0,0,0,1,1,"THAI_EVD_041,THAI_EVD_102",above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"THAI_EVD_085,THAI_EVD_086",above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,THAI_EVD_078,above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,conj-contrast-sta,1,0,1,1,0,1,0,0,0,THAI_EVD_080,above,,Thai,NA,NA,NA,NA,NA,NA
+mai gor,mai gor,neither-sta,0,0,,1,0,0,0,0,0,THAI_EVD_088,above,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,neither-sta,0,1,,1,0,0,0,0,1,THAI_EVD_035,below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,neither-epi,0,1,,0,1,0,0,0,1,"THAI_EVD_036,THAI_EVD_037,THAI_EVD_038,THAI_EVD_039",below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,negative,0,1,,1,,0,0,0,1,THAI_EVD_042,below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,THAI_EVD_096,below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,conj-contrast-sta,1,0,1,1,0,1,0,0,0,THAI_EVD_097,below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,disj-spk,0,0,0,1,0,1,0,0,0,THAI_EVD_098,below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,THAI_EVD_099,below,,Thai,NA,NA,NA,NA,NA,NA
+lae,mai lae mai,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,THAI_EVD_100,below,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"THAI_EVD_043,THAI_EVD_044",neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,0,THAI_EVD_047,neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,1,THAI_EVD_066,neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,1,THAI_EVD_071,neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"THAI_EVD_072,THAI_EVD_073",neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,"THAI_EVD_074,THAI_EVD_075",neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,THAI_EVD_076,neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-epi,0,0,1,0,0,0,0,0,?,THAI_EVD_089,neither,"judgment is ""?""",Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,THAI_EVD_090,neither,,Thai,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,neither-sta,0,1,,1,0,0,0,0,0,THAI_EVD_095,neither,,Thai,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"TRK_EVD_097,TRK_EVD_098,TRK_EVD_099,TRK_EVD_100",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"TRK_EVD_081,TRK_EVD_082,TRK_EVD_083,TRK_EVD_084",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,disj-nspk-sta-exc,0,0,None,1,0,0,0,0,1,"TRK_EVD_108,TRK_EVD_109,TRK_EVD_110,TRK_EVD_111",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,disj-nspk-sta-inc,?,0,None,1,0,0,0,0,1,"TRK_EVD_119,TRK_EVD_120,TRK_EVD_121,TRK_EVD_122,TRK_EVD_126,TRK_EVD_127,TRK_EVD_128,TRK_EVD_129",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,disj-spk,0,0,None,1,0,1,0,0,1,TRK_EVD_023,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,fc,0,0,None,0,0,0,0,1,0,"TRK_EVD_034,TRK_EVD_035",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+…ya da …,…ya da…,neither-sta,0,1,None,1,0,0,0,0,0,"TRK_EVD_133,TRK_EVD_134,TRK_EVD_135,TRK_EVD_136",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+∅,∅,conj-contrast-sta,1,0,1,1,0,1,0,0,1,TRK_EVD_063,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"TRK_EVD_010,TRK_EVD_011",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+∅,∅,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"TRK_EVD_001,TRK_EVD_002,TRK_EVD_003,TRK_EVD_004,TRK_EVD_005,TRK_EVD_006,TRK_EVD_037,TRK_EVD_038",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,TRK_EVD_030,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+∅,∅,disj-nspk-q-inc,?,0,None,1,0,0,1,0,1,TRK_EVD_032,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+∅,∅,disj-spk,0,0,None,1,0,1,0,0,0,TRK_EVD_080,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,conj-contrast-epi,1,0,1,0,0,1,0,0,1,TRK_EVD_018,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,TRK_EVD_021,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,"TRK_EVD_019,TRK_EVD_020",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,conj-contrast-sta,1,0,1,1,0,1,0,0,1,"TRK_EVD_014,TRK_EVD_015,TRK_EVD_016,TRK_EVD_017",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,disj-nspk-sta-exc,0,0,None,1,0,0,0,0,0,"TRK_EVD_068,TRK_EVD_069,TRK_EVD_070,TRK_EVD_071",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,disj-nspk-sta-inc,?,0,None,1,0,0,0,0,0,"TRK_EVD_072,TRK_EVD_073,TRK_EVD_074,TRK_EVD_075",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,disj-spk,0,0,None,1,0,1,0,0,0,"TRK_EVD_064,TRK_EVD_065,TRK_EVD_066,TRK_EVD_067",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ama,ama,neither-sta,0,1,None,1,0,0,0,0,0,"TRK_EVD_076,TRK_EVD_077,TRK_EVD_078,TRK_EVD_079",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+hem…hem…de,hem…hem…de,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"TRK_EVD_001,TRK_EVD_002",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+hem…hem…de,hem…hem…de,disj-nspk-sta-exc,0,0,None,1,0,0,0,0,0,"TRK_EVD_045,TRK_EVD_046,TRK_EVD_047,TRK_EVD_048,TRK_EVD_049,TRK_EVD_050",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+hem…hem…de,hem…hem…de,disj-nspk-sta-inc,?,0,None,1,0,0,0,0,0,"TRK_EVD_051,TRK_EVD_052,TRK_EVD_053,TRK_EVD_054,TRK_EVD_055,TRK_EVD_056",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+hem…hem…de,hem…hem…de,disj-spk,0,0,None,1,0,1,0,0,0,"TRK_EVD_039,TRK_EVD_040",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+hem…hem…de,hem…hem…de,neither-sta,0,1,None,1,0,0,0,0,0,"TRK_EVD_057,TRK_EVD_058,TRK_EVD_059,TRK_EVD_060,TRK_EVD_061,TRK_EVD_062",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ile,ile,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"TRK_EVD_012,TRK_EVD_013",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ve,ve,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,TRK_EVD_010,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ve,ve,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"TRK_EVD_003,TRK_EVD_004,TRK_EVD_005,TRK_EVD_006",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ve,ve,disj-nspk-sta-exc,0,0,None,1,0,0,0,0,0,"TRK_EVD_045,TRK_EVD_046,TRK_EVD_047,TRK_EVD_048,TRK_EVD_049,TRK_EVD_050",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ve,ve,disj-nspk-sta-inc,?,0,None,1,0,0,0,0,0,"TRK_EVD_051,TRK_EVD_052,TRK_EVD_053,TRK_EVD_054,TRK_EVD_055,TRK_EVD_056",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ve,ve,disj-spk,0,0,None,1,0,1,0,0,0,"TRK_EVD_041,TRK_EVD_042,TRK_EVD_043,TRK_EVD_044",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+veya,veya,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"TRK_EVD_104,TRK_EVD_105,TRK_EVD_106,TRK_EVD_107",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+veya,veya,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"TRK_EVD_088,TRK_EVD_089,TRK_EVD_090,TRK_EVD_091",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+veya,veya,disj-nspk-sta-exc,0,0,None,1,0,0,0,0,1,"TRK_EVD_115,TRK_EVD_116,TRK_EVD_117,TRK_EVD_118",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+veya,veya,disj-spk,0,0,None,1,0,1,0,0,?,"TRK_EVD_024,TRK_EVD_094",neither,Conflicting evidence found for this context type.,Turkish,NA,NA,NA,NA,NA,NA
+veya,veya,fc,0,0,None,0,0,0,0,1,1,TRK_EVD_151,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+veya,veya,neither-sta,0,1,None,1,0,0,0,0,0,"TRK_EVD_140,TRK_EVD_141,TRK_EVD_142,TRK_EVD_143",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,conj-contrast-sta,1,0,1,1,0,1,0,0,0,"TRK_EVD_101,TRK_EVD_102,TRK_EVD_103",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,"TRK_EVD_085,TRK_EVD_086,TRK_EVD_087",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,disj-nspk-epi,0,0,1,0,0,0,0,0,1,TRK_EVD_026,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,disj-nspk-sta-exc,0,0,None,1,0,0,0,0,1,"TRK_EVD_028,TRK_EVD_112,TRK_EVD_113,TRK_EVD_114",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,disj-nspk-sta-inc,?,0,None,1,0,0,0,0,0,"TRK_EVD_029,TRK_EVD_123,TRK_EVD_124,TRK_EVD_125",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,disj-spk,0,0,None,1,0,1,0,0,1,"TRK_EVD_022,TRK_EVD_025",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,fc,0,0,None,0,0,0,0,1,1,"TRK_EVD_036,TRK_EVD_149",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+ya…ya da…,ya…ya da…,neither-sta,0,1,None,1,0,0,0,0,0,"TRK_EVD_137,TRK_EVD_138,TRK_EVD_139",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+yoksa,yoksa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"TRK_EVD_095,TRK_EVD_096",neither,None,Turkish,NA,NA,NA,NA,NA,NA
+yoksa,yoksa,disj-nspk-epi,0,0,1,0,0,0,0,0,1,TRK_EVD_027,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+yoksa,yoksa,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,TRK_EVD_031,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+yoksa,yoksa,disj-nspk-q-inc,?,0,None,1,0,0,1,0,1,TRK_EVD_033,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+yoksa,yoksa,disj-spk,0,0,None,1,0,1,0,0,1,TRK_EVD_095,neither,None,Turkish,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,conj-contrast-sta,1,0,1,1,0,1,0,0,0,vie_evidence_86,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_85,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,disj-spk,0,0,0,1,0,1,0,0,0,vie_evidence_87,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,disj-nspk-sta-exc,0,0,0,1,0,0,0,0,0,vie_evidence_88,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,disj-nspk-sta-inc,?,0,0,1,0,0,0,0,0,vie_evidence_89,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,neither-epi,0,1,,0,1,0,0,0,1,vie_evidence_19,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,không … cũng không,neither-sta,0,1,,1,0,0,0,0,1,vie_evidence_18,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,cũng,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,"vie_evidence_2,vie_evidence_22",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,cũng,disj-spk,0,0,,1,0,1,0,0,0,vie_evidence_25,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,cũng,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,vie_evidence_28,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,cũng,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,"vie_evidence_31,vie_evidence_33",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+cũng,cũng,fc,0,0,,0,0,0,0,1,1,vie_evidence_92,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,conj-contrast-sta,1,0,1,1,0,1,0,0,0,vie_evidence_64,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_60,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,disj-nspk-epi-q,0,0,1,0,0,0,1,0,1,"vie_evidence_16,vie_evidence_81",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,vie_evidence_68,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,vie_evidence_72,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,disj-nspk-sta-inc-q,?,0,,1,0,0,1,0,1,vie_evidence_17,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,fc,0,0,,0,0,0,0,1,0,"vie_evidence_95,vie_evidence_96",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,negative,0,1,,1,,0,0,0,1,"vie_evidence_21,vie_evidence_97",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hay,hay,neither-sta,0,0,,1,0,0,0,0,0,vie_evidence_76,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,0,vie_evidence_46,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,vie_evidence_48,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,vie_evidence_47,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,0,vie_evidence_41,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,?,"vie_evidence_34,vie_evidence_4",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_23,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,juxtaposition,disj-spk,0,0,,1,0,1,0,0,0,"vie_evidence_57,vie_evidence_80",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+juxtaposition,negation + juxtaposition,neither-sta,0,1,,1,0,0,0,0,1,vie_evidence_84,below,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,vie_evidence_8,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,vie_evidence_7,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,conj-contrast-sta,1,0,1,1,0,1,0,0,1,vie_evidence_50,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_49,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,disj-spk,0,0,,1,0,1,0,0,0,vie_evidence_51,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,vie_evidence_52,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,vie_evidence_53,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+mà,mà,neither-sta,0,1,,1,0,0,0,0,0,"vie_evidence_54,vie_evidence_55,vie_evidence_56",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+nhưng,nhưng,conj-contrast-epi,1,0,1,0,0,1,0,0,1,vie_evidence_6,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+nhưng,nhưng,conj-contrast-sta,1,0,1,1,0,1,0,0,1,vie_evidence_5,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+nhưng,nhưng,disj-spk,0,0,,1,0,1,0,0,0,vie_evidence_42,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+nhưng,nhưng,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,vie_evidence_43,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+nhưng,nhưng,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,vie_evidence_44,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+nhưng,nhưng,neither-sta,0,1,,1,0,0,0,0,0,vie_evidence_45,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+và,và … cũng,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,vie_evidence_1,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+và,và … cũng,disj-spk,0,0,,1,0,1,0,0,0,vie_evidence_24,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+và,và … cũng,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,"vie_evidence_26,vie_evidence_27",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+và,và … cũng,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,vie_evidence_29,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+và,và … cũng,neither-sta,0,1,,1,0,0,0,0,0,vie_evidence_32,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+vừa … vừa,vừa … vừa,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,vie_evidence_3,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+vừa … vừa,vừa … vừa,disj-spk,0,0,,0,0,1,0,0,0,vie_evidence_35,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+vừa … vừa,vừa … vừa,disj-nspk-epi-exc,0,0,,0,0,0,0,0,0,vie_evidence_36,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+vừa … vừa,vừa … vừa,disj-nspk-epi-inc,?,0,,0,0,0,0,0,?,"vie_evidence_37,vie_evidence_38,vie_evidence_39",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+vừa … vừa,vừa … vừa,neither-epi,0,1,,0,0,0,0,0,0,vie_evidence_40,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,có thể … hoặc cũng … có thể,conj-contrast-sta,1,0,1,1,0,1,0,0,0,vie_evidence_65,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,có thể … hoặc cũng … có thể,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_61,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,có thể … hoặc cũng … có thể,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,vie_evidence_69,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,có thể … hoặc cũng … có thể,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"vie_evidence_15,vie_evidence_73",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,có thể … hoặc cũng … có thể,neither-sta,0,0,,1,0,0,0,0,0,vie_evidence_77,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,conj-contrast-sta,1,0,1,1,0,1,0,0,0,vie_evidence_62,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_58,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,disj-spk,0,0,,1,0,1,0,0,1,"vie_evidence_10,vie_evidence_9",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,disj-nspk-epi,0,0,1,0,0,0,0,0,?,"vie_evidence_11,vie_evidence_78",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,disj-nspk-epi-q,0,0,1,0,0,0,1,0,0,vie_evidence_82,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,disj-nspk-sta-exc,0,0,,1,0,0,0,0,?,"vie_evidence_13,vie_evidence_66,vie_evidence_79",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,disj-nspk-sta-inc,?,0,,1,0,0,0,0,?,"vie_evidence_30,vie_evidence_70",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,fc,0,0,,0,0,0,0,1,1,vie_evidence_91,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,negative,0,1,,1,,0,0,0,0,vie_evidence_98,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc,neither-sta,0,0,,1,0,0,0,0,0,vie_evidence_74,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,conj-contrast-sta,1,0,1,1,0,1,0,0,0,vie_evidence_63,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,vie_evidence_59,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,disj-nspk-epi,0,0,1,0,0,0,0,0,1,vie_evidence_12,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,disj-nspk-epi-q,0,0,1,0,0,0,1,0,0,vie_evidence_83,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"vie_evidence_14,vie_evidence_67",neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,vie_evidence_71,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,fc,0,0,,0,0,0,0,1,?,"vie_evidence_93,vie_evidence_94",neither,Conflicting evidence,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc … hoặc,neither-sta,0,0,,1,0,0,0,0,0,vie_evidence_75,neither,,Vietnamese,NA,NA,NA,NA,NA,NA
+hoặc,hoặc cũng,fc,0,0,,0,0,0,0,1,1,"vie_evidence_20,vie_evidence_90",neither,,Vietnamese,NA,NA,NA,NA,NA,NA

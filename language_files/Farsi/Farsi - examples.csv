@@ -1,0 +1,61 @@
+ref,expression,full form,words,gloss,translation,comment,questionnaire
+farsi-con-1,va,va,Susie doktor ast va moalem ast,Susie doctor be.pres.3sg CONN teacher be.pres.3sg,Susie is a doctor and she is a teacher.,“va” is pronounced as “o” in social contexts; “ast” is usually pronounced as “e”,1
+farsi-con-2,va,va,Paul television mi-bin- ∅ -ad va pirhan-esh ro otu mi-kon- ∅ -ad,Paul TV impf-see-pres-3sg CONN shirt-her/his acc iron impf-do-pres-3sg,Paul is watching TV and he is ironing his shirts.,,1
+farsi-con-3,amma,amma,Susie doktor ast amma faghir ast,Susie doctor be.pres.3sg CONN poor be.pres.3sg,Susie is a doctor but she is poor.,“amma” might be a loan from Arabic (same in Hausa?); no difference perceived between “amma” and “vali”,1
+farsi-con-3b,vali,vali,Susie doktor ast vali faghir ast,Susie doctor be.pres.3sg CONN poor be.pres.3sg,Susie is a doctor but she is poor.,“amma” might be a loan from Arabic (same in Hausa?); no difference perceived between “amma” and “vali”,1
+farsi-con-4,amma,amma,Jen bastani xar-id amma be ye qharibe dad-esh,Jen ice-cream buy-pfv.past.3sg but to a stranger give.pfv.past.3sg-it,Jen bought ice cream but she bought it for a stranger.,,1
+farsi-con-4b,vali,vali,Jen bastani xar-id vali be ye qharibe dad-esh,Jen ice-cream buy-pfv.past.3sg but to a stranger give.pfv.past.3sg-it,Jen bought ice cream but she bought it for a stranger.,,1
+farsi-con-5,balke,balke,Paul doktor ni-st balke monshi ast,Paul doctor neg-be.pres.3sg CONN receptionist be.pres.3sg,Paul is not a doctor but he is a receptionist.,the more natural way to say it would be without “balke”,1
+farsi-con-5b,juxtaposition,juxtaposition,Paul doktor ni-st monshi ast,Paul doctor neg-be.pres.3sg receptionist be.pres.3sg,Paul is not a doctor but he is a receptionist.,the more natural way to say it would be without “balke”,1
+farsi-con-6,balke,balke,Jen bastani na-xar-id balke shokolat xar-id,Jen ice-cream neg-buy-pfv.past.3sg but chocolate buy-pfv.past.3sg,Jen didn’t buy ice cream but she bought chocolate.,with “balke” it sounds very formal; “Be-ja” ~ “instead of”,1
+farsi-con-6b,bejash,bejash,Jen bastani na-xar-id be-ja-sh shokolat xar-id,Jen ice-cream neg-buy-pfv.past.3sg to-place-it chocolate buy-pfv.past.3sg,Jen didn’t buy ice cream but she bought chocolate.,with “balke” it sounds very formal; “Be-ja” ~ “instead of”,1
+farsi-con-6c,juxtaposition,juxtaposition,Jen bastani na-xar-id shokolat xar-id,Jen ice-cream neg-buy-pfv.past.3sg chocolate buy-pfv.past.3sg,Jen didn’t buy ice cream but she bought chocolate.,,1
+farsi-con-7,ya ... ya,ya ... ya,Javab-e soal ya A ast ya B ast,answer-EZ question CONN A be.pres.3sg CONN B be.pres.3sg,(Either) the answer to the question is A or the answer to the question is B.,“EZ” stands for “ezafe” (a nominal linker); a longer version with full conjuncts would sound weird,1
+farsi-con-7b,ya ... ya,ya ... ya,Javab-e soal ya A ast ya B,answer-EZ question CONN A be.pres.3sg CONN B,(Either) the answer to the question is A or the answer to the question is B.,“EZ” stands for “ezafe” (a nominal linker); a longer version with full conjuncts would sound weird,1
+farsi-con-7c,ya ... va ya,ya ... va ya,Javab-e soal ya A ast va ya B ast,answer-EZ question or A be.pres.3sg and or B be.pres.3sg,(Either) the answer to the question is A or the answer to the question is B.,“EZ” stands for “ezafe” (a nominal linker),1
+farsi-con-7d,ya ... va ya,ya ... va ya,Javab-e soal ya A ast va ya B,answer-EZ question or A be.pres.3sg and or B,(Either) the answer to the question is A or the answer to the question is B.,“EZ” stands for “ezafe” (a nominal linker),1
+farsi-con-8,ya ... ya,ya ... ya,Ya Paul doktor ast ya John doktor ast,CONN Paul doctor be.pres.3sg CONN John doctor be.pres.3sg,(Either) Paul is a doctor or John is a doctor.,“va” is not good here,1
+farsi-con-8b,ya ... ya,ya ... ya,Ya Paul doktor ast ya John,CONN Paul doctor be.pres.3sg CONN John,(Either) Paul is a doctor or John is a doctor.,“va” is not good here,1
+farsi-con-9,ya ... ya,ya ... ya,Gushi-m ro ya sar-e kar ja gozasht-am ya tu-ye rah oftade ast,Phone-my acc CONN head-ez work place put.pfv.past-1sg CONN in-ez way drop.pst.ptcp be.pres.3sg,I left my phone at work or I dropped it on my way home.,“ya” could also be sentence-initial here,1
+farsi-con-10,ya ... ya,ya ... ya,John ya doktor ast ya nevisande ast,John CONN doctor be.pres.3sg CONN writer be.pres.3sg,John is a doctor or he is a writer.,wouldn’t put “ya” at the beginning here… sentence-initial “ya” sounds exclusive,1
+farsi-con-11,ya ... ya,ya ... ya,John ya doktor ast ya nevisande ast shayad ham har do,John CONN doctor be.pres.3sg CONN writer be.pres.3sg maybe also each two,John is a doctor or he is a writer (maybe both).,,1
+farsi-con-12,ya,ya,Gushi-t ro sar-e kar ja gozasht-i ya tu-ye otubus ja gozasht-i?,Mobile-your acc head-ez work place put.pfv.past-2sg CONN in-ez bus place put.pfv.past-2sg,Did you leave your phone at work or did you leave it on the bus?,only one “ya” here,1
+farsi-con-13,ya,ya,Forushgah-e A in berand ro dar- ∅ -ad ya forushgah-e B?,Shop-ez A this brand acc have-pres-3sg CONN Shop-ez B,Would Shop A sell this brand or would Shop B sell this brand?,,1
+farsi-con-14,na ... na,na ... na,Paul na doktor ast na parastar ast,Paul CONN doctor be.pres.3sg CONN nurse be.pres.3sg,Paul is neither a doctor nor is he a nurse.,,1
+farsi-con-15,na ... na,na ... na,Mike na pul-e bastani ro dad na bastani ro be xahar-esh dad,Mike CONN money-ez ice-cream acc give.pfv.past.3sg CONN ice-cream acc to sister-her/his give.pfv.past.3sg,Mike didn’t buy ice cream nor did he give it to his sister.,,1
+farsi-con-16,ya ... ya,ya ... ya,Paul ya mi-tavan- ∅ -ad kapkeik ro bo-xor-ad ya mi-tavan-ad koluche ro bo-xor-ad,Paul CONN impf-can-pres-3sg cupcake acc impf.sbjv-eat-3sg CONN impf-can-pres-3sg cookie acc impf.sbjv-eat-3sg,Paul can eat a cupcake or he can eat a cookie.,two different imperfective markers in Farsi (“bo” for sbjv); “ya” not so good sentence-initially here because the subject should be in the (sentence-initial) topic position,1
+farsi-con-17,ya,ya,Susie doktor ya davande ni-st,Susie doctor CONN runner neg-be.pres.3sg,Susie isn’t a doctor or a runner.,grammatical but not great in this context; means she is neither; “na” … “na” - sentence strongly preferred,1
+farsi-con-18,ya ... ya,ya ... ya,Susie ya doktor ni-st ya davande ni-st,Susie CONN doctor neg-be.pres.3sg CONN runner neg-be.pres.3sg,S. is either not a doctor or not a runner.,,1
+farsi-con-18b,ya ... ya,ya ... ya,Susie ya doktor ni-st ya davande,Susie CONN doctor neg-be.pres.3sg CONN runner,S. is either not a doctor or not a runner.,,1
+farsi-2-con-1,juxtaposition,juxtaposition,"Susie doktor ast, moalem ast",,,"maybe works as a list, but a bit weird; would need an additive",2
+farsi-2-con-2,juxtaposition,juxtaposition,"Paul television mi-bin- ∅ -ad, pirhan-esh ro otu mi-kon- ∅ -ad","Paul TV impf-see-pres-3sg, shirt-her/his acc iron impf-do-pres-3sg",,"a bit worse than the first juxtaposition example (because of the simultaneity, list reading not salient)",2
+farsi-2-con-3,juxtaposition,juxtaposition,"Susie doktor ast, faghir ast",Susie doctor be.pres.3sg poor be.pres.3sg,,,2
+farsi-2-con-4,juxtaposition,juxtaposition,"Jen bastani xar-id, be ye qharibe dad-esh",Jen ice-cream buy-pfv.past.3sg to a stranger give.pfv.past.3sg-it,,"that’s okay, sounds like a sequence of events",2
+farsi-2-con-5,balke,balke,Susie doktor ast balke moalem ast,,,,2
+farsi-2-con-6,balke,balke,Susie doktor nist balke moalem ast,,,bejash is bad here too (also in the examples below),2
+farsi-2-con-7,balke,balke,Susie doktor ast balke faghir ast,,,,2
+farsi-2-con-8,balke,balke,Paul doktor ast balke John doktor ast,,,,2
+farsi-2-con-9,balke,balke,Paul doktor nist balke John doktor ast,,,,2
+farsi-2-con-10,balke,balke,John doktor ast balke nevisande ast,,,,2
+farsi-2-con-11,balke,balke,John doktor nist balke nevisande ast,,,,2
+farsi-2-con-12,balke,balke,John doktor ast balke nevisande ast shayad ham har do,,,,2
+farsi-2-con-13,balke,balke,John doktor nist balke nevisande ast shayad ham har do,,,,2
+farsi-2-con-14,balke,balke,Paul doktor ast balke parastar ast,,,,2
+farsi-2-con-15,balke,balke,Paul doktor nist balke parastar ast,,,,2
+farsi-2-con-16,juxtaposition,juxtaposition,"Paul doktor ast, John doktor ast","Paul doctor be.pres.3sg, John doctor be.pres.3sg",,"That’s fine, but would be much better with an additive",2
+farsi-2-con-17,ya ... va ya,ya ... va ya,Ya Paul doktor ast va ya John doktor ast,,,,2
+farsi-2-con-18,va ya,va ya,Paul doktor ast va ya John doktor ast,,,,2
+farsi-2-con-19,ya,ya,Paul doktor ast ya John doktor ast,,,"Only with a certain intonation, this is okay",2
+farsi-2-con-20,ya ... ya,ya ... ya,Ya Paul doktor ast ya John doktor ast shayad ham har do,,,,2
+farsi-2-con-21,ya ... va ya,ya ... va ya,Ya Paul doktor ast va ya John doktor ast shayad ham har do,,,"okay, better than the first sentence, but still seems to suggest that only one disjunct is true",2
+farsi-2-con-22,va ya,va ya,Paul doktor ast va ya John doktor ast shayad ham har do,,,,2
+farsi-2-con-23,ya,ya,Paul doktor ast ya John doktor ast shayad ham har do,,,,2
+farsi-2-con-24,juxtaposition,juxtaposition,"Gushi-m ro sar-e kar ja gozasht-am, tu-ye rah oftade ast",Phone-my acc head-ez work place put.pfv.past-1sg in-ez way drop.pst.ptcp be.pres.3sg,,This is contradictory,2
+farsi-2-con-25,juxtaposition,juxtaposition,"John doktor ast, nevisande ast",,,This is in no way a disjunction,2
+farsi-2-con-26,ya ... ya,ya ... ya,Gushi-t ro ya sar-e kar ja gozasht-i ya tu-ye otubus ja gozasht-i?,,,You wouldn’t put 2 “ya”s in a question,2
+farsi-2-con-27,ya ... va ya,ya ... va ya,Gushi-t ro ya sar-e kar ja gozasht-i va ya tu-ye otubus ja gozasht-i?,,,sounds like weird yes/no question,2
+farsi-2-con-28,juxtaposition,juxtaposition,"Paul doktor ast, parastar ast.",,,,2
+farsi-2-con-29,juxtaposition,juxtaposition,"Paul doktor nist, parastar ast.",,,,2
+farsi-2-con-30,ya ... va ya,ya ... va ya,Paul ya mi-tavan- ∅ -ad kapkeik ro bo-xor-ad va ya mi-tavan-ad koluche ro bo-xor-ad,,,,2
+farsi-2-con-31,ya,ya,Paul ya mi-tavan- ∅ -ad kapkeik ro bo-xor-ad mi-tavan-ad koluche ro bo-xor-ad,,,,2
+farsi-2-con-32,ya,ya,Paul mi-tavan- ∅ -ad kapkeik ro bo-xor-ad ya mi-tavan-ad koluche ro bo-xor-ad,,,you can’t blame Paul if he takes both (FC reading but not exclusive),2

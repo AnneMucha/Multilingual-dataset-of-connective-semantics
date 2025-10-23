@@ -1,0 +1,89 @@
+ref,context,premise,example,judgment,questionnaire,comment
+chinese-ev-1,conj-nocontrast-sta,na,chinese-con-1,felicitous,1,"It is not very natural to use the connective, better with juxtaposition"
+chinese-ev-2,conj-nocontrast-sta,na,chinese-con-2,felicitous,1,"It is not very natural to use the connective, better with juxtaposition"
+chinese-ev-3,conj-nocontrast-sta,na,chinese-con-3,felicitous,1,Ye can replace hai
+chinese-ev-4,conj-nocontrast-epi,na,chinese-con-5,?,1,it's quite a bit unnatural
+chinese-ev-5,conj-nocontrast-epi,na,chinese-con-6,felicitous,1,"better with the additive particle ""ye"""
+chinese-ev-6,conj-nocontrast-epi,na,chinese-con-7,felicitous,1,
+chinese-ev-7,conj-nocontrast-epi,na,chinese-con-8,felicitous,1,
+chinese-ev-8,conj-nocontrast-epi,na,chinese-con-9,felicitous,1,
+chinese-ev-9,conj-nocontrast-epi,na,chinese-con-10,felicitous,1,
+chinese-ev-10,conj-nocontrast-epi,na,chinese-con-11,felicitous,1,
+chinese-ev-11,conj-nocontrast-epi,na,chinese-con-12,felicitous,1,
+chinese-ev-12,conj-contrast-sta-mod,na,chinese-con-13,felicitous,1,
+chinese-ev-13,conj-contrast-epi,na,chinese-con-15,?,1,"kind of works, but the intended contrast is not so clear"
+chinese-ev-14,conj-contrast-epi,na,chinese-con-16,felicitous,1,buguo somehow sound more natural
+chinese-ev-15,conj-contrast-negp-sta,na,chinese-con-18,felicitous,1,
+chinese-ev-16,conj-contrast-negp-sta,na,chinese-con-19,?,1,Not entirely natural
+chinese-ev-17,conj-contrast-negp-epi,na,chinese-con-21,felicitous,1,
+chinese-ev-18,conj-contrast-negp-epi,na,chinese-con-22,felicitous,1,
+chinese-ev-19,neither-epi,na,chinese-con-23,felicitous,1,Doesn't fully convey the same contrast as the English sentence
+chinese-ev-20,neither-epi,na,chinese-con-24,felicitous,1,Doesn't fully convey the same contrast as the English sentence
+chinese-ev-21,neither-epi,na,chinese-con-25,felicitous,1,Better translation (not clausal connective)
+chinese-ev-22,disj-spk-1,na,chinese-con-26,felicitous,1,
+chinese-ev-23,disj-spk-2,na,chinese-con-27,felicitous,1,
+chinese-ev-24,disj-spk-2,na,chinese-con-28,felicitous,1,
+chinese-ev-25,disj-nspk-epi,na,chinese-con-30,felicitous,1,
+chinese-ev-26,disj-nspk-epi,na,chinese-con-31,felicitous,1,
+chinese-ev-27,disj-nspk-sta-exc,na,chinese-con-32,felicitous,1,
+chinese-ev-28,disj-nspk-sta-exc,na,chinese-con-33,felicitous,1,
+chinese-ev-29,disj-nspk-sta-exc,na,chinese-con-34,felicitous,1,
+chinese-ev-30,disj-nspk-sta-inc,na,chinese-con-34,felicitous,1,
+chinese-ev-31,disj-nspk-epi-q,na,chinese-con-36,felicitous,1,
+chinese-ev-32,disj-nspk-epi-q,na,chinese-con-37,infelicitous,1,
+chinese-ev-33,disj-nspk-sta-inc-q,na,chinese-con-38,felicitous,1,
+chinese-ev-34,disj-nspk-sta-inc-q,na,chinese-con-39,infelicitous,1,
+chinese-ev-35,neither-sta,na,chinese-con-40,felicitous,1,
+chinese-ev-36,neither-epi,na,chinese-con-41,felicitous,1,
+chinese-ev-37,fc,na,chinese-con-42,felicitous,1,
+chinese-ev-38,fc,na,chinese-con-43,infelicitous,1,
+chinese-ev-39,conj-contrast-sta-4,na,chinese-con-3,felicitous,2,
+chinese-ev-40,conj-contrast-sta-4,na,chinese-con-4,infelicitous,2,"bad without ""hai"""
+chinese-ev-41,conj-contrast-sta-4,na,chinese-con-1,felicitous,2,
+chinese-ev-42,conj-contrast-sta-4,na,chinese-con-44,felicitous,2,
+chinese-ev-43,conj-contrast-sta-4,na,chinese-con-45,felicitous,2,
+chinese-ev-44,conj-contrast-sta-4,na,chinese-con-2,felicitous,2,
+chinese-ev-45,conj-contrast-sta-4,na,chinese-con-46,felicitous,2,
+chinese-ev-46,disj-spk-3,na,chinese-con-3,infelicitous,2,
+chinese-ev-47,disj-spk-3,na,chinese-con-4,infelicitous,2,independently bad (lacking additive)
+chinese-ev-48,disj-spk-3,na,chinese-con-1,infelicitous,2,
+chinese-ev-49,disj-spk-3,na,chinese-con-44,infelicitous,2,
+chinese-ev-50,disj-spk-3,na,chinese-con-45,infelicitous,2,
+chinese-ev-51,disj-spk-3,na,chinese-con-2,infelicitous,2,
+chinese-ev-52,disj-spk-3,na,chinese-con-46,infelicitous,2,
+chinese-ev-53,disj-nspk-sta-exc-2,na,chinese-con-3,infelicitous,2,
+chinese-ev-54,disj-nspk-sta-exc-2,na,chinese-con-1,infelicitous,2,
+chinese-ev-55,disj-nspk-sta-inc-2,na,chinese-con-3,infelicitous,2,
+chinese-ev-56,neither-sta-2,na,chinese-con-3,infelicitous,2,
+chinese-ev-57,conj-contrast-sta-mod,na,chinese-con-47,felicitous,2,"ok, but not very natural"
+chinese-ev-58,conj-nocontrast-sta,na,chinese-con-13,felicitous,2,
+chinese-ev-59,conj-nocontrast-sta,na,chinese-con-14,felicitous,2,
+chinese-ev-60,conj-nocontrast-sta,na,chinese-con-49,felicitous,2,
+chinese-ev-61,conj-nocontrast-sta,na,chinese-con-50,felicitous,2,
+chinese-ev-62,conj-nocontrast-sta,na,chinese-con-51,felicitous,2,the construction itself is not very natural
+chinese-ev-63,disj-spk-4-prime,na,chinese-con-13,infelicitous,2,
+chinese-ev-64,disj-spk-4-prime,na,chinese-con-14,infelicitous,2,
+chinese-ev-65,disj-spk-4-prime,na,chinese-con-49,infelicitous,2,
+chinese-ev-66,disj-spk-4-prime,na,chinese-con-50,infelicitous,2,
+chinese-ev-67,disj-spk-4-prime,na,chinese-con-51,infelicitous,2,
+chinese-ev-68,conj-contrast-epi,na,chinese-con-52,felicitous,2,ok if she first saw the stranger and then bought it for him
+chinese-ev-69,conj-contrast-negp-epi,na,chinese-con-53,felicitous,2,
+chinese-ev-70,conj-contrast-negp-epi,na,chinese-con-21,felicitous,2,
+chinese-ev-71,conj-contrast-negp-epi,na,chinese-con-22,felicitous,2,
+chinese-ev-72,conj-contrast-negp-epi,na,chinese-con-54,felicitous,2,
+chinese-ev-73,conj-contrast-negp-epi,na,chinese-con-55,felicitous,2,
+chinese-ev-74,conj-contrast-negp-epi,na,chinese-con-56,?,2,
+chinese-ev-75,disj-spk-2,na,chinese-con-57,infelicitous,2,note: 'hai' can mean 'still'
+chinese-ev-76,disj-spk-2,na,chinese-con-58,infelicitous,2,bad w/o additive particle anyway
+chinese-ev-77,conj-nocontrast-sta-2,na,chinese-con-27,infelicitous,2,definitely exclusive (false because of exclusivity)
+chinese-ev-78,conj-nocontrast-sta-2,na,chinese-con-28,infelicitous,2,uninformative
+chinese-ev-79,conj-nocontrast-sta-2,na,chinese-con-59,infelicitous,2,
+chinese-ev-80,disj-nspk-sta-exc-4,na,chinese-con-27,felicitous,2,"ok, you know that it’s exactly one of them"
+chinese-ev-81,disj-nspk-sta-exc-4,na,chinese-con-28,felicitous,2,"ok, infer that it’s probably only one of them"
+chinese-ev-82,disj-nspk-sta-inc-4,na,chinese-con-27,infelicitous,2,cannot be continued with ‘and maybe both’
+chinese-ev-83,disj-nspk-sta-inc-4,na,chinese-con-28,felicitous,2,ok when continued with 'and maybe both'
+chinese-ev-84,neither-sta-4,na,chinese-con-27,infelicitous,2,
+chinese-ev-85,neither-sta-4,na,chinese-con-28,infelicitous,2,
+chinese-ev-86,disj-nspk-epi-q,na,chinese-con-62,felicitous,2,"not an alternative question, could work as a rising declarative"
+chinese-ev-87,neither-sta,na,chinese-con-63,infelicitous,2,"needs an additive particle ('ye', not 'hai')"
+chinese-ev-88,fc,na,chinese-con-64,felicitous,2,ok with the epistemic reading

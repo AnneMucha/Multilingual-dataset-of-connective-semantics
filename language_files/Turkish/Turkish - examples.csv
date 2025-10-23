@@ -1,0 +1,60 @@
+ref,expression,full form,words,glosses,translation,comment,questionnaire
+TRK_001,hem…hem…,hem…hem…de,Susie hem doktor hem de öğretmen,Susie HEM doctor HEM ADD teacher,Susie is a doctor and she is a teacher.,"Valid in a conjunctive, no-contrast context.",Q1
+TRK_002,ve,ve,Susie doktor ve öğretmen,Susie doctor VE teacher,Susie is a doctor and she is a teacher.,This is the version of the sentence without the optional pronoun.,Q1
+TRK_003,ve,ve,Susie doktor ve Susie öğretmen,Susie doctor VE Susie teacher,Susie is a doctor and she is a teacher.,This is the version of the sentence with the optional pronoun.,Q1
+TRK_004,∅,∅,Susie doktor . Susie öğretmen .,Susie doctor . Susie teacher .,Susie is a doctor; she is a teacher.,Juxtaposition with the explicit subject 'Susie' repeated.,Q1
+TRK_005,∅,∅,Susie doktor . o öğretmen .,Susie doctor . she teacher .,Susie is a doctor; she is a teacher.,Juxtaposition with the explicit pronoun 'o'.,Q1
+TRK_006,∅,∅,Susie doktor . öğretmen .,Susie doctor . teacher .,Susie is a doctor; she is a teacher.,Juxtaposition with a dropped pronoun.,Q1
+TRK_007,ve,ve,Paul televizyon izliyor ve gömlek ütülüyor,Paul TV watch-pres.3sg VE shirt iron-pres.3sg,Paul is watching TV and he is ironing his shirts.,Valid in an eventive conjunctive context.,Q1
+TRK_008,∅,∅,Paul televizyon izliyor . Gömlek ütülüyor .,Paul TV watch-pres.3sg . Shirt iron-pres.3sg .,Paul is watching TV; he is ironing his shirts.,Juxtaposition is possible; best with a dropped pronoun.,Q1
+TRK_009,ile,ile,Wataru ile Kajsa dilbilimci,Wataru comitative Kajsa linguist,Wataru and Kajsa are linguists.,"ile' conjoins noun phrases, not predicates. ",Q1
+TRK_010,ve,ve,Wataru dilbilimci ve bir baba,Wataru linguist and a father,Wataru is a linguist and a father.,"Unlike 'ile', 've' can conjoin predicates.",Q1
+TRK_011,ama,ama,Susie doktor ama fakir/yoksul,Susie doctor AMA poor,Susie is a doctor but she is poor.,Version without the optional anaphor 'kendisi'.,Q1
+TRK_012,ama,ama,Susie doktor ama kendisi fakir/yoksul,Susie doctor AMA (anaphor) poor,Susie is a doctor but she is poor.,Version with the optional anaphor 'kendisi'.,Q1
+TRK_013,ama,ama,Jen dondurma aldı ama bir yabancı için aldı,Jen ice cream bought AMA a stranger for bought,Jen bought ice cream but she bought it for a stranger.,Example in an episodic contrastive context.,Q1
+TRK_014,ama,ama,Paul doktor değil ama resepsiyonda çalışıyor,Paul doctor not AMA reception-loc works,Paul is not a doctor but he is a receptionist.,Contrast with a negated first conjunct.,Q1
+TRK_015,ama,ama,Paul doktor değil ama resepsiyonist,Paul doctor not AMA receptionist,Paul is not a doctor but he is a receptionist.,Contrast with a negated first conjunct.,Q1
+TRK_016,ama,ama,Jen dondurma almadı ama çikolata aldı,Jen ice cream bought.neg AMA chocolate bought,Jen didn’t buy ice cream but she bought chocolate.,Sounds like a translation from English; 'ama' is not perfect for contrasting sub-constituents.,Q1
+TRK_017,ya…ya da…,ya…ya da…,Soru-nun cevab-ı ya A ya da B,Question.gen answer.poss YA A YA ADD B,(Either) the answer to the question is A or the answer to the question is B.,Disjunction with speaker knowledge.,Q1
+TRK_018,…ya da …,…ya da…,Sorunun cevabı A ya da B,Question.gen answer.poss A YA ADD B,(Either) the answer to the question is A or the answer to the question is B.,"A simpler form of disjunction, also used with speaker knowledge.",Q1
+TRK_019,veya,veya,Sorunun cevabı A veya B,Question.gen answer.poss A VEYA B,(Either) the answer to the question is A or the answer to the question is B.,Marked as infelicitous in the context with speaker knowledge.,Q1
+TRK_020,ya…ya da…,ya…ya da…,Ya Paul doktor ya da John doktor,YA Paul doctor YA DA John doctor,(Either) Paul is a doctor or John is a doctor.,Disjunction with speaker knowledge.,Q1
+TRK_021,ya…ya da…,ya…ya da…,Telefonumu ya işte bıraktım ya da yolda düşürdüm,My.phone YA at.work left YA ADD on.the.road let.fall,I left my phone at work or I dropped it on my way home.,Disjunction without speaker knowledge (exclusive/unspecified).,Q1
+TRK_022,yoksa,yoksa,Telefonumu işte bıraktım yoksa yolda düşürdüm,My.phone at.work left YOKSA(not.if) on.the.road let.fall,I left my phone at work or I dropped it on my way home.,"yoksa' implies 'if not p, then q'; often used in alternative questions. ",Q1
+TRK_023,ya…ya da…,ya…ya da…,John ya doktor ya da yazar,John YA doctor YA ADD writer,John is a doctor or he is a writer.,Disjunction without speaker knowledge. Note: original sentence used 'Can' for 'John'.,Q1
+TRK_024,∅,∅,Telefon-un-u işte mi bıraktın otobüste mi,Phone-2sg.poss-acc at.work Q left on.bus Q,Did you leave your phone at work or did you leave it on the bus?,Alternative question without an overt connective; omitting 'yoksa' is preferred.,Q1
+TRK_025,yoksa,yoksa,Telefon-un-u işte mi bıraktın yoksa otobüste mi,Phone-2sg.poss-acc at.work Q left YOKSA on.bus Q,Did you leave your phone at work or did you leave it on the bus?,Alternative question with 'yoksa'; omitting 'yoksa' is preferred.,Q1
+TRK_026,∅,∅,Bunu mağaza A mı satar mağaza B mi,This.acc store A Q sell store B Q,Would Shop A sell this brand or would Shop B sell this brand?,Alternative question; using 'yoksa' is preferred here.,Q1
+TRK_027,yoksa,yoksa,Bunu mağaza A mı satar yoksa mağaza B mi,This.acc store A Q sell YOKSA store B Q,Would Shop A sell this brand or would Shop B sell this brand?,Using 'yoksa' is preferred and is compatible with both options being true.,Q1
+TRK_028,…ya da …,…ya da…,Paul cupcake ya da kurabiye yiyebilir,Paul cupcake YA ADD cookie eat.modal.aorist,Paul can eat a cupcake or he can eat a cookie.,Free choice context. The original sentence was marked as infelicitous.,Q1
+TRK_029,ya…ya da…,ya…ya da…,Paul ya cupcake ya da kurabiye yiyebilir,Paul ya cupcake ya add cookie eat.modal.aorist,Paul can eat a cupcake or he can eat a cookie.,"Free choice context, implying only one of the two can be chosen. ",Q1
+TRK_030,∅,∅,Susie doktor . İyi bir doctor .,Susie doctor . good a doctor .,Susie is a doctor. A good doctor.,Juxtaposition used for elaboration.,Q2
+TRK_031,∅,∅,Susie bagimli . Susie hasta .,Susie is.addict . Susie is.sick .,Susie is an addict. Susie is sick.,Juxtaposition.,Q2
+TRK_032,hem…hem…,hem…hem…de,Susie hem doktor hem de öğretmen,Susie HEM doctor HEM ADD teacher,Susie is a doctor and a teacher.,"Judged as infelicitous in various disjunctive contexts (e.g., with/without speaker knowledge, both false). ",Q2
+TRK_033,ve,ve,Susie doktor ve öğretmen,Susie doctor VE teacher,Susie is a doctor and she is a teacher.,Judged as infelicitous in various disjunctive contexts. This is the version without the optional pronoun.,Q2
+TRK_034,ve,ve,Susie doktor ve Susie öğretmen,Susie doctor VE Susie teacher,Susie is a doctor and she is a teacher.,Judged as infelicitous in various disjunctive contexts. This is the version with the optional pronoun.,Q2
+TRK_035,∅,∅,Susie doktor kendisi fakir/yoksul,Susie doctor (anaphor) poor,"Susie is a doctor, (and) she is poor.",Juxtaposition in a contrastive context. The anaphor 'kendisi' is marked as obligatory.,Q2
+TRK_036,ama,ama,Susie doktor ama fakir/yoksul,Susie doctor AMA poor,Susie is a doctor but she is poor.,Judged as infelicitous in various disjunctive contexts. Version without the optional anaphor.,Q2
+TRK_037,ama,ama,Susie doktor ama kendisi fakir/yoksul,Susie doctor AMA (anaphor) poor,Susie is a doctor but she is poor.,Judged as infelicitous in various disjunctive contexts. Version with the optional anaphor.,Q2
+TRK_038,∅,∅,Paul doktor John doktor,Paul doctor John doctor,"Paul is a doctor, John is a doctor.",Judged as infelicitous as juxtaposition for disjunction.,Q2
+TRK_039,…ya da …,…ya da…,John ekmek ya da pilav yedi,John bread or add rice ate,John ate bread or rice.,Judged as not informative enough in a conjunctive context where John ate both.,Q2
+TRK_040,ya…ya da…,ya…ya da…,John ya ekmek ya da pilav yedi,John YA bread YA ADD rice ate,John ate either bread or rice.,"Judged as false in a conjunctive context where John ate both, as it implies exclusivity. ",Q2
+TRK_041,veya,veya,John ekmek veya pilav yedi,John bread VEYA rice ate,John ate bread or rice.,Judged as not informative enough in a conjunctive context where John ate both.,Q2
+TRK_042,…ya da …,…ya da…,Paul doktor ya da John doktor,Paul doctor YA DA John doctor,Paul is a doctor or John is a doctor.,Used in a disjunctive context with speaker knowledge.,Q2
+TRK_043,veya,veya,Paul doktor veya John doktor,Paul doctor VEYA John doctor,Paul is a doctor or John is a doctor.,Used in a disjunctive context with speaker knowledge.,Q2
+TRK_044,yoksa,yoksa,Paul doktor yoksa John doktor,Paul doctor YOKSA John doctor,Is Paul a doctor or is John a doctor?,Used in a disjunctive context with speaker knowledge.,Q2
+TRK_045,yoksa,yoksa,"Paul doktor , yoksa ogretmen","Paul doctor , YOKSA teacher","Paul is a doctor, or a teacher.",Requires a prosodic break after the first element.,Q2
+TRK_046,…ya da …,…ya da…,John ekmek ya da pilav yedi,John bread or add rice ate,John ate bread or rice.,Acceptable in a disjunctive context without speaker knowledge.,Q2
+TRK_047,ya…ya da…,ya…ya da…,John ya ekmek ya da pilav yedi,John YA bread YA ADD rice ate,John ate either bread or rice.,"Acceptable in a disjunctive context without speaker knowledge, but implies a stronger commitment to exclusivity. ",Q2
+TRK_048,veya,veya,John ekmek veya pilav yedi,John bread VEYA rice ate,John ate bread or rice.,Acceptable in a disjunctive context without speaker knowledge.,Q2
+TRK_049,…ya da …,…ya da…,John ekmek ya da pilav yedi,John bread or add rice ate,John ate bread or rice.,"Acceptable in inclusive disjunction, but gives rise to a weak exclusivity inference. ",Q2
+TRK_050,veya,veya,John ekmek veya pilav yedi,John bread VEYA rice ate,John ate bread or rice.,"Acceptable in inclusive disjunction, but gives rise to a weak exclusivity inference. ",Q2
+TRK_051,…ya da …,…ya da…,John ekmek ya da pilav yedi,John bread or add rice ate,John ate bread or rice.,Acceptable in an exclusive disjunctive context.,Q2
+TRK_052,ya…ya da…,ya…ya da…,John ya ekmek ya da pilav yedi,John YA bread YA ADD rice ate,John ate either bread or rice.,Acceptable (and preferred) in an exclusive disjunctive context.,Q2
+TRK_053,veya,veya,John ekmek veya pilav yedi,John bread VEYA rice ate,John ate bread or rice.,Acceptable in an exclusive disjunctive context.,Q2
+TRK_054,ya…ya da…,ya…ya da…,Telefon-un-u ya işte mi bıraktın yada otobüste mi,Phone-2sg.poss-acc YA at.work Q left YADA on.bus Q,Did you leave your phone either at work or on the bus?,Not the standard way to form an alternative question in this context.,Q2
+TRK_055,…ya da …,…ya da…,Telefon-un-u işte mi bıraktın yada otobüste mi,Phone-2sg.poss-acc at.work Q left YADA on.bus Q,Did you leave your phone at work or on the bus?,Judged as questionable (??).,Q2
+TRK_056,…ya da …,…ya da…,Telefonunu iste mi biraktin ? ya da belki otobuste mi ?,your.phone at.work Q left ? or maybe on.bus Q ?,Did you leave your phone at work? Or maybe on the bus?,Described as being similar to an open disjunctive question.,Q2
+TRK_057,veya,veya,Telefon-un-u işte mi bıraktın veya otobüste mi,Phone-2sg.poss-acc at.work Q left VEYA on.bus Q,Did you leave your phone at work or on the bus?,Judged as questionable (??).,Q2
+TRK_058,…ya da …,…ya da…,Paul cupcake ya da kurabiye yiyebilir,Paul cupcake YA ADD cookie eat.modal.aorist,Paul can eat a cupcake or he can eat a cookie.,Free choice is available. Different intonations can yield exclusive or inclusive readings.,Q2
+TRK_059,veya,veya,Paul cupcake veya kurabiye yiyebilir,Paul cupcake VEYA cookie eat.modal.aorist,Paul can eat a cupcake or a cookie.,Free choice context. Same intuition as with 'ya da'.,Q2

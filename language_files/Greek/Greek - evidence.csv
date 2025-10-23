@@ -1,0 +1,99 @@
+ref,context,premise,example,judgment,questionnaire,comment
+GRK-EVID-001,conj-nocontrast-sta,na,GRK-001,felicitous,1,
+GRK-EVID-002,conj-nocontrast-sta,na,GRK-002,felicitous,1,"it’s possible (but it’s not totally ok, the subject of 2nd sentence could be understood as another person). Needs list-like intonation"
+GRK-EVID-003,conj-nocontrast-epi,na,GRK-003,felicitous,1,
+GRK-EVID-004,conj-nocontrast-epi,na,GRK-004,felicitous,1,
+GRK-EVID-005,conj-contrast-sta-mod,na,GRK-004,felicitous,1,
+GRK-EVID-006,conj-contrast-sta-mod,na,GRK-005,felicitous,1,
+GRK-EVID-007,conj-contrast-epi,na,GRK-006,felicitous,1,
+GRK-EVID-008,conj-contrast-epi,na,GRK-007,felicitous,1,
+GRK-EVID-009,conj-contrast-negp-sta,na,GRK-008,felicitous,1,
+GRK-EVID-010,conj-contrast-negp-sta,na,GRK-009,felicitous,1,
+GRK-EVID-011,conj-contrast-negp-sta,na,GRK-010,felicitous,1,
+GRK-EVID-012,conj-contrast-negp-epi,na,GRK-011,felicitous,1,
+GRK-EVID-013,conj-contrast-negp-epi,na,GRK-012,felicitous,1,
+GRK-EVID-014,disj-spk-1,na,GRK-013,felicitous,1,
+GRK-EVID-015,disj-spk-1,na,GRK-014,felicitous,1,like ‘either…or…’ in English
+GRK-EVID-016,disj-spk-2,na,GRK-015,felicitous,1,
+GRK-EVID-017,disj-spk-2,na,GRK-016,felicitous,1,
+GRK-EVID-018,disj-nspk-epi,na,GRK-017,felicitous,1,
+GRK-EVID-019,disj-nspk-epi,na,GRK-018,felicitous,1,
+GRK-EVID-020,disj-nspk-sta-exc-mod,na,GRK-019,felicitous,1,"if we use ‘ite’ here, it will cancel the implicature that John is both"
+GRK-EVID-021,disj-nspk-sta-exc-mod,na,GRK-020,felicitous,1,"if we use ‘ite’ here, it will cancel the implicature that John is both"
+GRK-EVID-022,disj-nspk-sta-inc-mod,na,GRK-019,felicitous,1,
+GRK-EVID-023,disj-nspk-sta-inc-mod,na,GRK-020,felicitous,1,
+GRK-EVID-024,disj-nspk-epi-q-mod,na,GRK-021,felicitous,1,
+GRK-EVID-025,disj-nspk-sta-inc-q,na,GRK-022,felicitous,1,
+GRK-EVID-026,neither-sta,na,GRK-023,felicitous,1,dhen is obligatory if ute is dropped in the first conjunct.
+GRK-EVID-027,neither-sta,na,GRK-024,felicitous,1,dhen is obligatory if ute is dropped in the first conjunct.
+GRK-EVID-028,neither-sta,na,GRK-025,felicitous,1,dhen is obligatory if ute is dropped in the first conjunct.
+GRK-EVID-029,neither-sta,na,GRK-026,felicitous,1,dhen is obligatory if ute is dropped in the first conjunct.
+GRK-EVID-030,neither-sta,na,GRK-027,*,1,
+GRK-EVID-031,neither-sta,na,GRK-028,felicitous,1,"if we drop 'dhen', the word order will change"
+GRK-EVID-032,neither-sta,na,GRK-029,felicitous,1,
+GRK-EVID-033,neither-epi,na,GRK-030,felicitous,1,
+GRK-EVID-034,neither-epi,na,GRK-031,felicitous,1,
+GRK-EVID-035,fc,na,GRK-032,felicitous,1,
+GRK-EVID-036,fc,na,GRK-033,felicitous,1,"Intonation determines whether the sentence has an exclusivity inference. Without a stress on ‘i, the particle effectively functions as a conjunction."
+GRK-EVID-037,fc,na,GRK-034,felicitous,1,"Intonation determines whether the sentence has an exclusivity inference. Without a stress on ‘i, the particle effectively functions as a conjunction."
+GRK-EVID-038,conj-nocontrast-sta,na,GRK-038,?,2,"Preferable to use a connective. With a list-like intonation with multiple conjuncts continuing after “daskala”, it may be natural. In general the juxtaposition case is dispreferred."
+GRK-EVID-039,disj-spk-3,na,GRK-001,infelicitous,2,
+GRK-EVID-040,disj-nspk-sta-exc-2,na,GRK-001,infelicitous,2,The sentence may be felicitous if it is embedded under “I guess” or I think
+GRK-EVID-041,disj-nspk-sta-exc-2,na,GRK-002,infelicitous,2,The sentence may be felicitous if it is embedded under “I guess” or I think
+GRK-EVID-042,disj-nspk-sta-inc-2,na,GRK-001,infelicitous,2,
+GRK-EVID-043,disj-nspk-sta-inc-2,na,GRK-002,infelicitous,2,
+GRK-EVID-044,neither-sta-2,na,GRK-001,infelicitous,2,
+GRK-EVID-045,conj-contrast-sta-mod,na,GRK-039,?,2,"Again, the juxtaposition is not perfect. It would be more natural in the following sequence, where there is explicit contrast. Still a pause after giatros is preferable."
+GRK-EVID-046,conj-contrast-sta-mod,na,GRK-040,felicitous,2,
+GRK-EVID-047,disj-spk-4-prime,na,GRK-004,infelicitous,2,
+GRK-EVID-048,disj-spk-4-prime,na,GRK-005,infelicitous,2,
+GRK-EVID-049,disj-nspk-sta-exc-3,na,GRK-004,infelicitous,2,
+GRK-EVID-050,disj-nspk-sta-exc-3,na,GRK-005,infelicitous,2,
+GRK-EVID-051,disj-nspk-sta-inc-3,na,GRK-004,infelicitous,2,
+GRK-EVID-052,disj-nspk-sta-inc-3,na,GRK-005,infelicitous,2,
+GRK-EVID-053,neither-sta-3,na,GRK-004,infelicitous,2,
+GRK-EVID-054,neither-sta-3,na,GRK-005,infelicitous,2,
+GRK-EVID-055,disj-spk-2,na,GRK-041,infelicitous,2,
+GRK-EVID-056,conj-nocontrast-sta-2,na,GRK-015,infelicitous,2,
+GRK-EVID-057,conj-nocontrast-sta-2,na,GRK-016,infelicitous,2,
+GRK-EVID-058,conj-contrast-sta-2,na,GRK-015,infelicitous,2,
+GRK-EVID-059,conj-contrast-sta-2,na,GRK-016,infelicitous,2,
+GRK-EVID-060,disj-nspk-sta-exc-4,na,GRK-015,felicitous,2,
+GRK-EVID-061,disj-nspk-sta-exc-4,na,GRK-016,felicitous,2,
+GRK-EVID-062,disj-nspk-sta-inc-4,na,GRK-015,infelicitous,2,"Standalone (without any continuation), both sentences are infelicitous. However, with a continuation like “actually both of them are”, there is a slight contrast. Both of them are in principle felicitous with the continuation, but the second one (with ‘i) sounds more appropriate. Continuation: Vasika, kai oi dio einai giatroi."
+GRK-EVID-063,disj-nspk-sta-inc-4,na,GRK-016,infelicitous,2,"Standalone (without any continuation), both sentences are infelicitous. However, with a continuation like “actually both of them are”, there is a slight contrast. Both of them are in principle felicitous with the continuation, but the second one (with ‘i) sounds more appropriate. Continuation: Vasika, kai oi dio einai giatroi."
+GRK-EVID-064,neither-sta-4,na,GRK-015,infelicitous,2,
+GRK-EVID-065,neither-sta-4,na,GRK-016,infelicitous,2,
+GRK-EVID-066,disj-nspk-epi,na,GRK-042,infelicitous,2,
+GRK-EVID-067,disj-nspk-sta-exc,na,GRK-043,infelicitous,2,
+GRK-EVID-068,disj-nspk-sta-exc,na,GRK-044,infelicitous,2,
+GRK-EVID-069,disj-nspk-sta-exc-mod,na,GRK-045,felicitous,2,
+GRK-EVID-070,disj-nspk-sta-exc-mod,na,GRK-046,felicitous,2,
+GRK-EVID-071,disj-nspk-sta-inc-mod,na,GRK-019,infelicitous,2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GRK-EVID-072,disj-nspk-sta-inc-mod,na,GRK-020,infelicitous,2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GRK-EVID-073,disj-nspk-sta-inc-mod,na,GRK-045,infelicitous,2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GRK-EVID-074,disj-nspk-sta-inc-mod,na,GRK-046,infelicitous,2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GRK-EVID-075,disj-nspk-epi-q,na,GRK-047,#/*?,2,
+GRK-EVID-076,disj-nspk-epi-q,na,GRK-048,felicitous,2,
+GRK-EVID-077,neither-sta,na,GRK-047,infelicitous,2,
+GRK-EVID-078,neither-sta,na,GRK-048,infelicitous,2,
+GRK-EVID-079,conj-nocontrast-sta-3,na,GRK-023,infelicitous,2,
+GRK-EVID-080,conj-nocontrast-sta-3,na,GRK-024,infelicitous,2,
+GRK-EVID-081,conj-nocontrast-sta-3,na,GRK-025,infelicitous,2,
+GRK-EVID-082,conj-nocontrast-sta-3,na,GRK-026,infelicitous,2,
+GRK-EVID-083,conj-contrast-sta-3,na,GRK-023,infelicitous,2,
+GRK-EVID-084,conj-contrast-sta-3,na,GRK-024,infelicitous,2,
+GRK-EVID-085,conj-contrast-sta-3,na,GRK-025,infelicitous,2,
+GRK-EVID-086,conj-contrast-sta-3,na,GRK-026,infelicitous,2,
+GRK-EVID-087,disj-spk-5,na,GRK-023,infelicitous,2,
+GRK-EVID-088,disj-spk-5,na,GRK-024,infelicitous,2,
+GRK-EVID-089,disj-spk-5,na,GRK-025,infelicitous,2,
+GRK-EVID-090,disj-spk-5,na,GRK-026,infelicitous,2,
+GRK-EVID-091,disj-nspk-sta-exc-5,na,GRK-023,infelicitous,2,
+GRK-EVID-092,disj-nspk-sta-exc-5,na,GRK-024,infelicitous,2,
+GRK-EVID-093,disj-nspk-sta-exc-5,na,GRK-025,infelicitous,2,
+GRK-EVID-094,disj-nspk-sta-exc-5,na,GRK-026,infelicitous,2,
+GRK-EVID-095,disj-nspk-sta-inc-5,na,GRK-023,infelicitous,2,
+GRK-EVID-096,disj-nspk-sta-inc-5,na,GRK-024,infelicitous,2,
+GRK-EVID-097,disj-nspk-sta-inc-5,na,GRK-025,infelicitous,2,
+GRK-EVID-098,disj-nspk-sta-inc-5,na,GRK-026,infelicitous,2,

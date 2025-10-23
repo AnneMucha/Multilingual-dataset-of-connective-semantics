@@ -1,0 +1,38 @@
+expression,full form,shorthand,kboth,kneither,contrast,stative,negated_p,Kp,question,fc,can_express,evidence,negation,comments
+∅,juxtaposition,conj-contrast-epi,1,0,1,0,0,1,0,0,*,Igbo_Evi_39,neither,Conflicting or uncertain evidence: *
+∅,juxtaposition,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,Igbo_Evi_41,neither,
+∅,juxtaposition,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,Igbo_Evi_40,neither,
+∅,juxtaposition,conj-contrast-sta,1,0,1,1,0,1,0,0,?,Igbo_Evi_34,neither,Conflicting or uncertain evidence: ?
+∅,juxtaposition,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,"Igbo_Evi_4,Igbo_Evi_29",neither,
+∅,juxtaposition,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,Igbo_Evi_21,neither,
+∅,juxtaposition,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,Igbo_Evi_52,neither,
+∅,juxtaposition,disj-spk,0,0,,1,0,1,0,0,*,Igbo_Evi_44,neither,Conflicting or uncertain evidence: *
+∅,juxtaposition,neither-sta,0,1,,1,0,0,0,0,?,Igbo_Evi_55,neither,Conflicting or uncertain evidence: ?
+-kwa,-ghi … -ghi-kwa,conj-contrast-sta,1,0,1,1,0,1,0,0,0,Igbo_Evi_57,below,
+-kwa,-ghi … -ghi-kwa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,0,Igbo_Evi_56,below,
+-kwa,-ghi … -ghi-kwa,disj-spk,0,0,0,1,0,1,0,0,0,"Igbo_Evi_58,Igbo_Evi_59,Igbo_Evi_60",below,
+-kwa,-ghi … -ghi-kwa,negative,0,1,,1,,0,0,0,1,Igbo_Evi_20,below,
+-kwa,-ghi … -ghi-kwa,neither-epi,0,1,,0,1,0,0,0,1,Igbo_Evi_18,below,
+-kwa,-ghi … -ghi-kwa,neither-sta,0,1,,1,0,0,0,0,1,Igbo_Evi_17,below,
+-kwa,-kwa,conj-nocontrast-epi,1,0,0,0,0,1,0,0,1,Igbo_Evi_3,neither,
+-kwa,-kwa,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Igbo_Evi_1,neither,
+-kwa,-kwa,disj-spk,0,0,,0,0,1,0,0,?,"Igbo_Evi_22,Igbo_Evi_24,Igbo_Evi_25,Igbo_Evi_27",neither,"Conflicting or uncertain evidence: felicitous, infelicitous"
+ka o bu,ka o bu,disj-nspk-q-exc,0,0,1,0,0,0,1,0,1,"Igbo_Evi_14,Igbo_Evi_54",neither,
+ka o bu,ka o bu,disj-nspk-q-inc,?,0,,1,0,0,1,0,1,"Igbo_Evi_15,Igbo_Evi_16",neither,
+mana,mana,conj-contrast-epi,1,0,1,0,0,1,0,0,?,"Igbo_Evi_6,Igbo_Evi_39",neither,"Conflicting or uncertain evidence: *, felicitous"
+mana,mana,conj-contrast-negp-epi,1,0,1,0,1,1,0,0,1,Igbo_Evi_8,neither,
+mana,mana,conj-contrast-negp-sta,1,0,1,1,1,1,0,0,1,Igbo_Evi_7,neither,
+mana,mana,conj-contrast-sta,1,0,1,1,0,1,0,0,1,Igbo_Evi_5,neither,
+mana,mana,disj-nspk-sta-exc,0,0,,1,0,0,0,0,0,Igbo_Evi_36,neither,
+mana,mana,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,Igbo_Evi_37,neither,
+mana,mana,disj-spk,0,0,,1,0,1,0,0,0,Igbo_Evi_35,neither,
+mana,mana,neither-sta,0,1,,1,0,0,0,0,0,Igbo_Evi_38,neither,
+na,na,conj-nocontrast-sta,1,0,0,1,0,1,0,0,1,Igbo_Evi_2,neither,
+na,na,disj-nspk-sta-inc,?,0,,1,0,0,0,0,0,Igbo_Evi_26,neither,
+na,na,disj-spk,0,0,,1,0,1,0,0,?,Igbo_Evi_23,neither,Conflicting or uncertain evidence: ??
+na,na,neither-sta,0,1,,1,0,0,0,0,0,Igbo_Evi_28,neither,
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,disj-nspk-epi,0,0,1,0,0,0,0,0,?,"Igbo_Evi_11,Igbo_Evi_50,Igbo_Evi_51",neither,"Conflicting or uncertain evidence: *, felicitous"
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,disj-nspk-sta-exc,0,0,,1,0,0,0,0,1,"Igbo_Evi_12,Igbo_Evi_47,Igbo_Evi_53",neither,
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,disj-spk,0,0,,1,0,1,0,0,?,"Igbo_Evi_9,Igbo_Evi_10,Igbo_Evi_42,Igbo_Evi_43,Igbo_Evi_45,Igbo_Evi_46,Igbo_Evi_49",neither,"Conflicting or uncertain evidence: *, felicitous, infelicitous"
+"nwere ike ... ,ma o bu",nwere ike ... ma o bu,fc,0,0,,0,0,0,0,1,1,"Igbo_Evi_19,Igbo_Evi_61",neither,
+"nwere ike ... ,ma o bu",nwere ike ... nwere ike ... ma o bu,disj-nspk-sta-inc,?,0,,1,0,0,0,0,1,Igbo_Evi_13,neither,

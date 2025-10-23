@@ -1,0 +1,25 @@
+ref,expression,full_form,words,gloss,translation,comment,questionnaire
+mapudungun-con-1,ka,ka,Sara l’awentuchefe ngey ka kimelfe ngey,Sara doctor COP CON prof COP,Sara is a doctor and a teacher.,,1
+mapudungun-con-1b,ka,ka,Sara l’awentuchefe ka kimelfe ngey,Sara doctor CON prof COP,Sara is a doctor and a teacher.,,1
+mapudungun-con-1c,juxtaposition,juxtaposition,Sara l’awentuchefe ngey; kimelfe ngey,,Sara is a doctor; she is a teacher.,,1
+mapudungun-con-2,ka,ka,Pablo wüntrin-tu-tele-pe-y ka n’orümtu-meke-y ñi pu kamisa,Pablo watch-TV-PE-3 CON straighten-STAT-3 poss pl shirt,Pablo is watching TV and is ironing his shirts.,,1
+mapudungun-con-2b,ka,ka,Pablo wüntrin-tu-tele-pe-y ka n’orümtu-meke-y ñi kamisa,Pablo watch-TV-PE-3 CON straighten-STAT-3 poss shirt,Pablo is watching TV and is ironing his shirts.,,1
+mapudungun-con-3,welu,welu,Sara l’awentuchefe ngey welu kuñifall-ngey,Sara doctor COP CON poor-COP-3,"Sara is a doctor, but she is poor.",,1
+mapudungun-con-3b,welu,welu,Sara l’awentuchefe ngey welu kuñifall-ngefuy,Sara doctor COP CON poor-COP-FU-3,"Sara is a doctor, but she is poor.",,1
+mapudungun-con-4,welu,welu,"Rosa ngilla-y kiñe helado, welu ka che nge-al ngilla-fi",Rosa buy-3 INDF icecream CON other person COP-PURP buy-3>3,"Rosa bought an ice cream, but she bought it for a stranger.",,1
+mapudungun-con-4b,welu,welu,"Rosa ngilla-fu-y kiñe helado, welu ka che nge-al ngilla-fi",Rosa buy-FU-3 INDF icecream CON other person COP-PURP buy-3>3,"Rosa bought an ice cream, but she bought it for a stranger.",,1
+mapudungun-con-4c,welu,welu,"Rosa ngilla-y kiñe helado, welu ka che nge-al ngillafuy",Rosa buy-3 INDF icecream CON other person COP-PURP buy-3>3,"Rosa bought an ice cream, but she bought it for a stranger.",,1
+mapudungun-con-4d,welu,welu,"Rosa ngilla-fu-y kiñe helado, welu ka che nge-al ngillafuy",Rosa buy-FU-3 INDF icecream CON other person COP-PURP buy-3>3,"Rosa bought an ice cream, but she bought it for a stranger.",,1
+mapudungun-con-5,re,re,"Pablo l’awentuchefe nge-la-y, re llow-che-fe-nge-y",Pablo doctor COP-neg-3 only(CON) receive-person-AGENT-VBLZ-3,"Pablo is not a doctor, but a receptionist.",,1
+mapudungun-con-6,kam,kam,rüf.düngu A ngey kam rüf.düngu B ngey,correct.answer A COP CON correct.answer B COP,The answer is A or the answer is B.,,1
+mapudungun-con-7,kam,kam,Pablo médico ngepey kam Juan chi médico ngey,Pablo doctor COP-PE-3 CON Juan perhaps doctor COP,(Either) Pablo is a doctor or Juan is a doctor.,,1
+mapudungun-con-8,kam,kam,"kam elfi-n chi tachi mütrümtüwe küdaw mew, kam ütrufnagüm-fi-n chi rüpu-püle ruka mew amu-tu-el",CON leave-1 POSSB DEF teléfono work ADP CON drop-3obj-1subj POSSB road-during house ADP go-REST-NF,I left my phone at work or I dropped it on my way home.,,1
+mapudungun-con-8b,kam,kam,"kam elfi-n chi tachi mütrümtüwe küdaw mew, kam ütrufnagüm-fi-n chi ruka mew amu-tu-el",CON leave-1 POSSB DEF teléfono work ADP CON drop-3obj-1subj POSSB house ADP go-REST-NF,I left my phone at work or I dropped it on my way home.,,1
+mapudungun-con-9,kam,kam,Juan l’awentuchefe nge-fu-y chi kam wirintukufe nge-y chi,Juan doctor COP-FU-3 POSS CON writer COP-3 POSSB,Juan is a doctor or he is a writer.,,1
+mapudungun-con-10,kam,kam,Juan l’awentuchefe nge-pe-y kam wirintukufe nge-y kam chag dungu chi,Juan doctor COP-PE-3 CON writer COP-3 CON both things POSSB,Juan is a doctor or he is a writer or both.,,1
+mapudungun-con-11,kam,kam,el-fimi tami mütrütumwe küdaw mew kam el-fimi chi autobus mew chi,leave-2>3 POSS teléfono trabajo ADP CON leave-2>3 DEF bus ADP perhaps,Did you leave your phone at work or did you leave it on the bus?,,1
+mapudungun-con-12,kam,kam,fey-chi chem fendengekey Líder mew kam Jumbo mew?,DEM-DET thing sell-PASS-HABIT-3 supermarket.A ADP CON supermarket.B ADP,Is this brand sold at Líder or at Jumbo?,,1
+mapudungun-con-13,ka,rüme ka,Pablo l’awentuchefe nge-la-y rüme ka dapituchefe nge-la-y rüme,Pablo doctor COP-NEG-3 even/at.all CON nurse COP-NEG-3 at.all,Pablo is neither a doctor nor a nurse.,,1
+mapudungun-con-14,ka,rüme ka,Miguel ngilla-la-y rüme ñi helado ka elu-la-fi rüme rüme ñi lamngen,Miguel buy-NEG-3 even POSS icecream CON give-NEG-3>3 at.all even POSS sister,"Miguel didn't buy his ice cream, nor did he give it to his sister.",,1
+mapudungun-con-15,kam,kam,Pablo pepi iy-afu-y kiñe turrón kam kiñe galleta,Pablo ABIL eat-AFU-3 one turron CON one cookie,Paul can eat a cupcake or he can eat a cookie.,,1
+mapudungun-con-16,ka,rüme ka,Susana l’awentuchefe ngelay rüme ka lefleftufe ngelay rüme,Susana doctor COP-NEG-3 at.all CON runner COP-NEG-3 at.all,Susie is neither a doctor nor a runner.,,1
