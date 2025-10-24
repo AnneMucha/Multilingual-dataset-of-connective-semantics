@@ -1,0 +1,97 @@
+ref,context,premise,example,judgment,questionnaire,comment
+GR-EVD-001,conj-nocontrast-sta,na,GR-001,felicitous,Q1,
+GR-EVD-002,conj-nocontrast-sta,na,GR-003,felicitous,Q1,"it’s possible (but it’s not totally ok, the subject of 2nd sentence could be understood as another person); Needs list-like intonation"
+GR-EVD-003,conj-nocontrast-epi,na,GR-004,felicitous,Q1,
+GR-EVD-004,conj-nocontrast-epi,na,GR-005,felicitous,Q1,
+GR-EVD-005,conj-contrast-sta-mod,na,GR-006,felicitous,Q1,
+GR-EVD-006,conj-contrast-sta-mod,na,GR-007,felicitous,Q1,
+GR-EVD-007,conj-contrast-epi,na,GR-010,felicitous,Q1,
+GR-EVD-008,conj-contrast-epi,na,GR-011,felicitous,Q1,
+GR-EVD-009,conj-contrast-negp-sta,na,GR-012,felicitous,Q1,
+GR-EVD-010,conj-contrast-negp-sta,na,GR-013,felicitous,Q1,
+GR-EVD-011,conj-contrast-negp-sta,na,GR-014,felicitous,Q1,
+GR-EVD-012,conj-contrast-negp-epi,na,GR-015,felicitous,Q1,
+GR-EVD-013,conj-contrast-negp-epi,na,GR-016,felicitous,Q1,
+GR-EVD-014,disj-spk-1,na,GR-017,felicitous,Q1,
+GR-EVD-015,disj-spk-1,na,GR-018,felicitous,Q1,like ‘either…or…’ in English
+GR-EVD-016,disj-spk-2,na,GR-019,felicitous,Q1,
+GR-EVD-017,disj-spk-2,na,GR-020,felicitous,Q1,
+GR-EVD-018,disj-nspk-epi,na,GR-022,felicitous,Q1,
+GR-EVD-019,disj-nspk-epi,na,GR-024,felicitous,Q1,
+GR-EVD-020,disj-nspk-sta-exc-mod,na,GR-025,felicitous,Q1,"if we use ‘ite’ here, it will cancel the implicature that John is both"
+GR-EVD-021,disj-nspk-sta-exc-mod,na,GR-026,felicitous,Q1,"if we use ‘ite’ here, it will cancel the implicature that John is both"
+GR-EVD-022,disj-nspk-sta-inc-mod,na,GR-025,felicitous,Q1,
+GR-EVD-023,disj-nspk-sta-inc-mod,na,GR-026,felicitous,Q1,
+GR-EVD-024,disj-nspk-epi-q-mod,na,GR-031,felicitous,Q1,
+GR-EVD-025,disj-nspk-sta-inc-q,na,GR-034,felicitous,Q1,
+GR-EVD-026,neither-sta,na,GR-035,felicitous,Q1,dhen is obligatory if ute is dropped in the first conjunct.
+GR-EVD-027,neither-sta,na,GR-036,felicitous,Q1,dhen is obligatory if ute is dropped in the first conjunct.
+GR-EVD-028,neither-sta,na,GR-037,felicitous,Q1,dhen is obligatory if ute is dropped in the first conjunct.
+GR-EVD-029,neither-sta,na,GR-038,felicitous,Q1,dhen is obligatory if ute is dropped in the first conjunct.
+GR-EVD-030,neither-sta,na,GR-039,felicitous,Q1,"if we drop 'dhen', the word order will change"
+GR-EVD-031,neither-sta,na,GR-040,felicitous,Q1,
+GR-EVD-032,neither-epi,na,GR-043,felicitous,Q1,
+GR-EVD-033,neither-epi,na,GR-044,felicitous,Q1,
+GR-EVD-034,fc,na,GR-045,felicitous,Q1,
+GR-EVD-035,fc,na,GR-046,felicitous,Q1,"Intonation determines whether the sentence has an exclusivity inference. Without a stress on ‘i, the particle effectively functions as a conjunction."
+GR-EVD-036,fc,na,GR-047,felicitous,Q1,"Intonation determines whether the sentence has an exclusivity inference. Without a stress on ‘i, the particle effectively functions as a conjunction."
+GR-EVD-037,conj-nocontrast-sta,na,GR-003,?,Q2,"Preferable to use a connective. With a list-like intonation with multiple conjuncts continuing after “daskala”, it may be natural. In general the juxtaposition case is dispreferred."
+GR-EVD-038,disj-spk-3,na,GR-001,infelicitous,Q2,
+GR-EVD-039,disj-nspk-sta-exc-2,na,GR-001,infelicitous,Q2,The sentence may be felicitous if it is embedded under “I guess” or I think
+GR-EVD-040,disj-nspk-sta-exc-2,na,GR-002,infelicitous,Q2,The sentence may be felicitous if it is embedded under “I guess” or I think
+GR-EVD-041,disj-nspk-sta-inc-2,na,GR-001,infelicitous,Q2,
+GR-EVD-042,disj-nspk-sta-inc-2,na,GR-002,infelicitous,Q2,
+GR-EVD-043,neither-sta-2,na,GR-001,infelicitous,Q2,
+GR-EVD-044,conj-contrast-sta-mod,na,GR-008,?,Q2,"the juxtaposition is not perfect. It would be more natural in the following sequence, where there is explicit contrast. Still a pause after giatros is preferable."
+GR-EVD-045,disj-spk-4-prime,na,GR-006,infelicitous,Q2,
+GR-EVD-046,disj-spk-4-prime,na,GR-007,infelicitous,Q2,
+GR-EVD-047,disj-nspk-sta-exc-3,na,GR-006,infelicitous,Q2,
+GR-EVD-048,disj-nspk-sta-exc-3,na,GR-007,infelicitous,Q2,
+GR-EVD-049,disj-nspk-sta-inc-3,na,GR-006,infelicitous,Q2,
+GR-EVD-050,disj-nspk-sta-inc-3,na,GR-007,infelicitous,Q2,
+GR-EVD-051,neither-sta-3,na,GR-006,infelicitous,Q2,
+GR-EVD-052,neither-sta-3,na,GR-007,infelicitous,Q2,
+GR-EVD-053,disj-spk-2,na,GR-021,infelicitous,Q2,
+GR-EVD-054,conj-nocontrast-sta-2,na,GR-019,infelicitous,Q2,
+GR-EVD-055,conj-nocontrast-sta-2,na,GR-020,infelicitous,Q2,
+GR-EVD-056,conj-contrast-sta-2,na,GR-019,infelicitous,Q2,
+GR-EVD-057,conj-contrast-sta-2,na,GR-020,infelicitous,Q2,
+GR-EVD-058,disj-nspk-sta-exc-4,na,GR-019,felicitous,Q2,
+GR-EVD-059,disj-nspk-sta-exc-4,na,GR-020,felicitous,Q2,
+GR-EVD-060,disj-nspk-sta-inc-4,na,GR-019,infelicitous,Q2,"Standalone (without any continuation), both sentences are infelicitous. However, with a continuation like “actually both of them are”, there is a slight contrast."
+GR-EVD-061,disj-nspk-sta-inc-4,na,GR-020,infelicitous,Q2,"Standalone (without any continuation), both sentences are infelicitous. However, with a continuation like “actually both of them are”, there is a slight contrast. Both of them are in principle felicitous with the continuation, but the second one (with ‘i ) sounds more appropriate. Continuation: Vasika, kai oi dio einai giatroi."
+GR-EVD-062,neither-sta-4,na,GR-019,infelicitous,Q2,
+GR-EVD-063,neither-sta-4,na,GR-020,infelicitous,Q2,
+GR-EVD-064,disj-nspk-epi,na,GR-023,infelicitous,Q2,
+GR-EVD-065,disj-nspk-sta-exc-mod,na,GR-027,infelicitous,Q2,
+GR-EVD-066,disj-nspk-sta-exc-mod,na,GR-028,infelicitous,Q2,
+GR-EVD-067,disj-nspk-sta-exc-mod,na,GR-029,felicitous,Q2,
+GR-EVD-068,disj-nspk-sta-exc-mod,na,GR-030,felicitous,Q2,
+GR-EVD-069,disj-nspk-sta-inc-mod,na,GR-025,infelicitous,Q2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GR-EVD-070,disj-nspk-sta-inc-mod,na,GR-026,infelicitous,Q2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GR-EVD-071,disj-nspk-sta-inc-mod,na,GR-029,infelicitous,Q2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GR-EVD-072,disj-nspk-sta-inc-mod,na,GR-030,infelicitous,Q2,"Both would be infelicitous without any continuation. However, with a continuation like “he may be both”, both are in principle felicitous although the one with ‘i is more appropriate."
+GR-EVD-073,disj-nspk-epi-q-mod,na,GR-032,#/*?,Q2,
+GR-EVD-074,disj-nspk-epi-q-mod,na,GR-033,felicitous,Q2,
+GR-EVD-075,neither-sta,na,GR-041,infelicitous,Q2,
+GR-EVD-076,neither-sta,na,GR-042,infelicitous,Q2,
+GR-EVD-077,conj-nocontrast-sta-3,na,GR-035,infelicitous,Q2,
+GR-EVD-078,conj-nocontrast-sta-3,na,GR-036,infelicitous,Q2,
+GR-EVD-079,conj-nocontrast-sta-3,na,GR-037,infelicitous,Q2,
+GR-EVD-080,conj-nocontrast-sta-3,na,GR-038,infelicitous,Q2,
+GR-EVD-081,conj-contrast-sta-3,na,GR-035,infelicitous,Q2,
+GR-EVD-082,conj-contrast-sta-3,na,GR-036,infelicitous,Q2,
+GR-EVD-083,conj-contrast-sta-3,na,GR-037,infelicitous,Q2,
+GR-EVD-084,conj-contrast-sta-3,na,GR-038,infelicitous,Q2,
+GR-EVD-085,disj-spk-5,na,GR-035,infelicitous,Q2,
+GR-EVD-086,disj-spk-5,na,GR-036,infelicitous,Q2,
+GR-EVD-087,disj-spk-5,na,GR-037,infelicitous,Q2,
+GR-EVD-088,disj-spk-5,na,GR-038,infelicitous,Q2,
+GR-EVD-089,disj-nspk-sta-exc-5,na,GR-035,infelicitous,Q2,
+GR-EVD-090,disj-nspk-sta-exc-5,na,GR-036,infelicitous,Q2,
+GR-EVD-091,disj-nspk-sta-exc-5,na,GR-037,infelicitous,Q2,
+GR-EVD-092,disj-nspk-sta-exc-5,na,GR-038,infelicitous,Q2,
+GR-EVD-093,disj-nspk-sta-inc-5,na,GR-035,infelicitous,Q2,
+GR-EVD-094,disj-nspk-sta-inc-5,na,GR-036,infelicitous,Q2,
+GR-EVD-095,disj-nspk-sta-inc-5,na,GR-037,infelicitous,Q2,
+GR-EVD-096,disj-nspk-sta-inc-5,na,GR-038,infelicitous,Q2,
