@@ -1,0 +1,41 @@
+ref,expression,full_form,words,gloss,translation,comment,questionnaire
+tagalog-con-1,at,at,Doktor si Susie at guro din siya.,Doctor DET Susie CONJ.and teacher also she,Susie is a doctor and she is a teacher.,,1
+tagalog-con-2,∅,juxtaposition,Doktor si Susie. Guro din siya.,Doctor DET Susie. teacher also she,Susie is a doctor; she is a teacher.,,1
+tagalog-con-3,at,at,Nanonood ng TV si Paul at namamalantsa siya ng damit.,Watching DET TV DET Paul CONJ.and ironing he DET clothes/shirt,Paul is watching TV and he is ironing his shirts.,,1
+tagalog-con-4,∅,juxtaposition,Nanonood ng TV si Paul. Namamalantsa siya ng damit.,Watching DET TV DET Paul. ironing he DET clothes/shirt,Paul is watching TV; he is ironing his shirts.,,1
+tagalog-con-5,pero,pero,Doktor si Susie pero mahirap siya.,Doctor DET Susie CONT.but poor she,Susie is a doctor but she is poor.,,1
+tagalog-con-6,pero,pero,Bumili si Jen ng ice cream pero ibinigay niya ito sa estranghero.,Bought DET Jen DET ice cream but gave she it to stranger,Jen bought ice cream but she bought it for a stranger.,,1
+tagalog-con-7,pero,pero,Hindi doktor si Paul pero receptionist siya.,NEG doctor DET Paul but receptionist he,Paul is not a doctor but he is a receptionist.,,1
+tagalog-con-8,ngunit,ngunit,Hindi doktor si Paul ngunit receptionist siya.,NEG doctor DET Paul but receptionist he,Paul is not a doctor but he is a receptionist.,,1
+tagalog-con-9,pero,pero,Hindi nakabili si Jen ng ice cream pero nakabili siya ng tsokolate.,NEG bought DET Jen ice cream but bought she DET chocolates,Jen didn’t buy ice cream but she bought chocolate.,,1
+tagalog-con-10,ngunit,ngunit,Hindi nakabili si Jen ng ice cream ngunit nakabili siya ng tsokolate.,NEG bought DET Jen ice cream but bought she DET chocolates,Jen didn’t buy ice cream but she bought chocolate.,,1
+tagalog-con-11,o,o,A ang sagot sa tanong o B ang sagot sa tanong.,A DET answer to question or B DET answer to question,(Either) the answer to the question is A or the answer to the question is B.,,1
+tagalog-con-12,o,o,Si Paul ang doktor o si John ang doktor.,DET Paul DET doctor or DET JOhn DET doctor,(Either) Paul is a doctor or John is a doctor.,,1
+tagalog-con-13,o,o,Naiwan ko ang cellphone ko sa opisina o nahulog ko ito habang pauwi ako.,Left I DET cellphone my in office or dropped I it while going.home I,I left my phone at work or I dropped it on my way home.,,1
+tagalog-con-14,o,o,Doktor si John o manunulat siya.,Doctor DET John or writer he,John is a doctor or he is a writer.,,1
+tagalog-con-15,o,o,Doktor si John o pwede ring manunulat siya.,Doctor DET John CONJ MOD also writer he,John is a doctor or he is a writer (maybe both).,,1
+tagalog-con-16,o,o,Naiwan mo ba ang cellphone mo sa opisina o nahulog mo ito sa bus?,Left you Q DET cellphone your in office or dropped you it on bus,Did you leave your phone at work or did you leave it on the bus?,,1
+tagalog-con-17,o,o,Binebenta ba ito rito o binebenta ba ito riyan?,Being.sold Q it here CONJ Being.sold Q it there,Would Shop A sell this brand or would Shop B sell this brand?,(if the speaker assumes that the addressee knows the answer),1
+tagalog-con-18,o,o,Binebenta kaya ito rito o binebenta kaya ito riyan?,Being.sold Q it here CONJ Being.sold Q it there,Would Shop A sell this brand or would Shop B sell this brand?,(if it is not certain that the addressee knows the answer),1
+tagalog-con-19,at,hindi … at hindi …,Hindi doktor si Paul at hindi rin siya nurse.,NEG doctor DET Paul and NEG also he nurse,Paul is neither a doctor nor is he a nurse.,,1
+tagalog-con-20,ni,hindi … ni hindi …,Hindi doktor si Paul ni hindi rin siya nurse.,NEG doctor DET Paul ni NEG also he nurse,Paul is neither a doctor nor is he a nurse.,(with a dismissive connotation “he’s not even a nurse”),1
+tagalog-con-21,at,hindi … at hindi …,Hindi bumili si Mike ng ice cream at hindi rin siya nagbigay ng kahit ano sa kaniyang kapatid.,NEG bought DET Mike DET ice cream and NEG also he gave DET anything to his sibling,Mike didn’t buy ice cream nor did he give it to his sister.,,1
+tagalog-con-22,ni,hindi … ni hindi …,Hindi bumili si Mike ng ice cream ni hindi rin siya nagbigay ng kahit ano sa kaniyang kapatid.,NEG bought DET Mike DET ice cream ni NEG also he gave DET anything to his sibling,Mike didn’t buy ice cream nor did he give it to his sister.,,1
+tagalog-con-23,o,o,Pwedeng kumain si Paul ng cupcake o cookie.,MOD eat DET Paul DET cupcake or cookie,Paul can eat a cupcake or a cookie.,,1
+tagalog-con-24,∅,juxtaposition,Doktor si Susie. Guro siya.,Doctor DET Susie. teacher she,Susie is a doctor. She is a teacher.,,2
+tagalog-con-25,at,at,Doktor si Susie at guro siya.,Doctor DET Susie CONJ.and teacher she,Susie is a doctor and she is a teacher.,,2
+tagalog-con-26,at,at,Doktor si Susie at absent siya ngayon,doctor det Susie CONJ absent she now,Susie is a doctor and she is absent now.,,2
+tagalog-con-27,at,at,Doktor si Susie at nagtuturo siya ngayon sa UP.,doctor det Susie CONJ teaching she now in uni,Susie is a doctor and she is teaching at UP now.,,2
+tagalog-con-28,∅,juxtaposition,Doktor si Susie; mahirap siya.,Doctor DET Susie; poor she,Susie is a doctor; she is poor.,,2
+tagalog-con-29,∅,juxtaposition,Hindi doktor si Paul; receptionist siya.,NEG doctor DET Paul; receptionist he,Paul is not a doctor; he is a receptionist.,,2
+tagalog-con-30,ngunit,ngunit,Doktor si Susie ngunit guro din siya.,Doctor DET Susie CONJ teacher also she,Susie is a doctor but she is also a teacher.,,2
+tagalog-con-31,ngunit,ngunit,Doktor si Susie ngunit nagtuturo siya ngayon sa UP.,doctor det Susie CONJ teaching she now in uni,Susie is a doctor but she is teaching at UP now.,"The second sentence indicates that she has a doctor's licence but she is not a practising doctor, and is only teaching at a college.",2
+tagalog-con-32,ngunit,ngunit,Doktor si Susie ngunit mahirap siya.,Doctor DET Susie CONJ poor she,Susie is a doctor but she is poor.,,2
+tagalog-con-33,ngunit,ngunit,Si Paul ang doktor ngunit si John ang doktor.,DET Paul DET doctor CONJ DET JOhn DET doctor,Paul is the doctor but John is the doctor.,,2
+tagalog-con-34,ngunit,ngunit,Doktor si John ngunit manunulat siya.,Doctor DET John CONJ writer he,John is a doctor but he is a writer.,,2
+tagalog-con-35,ngunit,ngunit,Doktor si Paul ngunit nurse siya.,Doctor DET Paul CONJ nurse he,Paul is a doctor but he is a nurse.,,2
+tagalog-con-36,∅,juxtaposition,Si Paul ang doktor; si John ang doktor.,DET Paul DET doctor; DET John DET doctor,Paul is the doctor; John is the doctor.,,2
+tagalog-con-37,o,o,Si Paul ang doktor o si John ang doktor o baka pareho sila.,DET Paul DET doctor CONJ DET JOhn DET doctor CONJ maybe both them,Paul is the doctor or John is the doctor or maybe they both are.,,2
+tagalog-con-38,ni,hindi … ni hindi …,Hindi doktor si Paul ni rin siya nurse.,NEG doctor DET Paul ni also he nurse,Paul is not a doctor nor is he a nurse.,here it is not possible to drop hindi from the second clause.,2
+tagalog-con-39,ni,hindi … ni hindi …,Hindi niya gagawin iyon para sa iyo ni para sa akin.,neg 3sg will.do that for you CONJ for me,He/She will not do that for you nor for me.,At least one negation is needed in the first conjunct.,2
+tagalog-con-40,ni,hindi … ni hindi …,Hindi siya nagluto ni naglinis kahapon.,ned 3SG cooked CONJ cleaned yesterday,He/She did not cook nor clean yesterday.,At least one negation is needed in the first conjunct.,2

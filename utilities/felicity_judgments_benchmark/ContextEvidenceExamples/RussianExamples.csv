@@ -1,0 +1,33 @@
+ref,expression,full_form,words,glosses,translation,comment,questionnaire
+RUS_001,i,i…i,Suzi i vrač i učitel.,Suzi and doctor and teacher,Susie is a doctor and she is a teacher.,,Q1
+RUS_002,∅,∅,"Suzi vrač, ona takže rabotaet učitelem .",Suzi doctor she also works teacher.,Susie is a doctor; she is a teacher.,,Q1
+RUS_003,a,a,"Pavel smotrit televizor, a Anna gladit odeždu.","Pavel watches TV, CONJ Anna irons clothes.",Paul is watching TV and Anna is ironing her shirts.,,Q1
+RUS_004,no,no,"Suzi vrač, no u nee net deneg.",Suzi doctor but at her neg money,Susie is a doctor but she is poor.,,Q1
+RUS_005,no,no,"Žanna kupila moroženoe, no ona kupila ego dlja kakogo-to neznakomtsa.",Zhanna bought icecream but she bought it for some stranger,Jen bought ice cream but she bought it for a stranger.,,Q1
+RUS_006,a,a,"Pavel ne rabotaet vračom, a rabotaet v registrature.",Pavel neg works doctor but works in reception,Paul is not a doctor but he is a receptionist.,,Q1
+RUS_007,a,a,"Žanna ne kupila moroženoe, a kupila šokolad.",Zhanna neg bought ice cream but bought chocolate,Jen didn’t buy ice cream but she bought chocolate.,,Q1
+RUS_008,libo,libo…libo,"Pravilnyj otvet na vopros libo A, libo B.",correct answer on question or A or B,(Either) the answer to the question is A or the answer to the question is B.,,Q1
+RUS_009,libo,libo…libo,Libo Pavel vrač libo Ivan.,Or Pavel doctor or Ivan,(Either) Paul is a doctor or John is a doctor.,,Q1
+RUS_010,ili,ili…ili,Ili Ja ostavila telefon na rabote ili uronila ego po doroge domoj.,Or I left phone on work or dropped it on way home,I left my phone at work or I dropped it on my way home.,"The original example ""( Ili ) Ja ostavila telefon na rabote ili/?libo uronila ego po doroge domoj"" produced two sentences. This is the one with the initial 'Ili'.",Q1
+RUS_011,ili,ili,Ja ostavila telefon na rabote ili uronila ego po doroge domoj.,I left phone on work or dropped it on way home,I left my phone at work or I dropped it on my way home.,"The original example ""( Ili ) Ja ostavila telefon na rabote ili/?libo uronila ego po doroge domoj"" produced two sentences. This is the one without the initial 'Ili'.",Q1
+RUS_012,ili,ili…ili,Ivan ili vrač ili učitel.,Ivan or doctor or teacher,John is a doctor or he is a teacher.,The context mentions 'writer' but the example uses 'učitel' (teacher).,Q1
+RUS_013,ili,ili…ili,"Ivan ili vrač ili pisatel, a možet i to i drugoe.",Ivan or doctor or writer but maybe and that and another,John is a doctor or he is a writer (maybe both).,,Q1
+RUS_014,ili,ili,Ty zabyla telefon na rabote ili ostavila v avtobuse?,You forgot phone on work or left in bus?,Did you leave your phone at work or did you leave it on the bus?,,Q1
+RUS_015,ili,ili,Budet li etot sous v magazine A ili v magazine B?,Will Q this sauce in shop A or in shop B?,Would Shop A sell this brand or would Shop B sell this brand?,,Q1
+RUS_016,ni,ni…ni,"Pavel ne rabotaet ni vračom, ni medbratom.","Pavel NEG works NEG doctor, neg medical.brother",Paul is neither a doctor nor is he a nurse.,,Q1
+RUS_017,ili,ili…ili,Pavel možet vzjat’ ili piriženoe ili pečenje.,Pavel can take or piece.of.cake or cookie,Paul can eat a cupcake or (he can eat) a cookie.,"The original example ""Pavel možet vzjat’ (ili) piriženoe ili pečenje"" produced two sentences. This is the one with the initial 'ili'.",Q1
+RUS_018,ili,ili,Pavel možet vzjat’ piriženoe ili pečenje.,Pavel can take piece.of.cake or cookie,Paul can eat a cupcake or (he can eat) a cookie.,"The original example ""Pavel možet vzjat’ (ili) piriženoe ili pečenje"" produced two sentences. This is the one without the initial 'ili'.",Q1
+RUS_019,libo,libo…libo,Pavel možet vzjat’ libo piriženoe libo pečenje.,Pavel can take or piece.of.cake or cookie,Paul can eat a cupcake or (he can eat) a cookie.,,Q1
+RUS_020,∅,∅,Suzi vrač učitel.,Suzi doctor teacher.,"Susie is a doctor, a teacher.",Juxtaposition example.,Q2
+RUS_021,a,a,Suzi vrač a učitel.,Suzi doctor CONJ teacher.,Suzi is a doctor but a teacher.,,Q2
+RUS_022,i,i…i,"i Pavel smotrit televizor, i Anna gladit odeždu.","and Paul watches TV, and Anna irons clothes.","Paul is watching the TV, and Anna is ironing.",,Q2
+RUS_023,∅,∅,"Suzi vrač, u nee net deneg.","Suzi doctor, at her neg money.","Susie is a doctor, she has no money.",Juxtaposition example.,Q2
+RUS_024,a,a,"Suzi vrač, a u nee net deneg.",Suzi doctor CONJ at her neg money,"Susie is a doctor, but she has no money.",The sentence with 'a' would be felicitous if Suzi in fact earns a lot of money but is poor because of irresponsible spending.,Q2
+RUS_025,a,a,Pavel vrač a Ivan.,Pavel doctor CONJ Ivan,Paul is a doctor and John.,,Q2
+RUS_026,a,a,Ivan vrač a učitel.,Ivan doctor CONJ teacher,John is a doctor and a teacher.,,Q2
+RUS_027,a,a,"Ivan vrač a pisatel, a možet i to i drugoe.",Ivan doctor a writer but maybe and that and another,"John is a doctor and a writer, and maybe both.",,Q2
+RUS_028,a,a,Pavel rabotaet ni vračom a ni medbratom.,Pavel works neg doctor CONJ neg medical.brother,Paul works neither as a doctor and nor as a nurse.,Ungrammatical example constructed to test the connective.,Q2
+RUS_029,∅,∅,Pavel vrač Ivan vrač.,Pavel doctor Ivan doctor,"Paul is a doctor, John is a doctor.",Juxtaposition example.,Q2
+RUS_030,libo,libo…libo,Libo Pavel vrač libo Ivan libo oba.,Or Pavel doctor or Ivan or both.,"Either Paul is a doctor, or John is, or both are.",,Q2
+RUS_031,∅,∅,Ivan vrač učitel.,Ivan doctor teacher,"Ivan is a doctor, a teacher.",Juxtaposition example.,Q2
+RUS_032,∅,∅,"Pavel rabotaet vračom, medbratom.","Pavel works doctor, medical.brother","Paul works as a doctor, a nurse.",Juxtaposition example.,Q2

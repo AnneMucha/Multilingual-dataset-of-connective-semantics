@@ -1,0 +1,120 @@
+ref,context,premise,example,judgment,questionnaire,comment
+kor_evidence_1,conj-nocontrast-sta,na,kor_1,felicitous,Q1,
+kor_evidence_2,conj-nocontrast-sta,na,kor_2,felicitous,Q1,
+kor_evidence_3,conj-nocontrast-sta,na,kor_3,felicitous,Q1,
+kor_evidence_4,conj-nocontrast-epi,na,kor_4,felicitous,Q1,
+kor_evidence_5,conj-nocontrast-epi,na,kor_5,felicitous,Q1,
+kor_evidence_6,conj-nocontrast-epi,na,kor_6,felicitous,Q1,
+kor_evidence_7,conj-nocontrast-epi,na,kor_7,felicitous,Q1,
+kor_evidence_8,conj-contrast-sta-mod,na,kor_8,felicitous,Q1,
+kor_evidence_9,conj-contrast-sta-mod,na,kor_9,felicitous,Q1,
+kor_evidence_10,conj-contrast-sta-mod,na,kor_10,felicitous,Q1,
+kor_evidence_11,conj-contrast-epi,na,kor_11,felicitous,Q1,
+kor_evidence_12,conj-contrast-negp-sta,na,kor_12,felicitous,Q1,It would mean “Although he is not a doctor…”
+kor_evidence_13,conj-contrast-negp-sta,na,kor_13,felicitous,Q1,It would mean “Although he is not a doctor…”
+kor_evidence_14,conj-contrast-negp-epi,na,kor_14,felicitous,Q1,an: didn’t buy on purpose
+kor_evidence_15,conj-contrast-negp-epi,na,kor_15,felicitous,Q1,mos: no choice
+kor_evidence_16,disj-spk-1,na,kor_16,felicitous,Q1,
+kor_evidence_17,disj-spk-1,na,kor_17,felicitous,Q1,tto-nun : also-(contrastive)topic?
+kor_evidence_18,disj-spk-1,na,kor_18,felicitous,Q1,animyen : neg-if (higher rate of exclusive or interpretation)
+kor_evidence_19,disj-spk-2,na,kor_19,felicitous,Q1,
+kor_evidence_20,disj-spk-2,na,kor_20,felicitous,Q1,
+kor_evidence_21,disj-spk-2,na,kor_21,felicitous,Q1,
+kor_evidence_22,disj-nspk-epi,na,kor_22,felicitous,Q1,
+kor_evidence_23,disj-nspk-epi,na,kor_23,felicitous,Q1,
+kor_evidence_24,disj-nspk-epi,na,kor_24,felicitous,Q1,
+kor_evidence_25,disj-nspk-epi,na,kor_25,felicitous,Q1,
+kor_evidence_26,disj-nspk-epi,na,kor_26,felicitous,Q1,
+kor_evidence_27,disj-nspk-epi,na,kor_27,felicitous,Q1,
+kor_evidence_28,disj-nspk-sta-exc-mod,na,kor_28,felicitous,Q1,
+kor_evidence_29,disj-nspk-sta-exc-mod,na,kor_29,felicitous,Q1,
+kor_evidence_30,disj-nspk-sta-exc-mod,na,kor_30,felicitous,Q1,
+kor_evidence_31,disj-nspk-sta-inc-mod,na,kor_31,felicitous,Q1,"?? ttonun, ?? animyen"
+kor_evidence_32,disj-nspk-epi-q-mod,na,kor_32,felicitous,Q1,
+kor_evidence_33,disj-nspk-epi-q-mod,na,kor_33,?,Q1,"if there is a pause, ttonun may be not that weird"
+kor_evidence_34,disj-nspk-sta-inc-q,na,kor_34,felicitous,Q1,
+kor_evidence_35,disj-nspk-sta-inc-q,na,kor_35,??,Q1,"if there is a pause, ttonun may be not that weird"
+kor_evidence_36,disj-nspk-sta-inc-q,na,kor_36,felicitous,Q1,"The version with -kka is more uncertain, leaves open other possibilities. (less confidence in judgement)"
+kor_evidence_37,disj-nspk-sta-inc-q,na,kor_37,??,Q1,"The version with -kka is more uncertain, leaves open other possibilities. (less confidence in judgement)"
+kor_evidence_38,neither-sta,na,kor_38,felicitous,Q1,
+kor_evidence_39,neither-epi,na,kor_39,felicitous,Q1,
+kor_evidence_40,neither-epi,na,kor_40,felicitous,Q1,
+kor_evidence_41,fc,na,kor_41,felicitous,Q1,
+kor_evidence_42,fc,na,kor_42,felicitous,Q1,
+kor_evidence_43,fc,na,kor_43,felicitous,Q1,
+kor_evidence_44,fc,na,kor_44,felicitous,Q1,
+kor_evidence_45,fc,na,kor_45,felicitous,Q1,
+kor_evidence_46,fc,na,kor_46,??,Q1,
+kor_evidence_47,conj-nocontrast-sta,na,kor_1,felicitous,Q2,
+kor_evidence_48,conj-nocontrast-sta,na,kor_2,felicitous,Q2,
+kor_evidence_49,conj-nocontrast-sta,na,kor_3,felicitous,Q2,
+kor_evidence_50,disj-spk-3,na,kor_1,infelicitous,Q2,
+kor_evidence_51,disj-spk-3,na,kor_2,infelicitous,Q2,
+kor_evidence_52,disj-spk-3,na,kor_3,infelicitous,Q2,
+kor_evidence_53,disj-nspk-sta-exc-2,na,kor_1,infelicitous,Q2,
+kor_evidence_54,disj-nspk-sta-exc-2,na,kor_2,infelicitous,Q2,
+kor_evidence_55,disj-nspk-sta-exc-2,na,kor_3,infelicitous,Q2,
+kor_evidence_56,disj-nspk-sta-inc-2,na,kor_1,infelicitous,Q2,
+kor_evidence_57,disj-nspk-sta-inc-2,na,kor_2,infelicitous,Q2,
+kor_evidence_58,disj-nspk-sta-inc-2,na,kor_3,infelicitous,Q2,
+kor_evidence_59,neither-sta-2,na,kor_1,infelicitous,Q2,
+kor_evidence_60,neither-sta-2,na,kor_2,infelicitous,Q2,
+kor_evidence_61,neither-sta-2,na,kor_3,infelicitous,Q2,
+kor_evidence_62,conj-nocontrast-epi,na,kor_4,felicitous,Q2,
+kor_evidence_63,conj-nocontrast-epi,na,kor_5,felicitous,Q2,
+kor_evidence_64,conj-nocontrast-epi,na,kor_6,felicitous,Q2,
+kor_evidence_65,conj-nocontrast-epi,na,kor_7,felicitous,Q2,
+kor_evidence_66,disj-spk-4,na,kor_4,infelicitous,Q2,
+kor_evidence_67,disj-spk-4,na,kor_5,infelicitous,Q2,
+kor_evidence_68,disj-spk-4,na,kor_6,infelicitous,Q2,
+kor_evidence_69,disj-spk-4,na,kor_7,infelicitous,Q2,
+kor_evidence_70,disj-nspk-epi-exc-2,na,kor_4,infelicitous,Q2,
+kor_evidence_71,disj-nspk-epi-exc-2,na,kor_5,infelicitous,Q2,
+kor_evidence_72,disj-nspk-epi-exc-2,na,kor_6,infelicitous,Q2,
+kor_evidence_73,disj-nspk-epi-exc-2,na,kor_7,infelicitous,Q2,
+kor_evidence_74,disj-nspk-epi-inc-2,na,kor_4,infelicitous,Q2,
+kor_evidence_75,disj-nspk-epi-inc-2,na,kor_5,infelicitous,Q2,
+kor_evidence_76,disj-nspk-epi-inc-2,na,kor_6,infelicitous,Q2,
+kor_evidence_77,disj-nspk-epi-inc-2,na,kor_7,infelicitous,Q2,
+kor_evidence_78,neither-epi-2,na,kor_4,infelicitous,Q2,
+kor_evidence_79,neither-epi-2,na,kor_5,infelicitous,Q2,
+kor_evidence_80,neither-epi-2,na,kor_6,infelicitous,Q2,
+kor_evidence_81,neither-epi-2,na,kor_7,infelicitous,Q2,
+kor_evidence_82,conj-contrast-sta-mod,na,kor_47,felicitous,Q2,kulena is fine here connecting two clauses
+kor_evidence_83,disj-spk-4-prime,na,kor_8,infelicitous,Q2,
+kor_evidence_84,disj-spk-4-prime,na,kor_9,infelicitous,Q2,
+kor_evidence_85,disj-spk-4-prime,na,kor_10,infelicitous,Q2,
+kor_evidence_86,disj-nspk-sta-exc-3,na,kor_8,infelicitous,Q2,this would be overcommitment
+kor_evidence_87,disj-nspk-sta-exc-3,na,kor_9,infelicitous,Q2,this would be overcommitment
+kor_evidence_88,disj-nspk-sta-exc-3,na,kor_10,infelicitous,Q2,
+kor_evidence_89,disj-nspk-sta-inc-3,na,kor_8,infelicitous,Q2,
+kor_evidence_90,disj-nspk-sta-inc-3,na,kor_9,infelicitous,Q2,
+kor_evidence_91,disj-nspk-sta-inc-3,na,kor_10,infelicitous,Q2,
+kor_evidence_92,neither-sta-3,na,kor_8,infelicitous,Q2,
+kor_evidence_93,neither-sta-3,na,kor_9,infelicitous,Q2,
+kor_evidence_94,neither-sta-3,na,kor_10,infelicitous,Q2,
+kor_evidence_95,conj-nocontrast-sta,na,kor_48,infelicitous,Q2,"the sentence is in principle grammatical, but has the sense “Because Susie is a doctor, she is a teacher” due to a causal meaning of “la”."
+kor_evidence_96,conj-contrast-sta,na,kor_49,infelicitous,Q2,"Again, the sentence has the reading “Because she is a doctor, she is poor.”"
+kor_evidence_97,neither-sta-2,na,kor_50,infelicitous,Q2,
+kor_evidence_98,conj-contrast-negp-sta,na,kor_51,felicitous,Q2,
+kor_evidence_99,disj-spk-2,na,kor_19,felicitous,Q2,
+kor_evidence_100,disj-spk-2,na,kor_20,felicitous,Q2,
+kor_evidence_101,disj-spk-2,na,kor_21,felicitous,Q2,
+kor_evidence_102,conj-nocontrast-sta-2,na,kor_19,infelicitous,Q2,the speaker is being uncooperative. Truth conditionally compatible.
+kor_evidence_103,conj-nocontrast-sta-2,na,kor_20,infelicitous,Q2,the speaker is being uncooperative. Truth conditionally compatible.
+kor_evidence_104,conj-nocontrast-sta-2,na,kor_21,infelicitous,Q2,the speaker is being uncooperative. Truth conditionally compatible.
+kor_evidence_105,conj-contrast-sta-2,na,kor_19,infelicitous,Q2,
+kor_evidence_106,conj-contrast-sta-2,na,kor_20,infelicitous,Q2,
+kor_evidence_107,conj-contrast-sta-2,na,kor_21,infelicitous,Q2,
+kor_evidence_108,disj-nspk-sta-exc-4,na,kor_19,felicitous,Q2,
+kor_evidence_109,disj-nspk-sta-exc-4,na,kor_20,felicitous,Q2,
+kor_evidence_110,disj-nspk-sta-exc-4,na,kor_21,felicitous,Q2,
+kor_evidence_111,disj-nspk-sta-inc-4,na,kor_19,?,Q2,The sentence has a false implicature (that only one of them is a doctor). But the consultant judges that this sentence is better than 8a.
+kor_evidence_112,disj-nspk-sta-inc-4,na,kor_20,?,Q2,The sentence has a false implicature (that only one of them is a doctor). But the consultant judges that this sentence is better than 8a.
+kor_evidence_113,disj-nspk-sta-inc-4,na,kor_21,?,Q2,The sentence has a false implicature (that only one of them is a doctor). But the consultant judges that this sentence is better than 8a.
+kor_evidence_114,neither-sta-4,na,kor_19,infelicitous,Q2,
+kor_evidence_115,neither-sta-4,na,kor_20,infelicitous,Q2,
+kor_evidence_116,neither-sta-4,na,kor_21,infelicitous,Q2,
+kor_evidence_117,disj-nspk-epi-q-mod,na,kor_32,felicitous,Q2,AltQ (cannot be answered with yes or no)
+kor_evidence_118,disj-nspk-epi-q-mod,na,kor_33,?,Q2,AltQ (cannot be answered with yes or no)
+kor_evidence_119,disj-nspk-epi-q,na,kor_58,felicitous,Q2,yes/no question (can be answered with yes or no)

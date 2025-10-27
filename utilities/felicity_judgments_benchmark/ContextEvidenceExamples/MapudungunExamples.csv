@@ -1,0 +1,57 @@
+ref,expression,full_form,words,glosses,translation,questionnaire
+map_ex_001,ka,ka,Sara l’awentuchefe ka kimelfe ngey,Sara doctor CON professor COP,Sara is a doctor and a teacher.,Q1
+map_ex_002,ka,ka,Sara l’awentuchefe ngey ka kimelfe ngey,Sara doctor COP CON professor COP,Sara is a doctor and a teacher.,Q1
+map_ex_003,∅,∅,Sara l’awentuchefe ngey; kimelfe ngey,Sara doctor COP; professor COP,Sara is a doctor; she is a teacher.,Q1
+map_ex_004,ka,ka,Pablo wüntrin-tu-tele-pe-y ka n’orümtu-meke-y ñi kamisa,Pablo watch-TV-PE-3 CON straighten-STAT-3 POSS shirt,Pablo is watching TV and is ironing his shirts.,Q1
+map_ex_005,ka,ka,Pablo wüntrin-tu-tele-pe-y ka n’orümtu-meke-y ñi pu kamisa,Pablo watch-TV-PE-3 CON straighten-STAT-3 POSS PL shirt,Pablo is watching TV and is ironing his shirts.,Q1
+map_ex_006,∅,∅,Pablo wüntrin-tu-tele-pe-y; n’orümtu-pe-y ñi kamisa,Pablo watch.TV-PE-3; straighten-PE-3 POSS shirt,Pablo is watching TV; he is ironing his shirts.,Q1
+map_ex_007,∅,∅,Pablo wüntrin-tu-tele-pe-y; n’orümtu-pe-y ñi pu kamisa,Pablo watch.TV-PE-3; straighten-PE-3 POSS PL shirt,Pablo is watching TV; he is ironing his shirts.,Q1
+map_ex_008,welu,welu,Sara l’awentuchefe ngey welu kuñifall-ngey,Sara doctor COP CON poor-COP-3,"Sara is a doctor, but she is poor.",Q1
+map_ex_009,welu,welu,Sara l’awentuchefe ngey welu kuñifall-ngefuy,Sara doctor COP CON poor-COP-FU-3,"Sara is a doctor, but she is poor.",Q1
+map_ex_010,welu,welu,"Rosa ngilla-y kiñe helado, welu ka che nge-al ngilla-fi",Rosa buy-3 INDF icecream CON other person COP-PURP buy-3>3,"Rosa bought an ice cream, but she bought it for a stranger.",Q1
+map_ex_011,welu,welu,"Rosa ngilla-fu-y kiñe helado, welu ka che nge-al ngilla-fi",Rosa buy-FU-3 INDF icecream CON other person COP-PURP buy-3>3,"Rosa bought an ice cream, but she bought it for a stranger.",Q1
+map_ex_012,re,re,"Pablo l’awentuchefe nge-la-y, re llow-che-fe-nge-y",Pablo doctor COP-NEG-3 only(CON) receive-person-AGENT-VBLZ-3,"Pablo is not a doctor, but rather a receptionist.",Q1
+map_ex_013,∅,∅,Pablo l’awentuchefe nge-la-y; llow-che-fe-nge-fu-y müten,Pablo doctor COP-NEG-3; receive-person-AGENT-COP-FU-3 only,"Pablo is not a doctor, but rather a receptionist.",Q2
+map_ex_014,kam,kam,rüf.düngu A ngey kam rüf.düngu B ngey,correct.answer A COP CON correct.answer B COP,"The correct answer is A, or the correct answer is B.",Q1
+map_ex_015,kam,kam,Pablo médico ngepey kam Juan chi médico ngey,Pablo doctor COP-PE-3 CON Juan perhaps doctor COP,Either Pablo is a doctor or Juan is a doctor.,Q1
+map_ex_016,kam,kam,"kam elfi-n chi tachi mütrümtüwe küdaw mew, kam ütrufnagüm-fi-n chi ruka mew amu-tu-el","CON leave-1 POSSB DEF phone work ADP, CON drop-3obj-1subj POSSB house ADP go-REST-NF",Either I left the phone at work or I dropped it on the way home.,Q1
+map_ex_017,kam,kam,"kam elfi-n chi tachi mütrümtüwe küdaw mew, kam ütrufnagüm-fi-n chi rüpu-püle ruka mew amu-tu-el","CON leave-1 POSSB DEF phone work ADP, CON drop-3obj-1subj POSSB road-during house ADP go-REST-NF",Either I left the phone at work or I dropped it on the way home.,Q1
+map_ex_018,kam,kam,Juan l’awentuchefe nge-fu-y chi kam wirintukufe nge-y chi,Juan doctor COP-FU-3 POSS CON writer COP-3 POSSB,Juan is either a doctor or a writer.,Q1
+map_ex_019,kam,kam,Juan l’awentuchefe nge-pe-y kam wirintukufe nge-y kam chag dungu chi,Juan doctor COP-PE-3 CON writer COP-3 CON both things,Juan is either a doctor or a writer or both.,Q1
+map_ex_020,kam,kam,el-fimi tami mütrütumwe küdaw mew kam el-fimi chi autobus mew chi,leave-2>3 POSS phone work ADP CON leave-2>3 DEF bus ADP perhaps,Did you leave the phone at work or did you leave it on the bus?,Q1
+map_ex_021,kam,kam,fey-chi chem fendengekey Líder mew kam Jumbo mew?,DEM-DET thing sell-PASS-HABIT-3 supermarket.A ADP CON supermarket.B ADP,Is this brand sold at Líder or at Jumbo?,Q1
+map_ex_022,ka,rüme ka,Pablo l’awentuchefe nge-la-y rüme ka dapituchefe nge-la-y rüme,Pablo doctor COP-NEG-3 even/at.all CON nurse COP-NEG-3 at.all,Pablo is neither a doctor nor a nurse.,Q1
+map_ex_023,ka,rüme ka,Miguel ngilla-la-y rüme ñi helado ka elu-la-fi rüme ñi lamngen,Miguel buy-NEG-3 even POSS icecream CON give-NEG-3>3 at.all POSS sister,"Miguel neither bought his ice cream, nor gave it to his sister.",Q1
+map_ex_024,kam,kam,Pablo pepi iy-afu-y kiñe turrón kam kiñe galleta,Pablo ABIL eat-AFU-3 one turron CON one cookie,Pablo can eat a nougat or a cookie.,Q1
+map_ex_025,ka,rüme ka,Susana l’awentuchefe ngelay rüme ka lefleftufe ngelay rüme,Susana doctor COP-NEG-3 at.all CON runner COP-NEG-3 at.all,Susana is neither a doctor nor a runner.,Q1
+map_ex_026,∅,∅,Susana l’awentuchefe; kimelfe ngey,Susana doctor; professor COP,Susie is a doctor; she is a teacher.,Q2
+map_ex_027,∅,∅,Susana l’awentuchefe ngey; kimelfe ngey,Susana doctor COP; professor COP,Susie is a doctor; she is a teacher.,Q2
+map_ex_028,kam,kam,Susana l’awentuchefe ngeypey chi kam kimelfe ngey chi,Susana doctor COP-PE-3 perhaps CON professor COP-3 perhaps,Susana is a doctor or she is a teacher.,Q2
+map_ex_029,kam,kam,Susana l’awentuchefe ngeypelay kam kimelfe ngey chi,Susana doctor COP-PE-NEG-3 CON professor COP-3 perhaps,Susana may not be a doctor or she may be a teacher.,Q2
+map_ex_030,kam,kam,Susana l’awentuchefe ngeafuy kam kimelfe ngeafuy chi,Susana doctor COP-AFU-3 CON professor COP-AFU-3 perhaps,Susana could be a doctor or she could be a teacher.,Q2
+map_ex_031,ka,ka,Susana l’awentuchefe ngeafuy kam kimelfe ngeafuy chi kam l’awentuchefe ka kimelfe ngey,Susana doctor COP-AFU-3 CON professor COP-AFU-3 perhaps CON doctor CON professor COP,Susana could be a doctor or she could be a teacher (or a doctor and a teacher).,Q2
+map_ex_032,∅,∅,Pablo wüntrin-tu-tele-pe-y; n’orümtu-pe-y ñi kamisa,Pablo watch-TV-PE-3; straighten-PE-3 POSS shirt,Pablo is watching TV; he is ironing his shirts.,Q2
+map_ex_033,∅,∅,Pablo wüntrin-tu-tele-pe-y; n’orümtu-pe-y ñi pu kamisa,Pablo watch-TV-PE-3; straighten-PE-3 POSS PL shirt,Pablo is watching TV; he is ironing his shirts.,Q2
+map_ex_034,welu,welu,Susana l’awentuchefe ngey welu doy kuñifall-ngey,Susana doctor COP CON more poor-COP-3,"Susana is a doctor, but she is poorer...",Q2
+map_ex_035,welu,welu,Susana l’awentuchefe ngey welu kuñifall-ngey,Susana doctor COP CON poor-COP-3,"Susana is a doctor, but she is poor.",Q2
+map_ex_036,∅,∅,Susana l’awentuchefe ngey; kuñifall-ngey,Susana doctor COP; poor-COP-3,Susana is a doctor; she is poor.,Q2
+map_ex_037,∅,∅,Susana l’awentuchefe ngey; kuñifall-ngefuy,Susana doctor COP; poor-COP-FU-3,Susana is a doctor; she is poor.,Q2
+map_ex_038,∅,∅,Laura ngilla-la-y helado; chocolate ngilla-y,Laura buy-NEG-3 icecream; chocolate buy-3,Laura didn't buy ice cream; she bought chocolate.,Q2
+map_ex_039,∅,∅,Laura ngilla-la-y helado; chocolate may ngilla-y,Laura buy-NEG-3 icecream; chocolate indeed buy-3,Laura didn't buy ice cream; she bought chocolate.,Q2
+map_ex_040,re,re,Susana l’awentuchefe re kimelfe ngey,Susana doctor CON professor COP,"Susie is a doctor, just a teacher.",Q2
+map_ex_041,re,re,Susana l’awentuchefe ngey re kimelfe ngey,Susana doctor COP CON professor COP,"Susie is a doctor, just a teacher.",Q2
+map_ex_042,re,re,Susana l’awentuchefe ngey re kuñifall-ngefuy,Susana doctor COP CON poor-COP-FU-3,"Susie is a doctor, just poor.",Q2
+map_ex_043,re,re,Pablo médico ngepey re Juan chi médico ngefuy,Pablo doctor COP-PE-3 CON Juan perhaps doctor COP-FU-3,"Paul is a doctor, just John was a doctor.",Q2
+map_ex_044,re,re,Pablo médico ngepey kam re Juan chi médico ngefuy,Pablo doctor COP-PE-3 CON CON Juan perhaps doctor COP-FU-3,Paul is a doctor or just John was a doctor.,Q2
+map_ex_045,re,re,Juan l’awentuchefe nge-pe-y re wirintukufe nge-y,Juan doctor COP-PE-3 CON writer COP-3,"John is a doctor, just a writer.",Q2
+map_ex_046,re,re,Juan l’awentuchefe nge-fu-y chi re wirintukufe nge-y chi,Juan doctor COP-FU-3 perhaps CON writer COP-3 perhaps,"John was a doctor, just a writer.",Q2
+map_ex_047,re,re,Juan l’awentuchefe nge-fu-y chi kam re wirintukufe nge-y chi,Juan doctor COP-FU-3 perhaps CON CON writer COP-3 perhaps,John was a doctor or just a writer.,Q2
+map_ex_048,∅,∅,Pablo l’awentuchefe ngey; Juan chi médico ngefuy,Pablo doctor COP; Juan perhaps doctor COP-FU-3,Paul is a doctor; John was a doctor.,Q2
+map_ex_049,kam,kam,Pablo l’awentuchefe ngepey kam Juan chi l’awentuchefe ngey,Pablo doctor COP-PE-3 CON Juan perhaps doctor COP,Pablo is a doctor or Juan is a doctor.,Q2
+map_ex_050,kam,kam,Pablo l’awentuchefe ngepey kam Juan chi l’awentuchefe ngey ngu,Pablo doctor COP-PE-3 CON Juan perhaps doctor COP DUB,Pablo is a doctor or Juan is a doctor.,Q2
+map_ex_051,∅,∅,el-fin tañi mütrütumwe küdaw mew el-fin chi autobus mew,leave-1 POSS phone work ADP leave-1 DEF bus ADP,"I left my phone at work, I left it on the bus.",Q2
+map_ex_052,∅,∅,el-fin tañi mütrütumwe küdaw mew; el-fin chi autobus mew,leave-1 POSS phone work ADP; leave-1 DEF bus ADP,I left my phone at work; I left it on the bus.,Q2
+map_ex_053,∅,∅,Juan l’awentuchefe ngefuy chi; wirintukufe ngefuy chi,Juan doctor COP-FU-3 perhaps; writer COP-FU-3 perhaps,Juan was a doctor; he was a writer.,Q2
+map_ex_054,∅,∅,Pablo l’awentuchefe ngelay; dapituchefe ngelay.,Pablo doctor COP-NEG-3; nurse COP-NEG-3,Pablo is not a doctor; he is not a nurse.,Q2
+map_ex_055,ka,rüme ka,Pablo pepi iy-afu-y kiñe turrón rüme ka kiñe galleta,Pablo ABIL eat-AFU-3 one turron even CON one cookie,Pablo can eat a nougat or a cookie.,Q2
+map_ex_056,ka,re ka,Pablo pepi iy-afu-y kiñe turrón re ka kiñe galleta,Pablo ABIL eat-AFU-3 one turron just CON one cookie,Pablo can eat a nougat or a cookie.,Q2

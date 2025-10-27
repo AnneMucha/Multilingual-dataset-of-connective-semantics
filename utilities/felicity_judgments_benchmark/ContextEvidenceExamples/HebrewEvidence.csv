@@ -1,0 +1,89 @@
+ref,context,premise,example,judgment,questionnaire,comment
+heb_ev_1,conj-nocontrast-sta,na,heb_1,felicitous,Q1,
+heb_ev_2,conj-nocontrast-sta,na,heb_2,?,Q1,Not so great (same as in English)
+heb_ev_3,conj-nocontrast-epi,na,heb_3,felicitous,Q1,
+heb_ev_4,conj-nocontrast-epi,na,heb_4,felicitous,Q1,
+heb_ev_5,conj-contrast-sta-mod,na,heb_5,felicitous,Q1,
+heb_ev_6,conj-contrast-epi,na,heb_6,felicitous,Q1,
+heb_ev_7,conj-contrast-negp-sta,na,heb_7,felicitous,Q1,
+heb_ev_8,conj-contrast-negp-epi,na,heb_8,felicitous,Q1,the ela reading is slightly harder to get when full clauses are conjoined (in English); with ela conjoining full clauses is not so good in this context
+heb_ev_9,disj-spk-1,na,heb_9,felicitous,Q1,"Here, both o’s are required"
+heb_ev_10,disj-spk-1,na,heb_10,felicitous,Q1,"Here, both o’s are required"
+heb_ev_11,disj-spk-1,na,heb_11,felicitous,Q1,"Here, both o’s are required"
+heb_ev_12,disj-spk-2,na,heb_12,felicitous,Q1,
+heb_ev_13,disj-spk-2,na,heb_13,felicitous,Q1,probably wouldn’t choose this one (above) [but volunteered]
+heb_ev_14,disj-spk-2,na,heb_14,felicitous,Q1,
+heb_ev_15,disj-nspk-epi,na,heb_15,felicitous,Q1,
+heb_ev_16,disj-nspk-sta-exc-mod,na,heb_16,felicitous,Q1,
+heb_ev_17,disj-nspk-sta-exc-mod,na,heb_17,felicitous,Q1,
+heb_ev_18,disj-nspk-sta-inc-mod,na,heb_18,felicitous,Q1,
+heb_ev_19,disj-nspk-epi-q-mod,na,heb_19,felicitous,Q1,
+heb_ev_20,disj-nspk-epi-q-mod,na,heb_20,felicitous,Q1,
+heb_ev_21,disj-nspk-sta-inc-q,na,heb_21,felicitous,Q1,
+heb_ev_22,neither-sta,na,heb_22,felicitous,Q1,
+heb_ev_23,neither-sta,na,heb_23,felicitous,Q1,
+heb_ev_24,neither-epi,na,heb_24,felicitous,Q1,variant with o not very good in this context
+heb_ev_25,fc,na,heb_25,felicitous,Q1,
+heb_ev_26,fc,na,heb_26,felicitous,Q1,
+heb_ev_27,fc,na,heb_27,felicitous,Q1,the complementiser is needed in the second example; no second “o še-” in the clausal disjunction (this would block the FC reading)
+heb_ev_28,disj-spk-3,na,heb_1,felicitous,Q2,
+heb_ev_29,disj-nspk-sta-exc-2,na,heb_1,infelicitous,Q2,
+heb_ev_30,disj-nspk-sta-inc-2,na,heb_1,infelicitous,Q2,
+heb_ev_31,neither-sta-2,na,heb_1,infelicitous,Q2,
+heb_ev_32,conj-contrast-sta-mod,na,heb_28,infelicitous,Q2,sounds a bit weird
+heb_ev_33,disj-spk-4-prime,na,heb_5,infelicitous,Q2,
+heb_ev_34,disj-nspk-sta-exc-3,na,heb_5,infelicitous,Q2,
+heb_ev_35,disj-nspk-sta-inc-3,na,heb_5,infelicitous,Q2,
+heb_ev_36,neither-sta-3,na,heb_5,infelicitous,Q2,
+heb_ev_37,conj-contrast-epi,na,heb_29,infelicitous,Q2,would be ok as a clarification
+heb_ev_38,conj-contrast-negp-sta,na,heb_30,felicitous,Q2,"That’s ok, but the pronoun has to be there."
+heb_ev_39,conj-contrast-negp-epi,na,heb_31,felicitous,Q2,s.a.
+heb_ev_40,conj-nocontrast-sta,na,heb_32,infelicitous,Q2,
+heb_ev_41,conj-nocontrast-sta,na,heb_33,infelicitous,Q2,
+heb_ev_42,conj-contrast-sta-mod,na,heb_34,infelicitous,Q2,
+heb_ev_43,disj-spk-2,na,heb_35,infelicitous,Q2,
+heb_ev_44,disj-nspk-sta-exc-mod,na,heb_36,infelicitous,Q2,
+heb_ev_45,disj-nspk-sta-exc-mod,na,heb_37,infelicitous,Q2,
+heb_ev_46,disj-nspk-sta-inc-mod,na,heb_38,infelicitous,Q2,
+heb_ev_47,disj-nspk-sta-inc-mod,na,heb_39,infelicitous,Q2,
+heb_ev_48,neither-sta,na,heb_40,infelicitous,Q2,well-formed but false in the context
+heb_ev_49,neither-sta,na,heb_41,infelicitous,Q2,generally bad without negation in the first conjunct
+heb_ev_50,disj-spk-2,na,heb_42,infelicitous,Q2,
+heb_ev_51,conj-nocontrast-sta-2,na,heb_12,infelicitous,Q2,means that only one of them is a doctor
+heb_ev_52,conj-nocontrast-sta-2,na,heb_13,infelicitous,Q2,"grammatical, but a little weird; might be good in certain contexts, but it would have the same meaning as the above sentence"
+heb_ev_53,conj-contrast-sta-2,na,heb_12,infelicitous,Q2,
+heb_ev_54,conj-contrast-sta-2,na,heb_13,infelicitous,Q2,
+heb_ev_55,disj-nspk-sta-exc-4,na,heb_12,felicitous,Q2,this is ok
+heb_ev_56,disj-nspk-sta-exc-4,na,heb_13,?/#,Q2,"a bit awkward (conjoining two clauses w/o the complementizer), corrected to: O Pol o Jon hu rofe."
+heb_ev_57,disj-nspk-sta-exc-4,na,heb_14,felicitous,Q2,
+heb_ev_58,disj-nspk-sta-exc-4,na,heb_43,?,Q2,"single ‘o’ seems unnatural in this example, not quite clear why, might be because of the copular/pronoun"
+heb_ev_59,disj-nspk-sta-inc-4,na,heb_12,infelicitous,Q2,strongly exclusive interpretation
+heb_ev_60,disj-nspk-sta-inc-4,na,heb_44,infelicitous,Q2,this sounds a bit like you’re changing your mind (afterthought)
+heb_ev_61,disj-nspk-sta-inc-4,na,heb_13,infelicitous,Q2,
+heb_ev_62,disj-nspk-sta-inc-4,na,heb_45,felicitous,Q2,"the following sounds better, but not sure:"
+heb_ev_63,disj-nspk-sta-inc-4,na,heb_46,felicitous,Q2,The following was volunteered as the best version for this example (better with ‘o … o’ than only one ‘o’):
+heb_ev_64,disj-nspk-sta-inc-4,na,heb_47,felicitous,Q2,The following can be inclusive (difference might be about the tense/predicate type); with ‘o … o’ it would more likely be interpreted exclusively; (but the difference between single ‘o’ and ‘o … o’ might also be related to number marking)
+heb_ev_65,neither-sta-4,na,heb_12,infelicitous,Q2,
+heb_ev_66,neither-sta-4,na,heb_13,infelicitous,Q2,
+heb_ev_67,disj-nspk-epi,na,heb_48,infelicitous,Q2,
+heb_ev_68,disj-nspk-sta-exc,na,heb_49,*,Q2,
+heb_ev_69,disj-nspk-sta-exc,na,heb_50,infelicitous,Q2,
+heb_ev_70,disj-nspk-epi-q,na,heb_19,felicitous,Q2,this is ok
+heb_ev_71,disj-nspk-epi-q,na,heb_20,felicitous,Q2,this is ok
+heb_ev_72,disj-nspk-epi-q,na,heb_51,infelicitous,Q2,this is not good in a question
+heb_ev_73,disj-nspk-epi-q,na,heb_52,infelicitous,Q2,this is not good in a question
+heb_ev_74,disj-nspk-epi-q,na,heb_53,infelicitous,Q2,this is not good in a question
+heb_ev_75,disj-nspk-epi-q,na,heb_54,infelicitous,Q2,this is not good in a question
+heb_ev_76,neither-sta,na,heb_55,infelicitous,Q2,
+heb_ev_77,conj-nocontrast-sta-3,na,heb_22,infelicitous,Q2,
+heb_ev_78,conj-nocontrast-sta-3,na,heb_23,infelicitous,Q2,
+heb_ev_79,conj-contrast-sta-3,na,heb_22,infelicitous,Q2,"could be ok if it means that he’s sth. in between, but not in a conjunctive reading"
+heb_ev_80,conj-contrast-sta-3,na,heb_23,infelicitous,Q2,
+heb_ev_81,disj-spk-5,na,heb_22,infelicitous,Q2,
+heb_ev_82,disj-spk-5,na,heb_23,infelicitous,Q2,
+heb_ev_83,disj-nspk-sta-exc-5,na,heb_22,infelicitous,Q2,
+heb_ev_84,disj-nspk-sta-exc-5,na,heb_23,infelicitous,Q2,
+heb_ev_85,disj-nspk-sta-inc-5,na,heb_22,infelicitous,Q2,
+heb_ev_86,disj-nspk-sta-inc-5,na,heb_23,infelicitous,Q2,
+heb_ev_87,fc,na,heb_27,felicitous,Q2,this is ok
+heb_ev_88,fc,na,heb_56,infelicitous,Q2,this doesn’t have the FC reading; means you’re not sure which one he is allowed to eat

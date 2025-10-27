@@ -1,0 +1,79 @@
+ref,context,premise,example,judgment,questionnaire,comment
+HIN_EVD_1,conj-nocontrast-sta,na,HIN_1,felicitous,Q1,
+HIN_EVD_2,conj-nocontrast-sta,na,HIN_2,felicitous,Q1,
+HIN_EVD_3,conj-nocontrast-sta,na,HIN_3,felicitous,Q1,sounds as odd as in English
+HIN_EVD_4,conj-nocontrast-epi,na,HIN_4,felicitous,Q1,
+HIN_EVD_5,conj-nocontrast-epi,na,HIN_5,felicitous,Q1,
+HIN_EVD_6,conj-contrast-sta-mod,na,HIN_6,felicitous,Q1,
+HIN_EVD_7,conj-contrast-epi,na,HIN_7,felicitous,Q1,
+HIN_EVD_8,conj-contrast-negp-sta,na,HIN_8,felicitous,Q1,
+HIN_EVD_9,conj-contrast-negp-sta,na,HIN_9,infelicitous,Q1,can’t use “lekin” here because it would be “at least he is a receptionist (implies at least he has a job)” if we have “lekin”
+HIN_EVD_10,conj-contrast-negp-sta,na,HIN_10,infelicitous,Q1,can’t use “lekin” here because it would be “at least he is a receptionist (implies at least he has a job)” if we have “lekin”
+HIN_EVD_11,conj-contrast-negp-epi,na,HIN_11,felicitous,Q1,"here, lekin is neutral. Doesn’t come with the kind of implication it has in 5"
+HIN_EVD_12,conj-contrast-negp-epi,na,HIN_12,felicitous,Q1,without “lekin” is also good
+HIN_EVD_13,disj-spk-1,na,HIN_13,felicitous,Q1,
+HIN_EVD_14,disj-spk-1,na,HIN_14,felicitous,Q1,
+HIN_EVD_15,disj-spk-2,na,HIN_15,felicitous,Q1,
+HIN_EVD_16,disj-spk-2,na,HIN_16,felicitous,Q1,
+HIN_EVD_17,disj-spk-2,na,HIN_17,felicitous,Q1,we can have as many “ya” as we want
+HIN_EVD_18,disj-spk-2,na,HIN_18,felicitous,Q1,we can have as many “ya” as we want
+HIN_EVD_19,disj-nspk-epi,na,HIN_19,felicitous,Q1,"‘I either lost my phone at the office, or while coming home’"
+HIN_EVD_20,disj-nspk-sta-exc-mod,na,HIN_20,felicitous,Q1,
+HIN_EVD_21,disj-nspk-sta-exc-mod,na,HIN_21,felicitous,Q1,
+HIN_EVD_22,disj-nspk-sta-inc-mod,na,HIN_20,infelicitous,Q1,same judgement (infelicity) even if we drop toh
+HIN_EVD_23,disj-nspk-sta-inc-mod,na,HIN_21,infelicitous,Q1,same judgement (infelicity) even if we drop toh
+HIN_EVD_24,disj-nspk-sta-inc-mod,na,HIN_22,felicitous,Q1,(Remembered afterwards)
+HIN_EVD_25,disj-nspk-sta-inc-mod,na,HIN_23,felicitous,Q1,(Remembered afterwards)
+HIN_EVD_26,disj-nspk-epi-q-mod,na,HIN_24,felicitous,Q1,
+HIN_EVD_27,disj-nspk-sta-inc-q,na,HIN_25,felicitous,Q1,
+HIN_EVD_28,neither-sta,na,HIN_26,felicitous,Q1,"‘Paul is not a doctor, and he is also not a nurse’"
+HIN_EVD_29,neither-epi,na,HIN_27,felicitous,Q1,"‘Mike neither bought ice cream, nor did he give it to his sister’"
+HIN_EVD_30,fc,na,HIN_28,felicitous,Q1,
+HIN_EVD_31,conj-nocontrast-sta,na,HIN_29,felicitous,Q2,the most natural interpretation/parse would be where doctor-teacher is a compound.
+HIN_EVD_32,conj-nocontrast-sta,na,HIN_30,??,Q2,if one has a list (with more than two conjuncts) it could be possible.
+HIN_EVD_33,disj-spk-3,na,HIN_2,infelicitous,Q2,
+HIN_EVD_34,disj-nspk-sta-exc-2,na,HIN_2,infelicitous,Q2,
+HIN_EVD_35,disj-nspk-sta-inc-2,na,HIN_2,infelicitous,Q2,
+HIN_EVD_36,disj-nspk-sta-inc-2,na,HIN_31,felicitous,Q2,"‘Between a doctor and a teacher, Susie is one’"
+HIN_EVD_37,neither-sta-2,na,HIN_2,infelicitous,Q2,
+HIN_EVD_38,conj-contrast-sta-mod,na,HIN_32,???,Q2,
+HIN_EVD_39,conj-contrast-sta-mod,na,HIN_33,felicitous,Q2,Parantu and magar are more formal and archaic.
+HIN_EVD_40,conj-contrast-sta-mod,na,HIN_34,felicitous,Q2,
+HIN_EVD_41,conj-contrast-sta-mod,na,HIN_35,felicitous,Q2,Parantu and magar are more formal and archaic.
+HIN_EVD_42,disj-spk-4-prime,na,HIN_6,infelicitous,Q2,
+HIN_EVD_43,disj-nspk-sta-exc-3,na,HIN_6,infelicitous,Q2,
+HIN_EVD_44,disj-nspk-sta-inc-3,na,HIN_6,infelicitous,Q2,
+HIN_EVD_45,neither-sta-3,na,HIN_6,infelicitous,Q2,
+HIN_EVD_46,conj-contrast-negp-sta,na,HIN_8,felicitous,Q2,
+HIN_EVD_47,conj-contrast-negp-epi,na,HIN_12,felicitous,Q2,
+HIN_EVD_48,disj-spk-2,na,HIN_36,infelicitous,Q2,
+HIN_EVD_49,conj-nocontrast-sta-2,na,HIN_15,infelicitous,Q2,
+HIN_EVD_50,conj-nocontrast-sta-2,na,HIN_16,infelicitous,Q2,
+HIN_EVD_51,conj-contrast-sta-2,na,HIN_15,infelicitous,Q2,
+HIN_EVD_52,conj-contrast-sta-2,na,HIN_16,infelicitous,Q2,
+HIN_EVD_53,disj-nspk-sta-exc-4,na,HIN_15,felicitous,Q2,The presence/absence of toh doesn’t make a difference.
+HIN_EVD_54,disj-nspk-sta-exc-4,na,HIN_16,felicitous,Q2,The presence/absence of toh doesn’t make a difference.
+HIN_EVD_55,disj-nspk-sta-inc-4,na,HIN_15,infelicitous,Q2,can’t think of a simple connective that would be felicitous in this context.
+HIN_EVD_56,disj-nspk-sta-inc-4,na,HIN_16,infelicitous,Q2,can’t think of a simple connective that would be felicitous in this context.
+HIN_EVD_57,disj-nspk-sta-inc-4,na,HIN_37,felicitous,Q2,The presence/absence of toh doesn’t make a difference.
+HIN_EVD_58,disj-nspk-sta-inc-4,na,HIN_38,felicitous,Q2,The presence/absence of toh doesn’t make a difference.
+HIN_EVD_59,disj-nspk-sta-inc-4,na,HIN_39,felicitous,Q2,"‘Between John or Paul, anyone could be a doctor’"
+HIN_EVD_60,neither-sta-4,na,HIN_15,infelicitous,Q2,
+HIN_EVD_61,neither-sta-4,na,HIN_16,infelicitous,Q2,
+HIN_EVD_62,disj-nspk-epi,na,HIN_40,infelicitous,Q2,
+HIN_EVD_63,disj-nspk-sta-exc,na,HIN_41,infelicitous,Q2,
+HIN_EVD_64,disj-nspk-sta-exc-mod,na,HIN_20,felicitous,Q2,
+HIN_EVD_65,disj-nspk-sta-exc-mod,na,HIN_21,felicitous,Q2,
+HIN_EVD_66,disj-nspk-sta-exc-mod,na,HIN_42,felicitous,Q2,"in the third variant, one needs hai to ensure that it is compatible with the context. Without hai, it would be a question."
+HIN_EVD_67,disj-nspk-sta-exc-mod,na,HIN_43,felicitous,Q2,"in the third variant, one needs hai to ensure that it is compatible with the context. Without hai, it would be a question."
+HIN_EVD_68,disj-nspk-sta-exc-mod,na,HIN_44,felicitous,Q2,"in the third variant, one needs hai to ensure that it is compatible with the context. Without hai, it would be a question."
+HIN_EVD_69,disj-nspk-sta-inc-mod,na,HIN_20,infelicitous,Q2,
+HIN_EVD_70,disj-nspk-sta-inc-mod,na,HIN_21,infelicitous,Q2,
+HIN_EVD_71,disj-nspk-sta-inc-mod,na,HIN_42,infelicitous,Q2,
+HIN_EVD_72,disj-nspk-sta-inc-mod,na,HIN_43,infelicitous,Q2,
+HIN_EVD_73,disj-nspk-sta-inc-mod,na,HIN_44,infelicitous,Q2,
+HIN_EVD_74,disj-nspk-epi-q,na,HIN_45,infelicitous,Q2,"for the first two, the interpretation would be that of Y/N-Q."
+HIN_EVD_75,disj-nspk-epi-q,na,HIN_46,infelicitous,Q2,"for the first two, the interpretation would be that of Y/N-Q."
+HIN_EVD_76,disj-nspk-epi-q,na,HIN_24,felicitous,Q2,
+HIN_EVD_77,fc,na,HIN_47,felicitous,Q2,
+HIN_EVD_78,fc,na,HIN_48,felicitous,Q2,

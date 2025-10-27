@@ -1,0 +1,43 @@
+ref,expression,full_form,words,glosses,translation,comment,questionnaire
+kii_1,na,na,Susie ni n-dagitaarî na ni mû-arimû,1.Susie foc 9-doctor and foc 1-teacher,Susie is a doctor and she is a teacher.,,Q1
+kii_2,na,na,Paul ni-a-kû-on-a TV na ni-a-kû-baac-a n-guo,1.Paul foc-1sm-pres-see-fv TV and foc-1sg.sm-pres-iron-fv 10-clothes,Paul is watching TV and he is ironing his shirts.,,Q1
+kii_3,juxtaposition,juxtaposition,Paul a-rî-on-a TV a-kî-baac-ag-a n-guo,1.Paul1.sm-pres-see-fv TV 1.sm-pres.stat?-iron-hab-fv 10-clothes,Paul is watching TV; he is ironing his shirts.,indicates that it’s happening simultaneously,Q1
+kii_4,îndî,îndî,Susie ni n-dagitaarî îndî ti-mû-toong-û,1.Susie foc 9-doctor but neg-1sm-rich-fv.stat?,Susie is a doctor but she is poor.,,Q1
+kii_5,îndî,îndî,Jen ni-a-gûr-ire n-deremende îndî a-gûr-îr-ire mu-ntû a-ta-iyî,Jen foc-1sm-buy-pfv 9-sweets but 1sm-buy-appl-pfv 1-person 1sm-neg-know,Jen bought sweets but she bought it for a stranger.,,Q1
+kii_6,juxtaposition,juxtaposition,Paul ti n-dagitaarî ni karani,1.Paul neg 9-dagitaarî foc clerk,Paul is not a doctor but he is a receptionist.,,Q1
+kii_7,îndî,îndî,Paul ti n-dagitaarî îndî ni karani,1.Paul neg 9-dagitaarî but foc clerk,Paul is not a doctor but he is a receptionist.,,Q1
+kii_8,juxtaposition,juxtaposition,Jen a-ti-a-gûr-a n-deremende a-gûr-ire chokorîti,1.Jen 1sm-neg-past-buy-fv 9-sweets 1sm-buy-pfv chocolate,Jen didn’t buy sweets but she bought chocolate,,Q1
+kii_9,îndî,îndî,Jen a-ti-a-gûr-a n-deremende îndî a-gûr-ire chokorîti,1.Jen 1sm-neg-past-buy-fv 9-sweets but 1sm-buy-pfv chocolate,Jen didn’t buy sweets but she bought chocolate,,Q1
+kii_10,kana,MOD + kana,Ansa ni-wa wigue î-rî A kana B,Answer foc-? ? 9-be A or B,(Either) the answer to the question is A or the answer to the question is B.,with 2 complete sentences sounds very unnatural,Q1
+kii_11,kana,MOD + kana,Ansa î-a kî-ûria kî-kî ni-wa wigue î-rî A kana B,9.Answer 9-of 7-question 7-dem.prox foc-? ? 9-be A or B,(Either) the answer to the question is A or the answer to the question is B.,with 2 complete sentences sounds very unnatural,Q1
+kii_12,na,gati ka … na …,"Gatî ka Paûrû na Njoni, û-mwe wa-o ni n-dagitarî","Between of Paul and John, 1-one conn-them cop 9-doctor","Between Paul and John, one of them is a doctor.",,Q1
+kii_13,kana,MOD + kana,Ni-wa wigue ni-tig-ire thimû û-bicii-ni kana ni-te-ire n-jiraa-ni,Foc-? be 1sg.sm-leave-pfv phone 14-office-loc or 1sg.sm-leave-pfv 9-path-loc,It may be that I left the phone in the office or I lost it on the way.,,Q1
+kii_14,kana,kana,Njoni ni n-dagitarî kana mû-andîk-i,John cop 9-doctor or 1-writer-noml,John is a doctor or a writer.,,Q1
+kii_15,kana,MOD + kana,Njoni ni-wa wigue a-rî ni n-dagitarî mû-andîk-i kana bi-onthe,John foc-? be 1-be cop 9-doctor 1-writer-noml or 8-both,"John might be a doctor, a writer or both.",,Q1
+kii_16,kana,kana,Û-tig-ire thimû û-biciini kana û-tig-ire m-baci-ni,1sg.sm-leave-pfv phone 14-office-loc or 1sg.sm-leave-pfv 9-bus-loc,Lit: You left your phone in the office or you left it on the bus?,,Q1
+kii_17,kana,kana,Ni Nakumatt î-ûmba kû-îgua î-kî-end-ag-i-a roiko kana ni Mathai,Foc Nakumatt 9-MOD 15-be 9-?-sell-hab-ic-fv royco or foc Mathai,Is it Nakumatt that may be selling Royco or Mathaî?,,Q1
+kii_18,na,ti … na ti,Paûri ti n-dagitarî na ti naasi,Paûrû neg 9-doctor and neg nurse,Lit: Paul is not a doctor and not a nurse.,,Q1
+kii_19,na,ti … na ti,Maako a-ti-a-gûr-a aîcikirimu na a-ti-a-neenk-îr-a mî-aragina î-o,1.Mark 1sm-neg-pst-buy-fv ice cream and 1sm-neg-pst-give-fv 1-sister 9-it,Mark didn’t buy ice cream and didn’t give it to his sister.,,Q1
+kii_20,kana,kana,Paûru ni-wa a-rî-e cupcake kana cookie,Paul foc-? 1sm-eat-fv.sbjv cupcake or cookie,Paul can eat a cupcake or a cookie.,,Q1
+kii_21,na,ti … na ti,Susie ti n-dagitarî na ti mu-ugia,Susie neg 9-doctor and neg 1-runner,Susie is not a doctor and not a runner.,,Q1
+kii_22,juxtaposition,juxtaposition,Susie ni n-dagitaarî ni mû-arimû,Susie foc 9-doctor foc 1-teacher,"Susie is a doctor, she is a teacher.","needs “na”, without it, it sounds like you are correcting yourself",Q2
+kii_23,na,MOD + na,Susie i ndagitaarî na n’wa wîgue i mwarimû,Susie foc 9-doctor and MOD foc 1-teacher,Susie is a doctor and she might be a teacher.,this would mean that she could be both ( n’wa wîgue ~ possibility),Q2
+kii_24,kana,MOD + kana,Susie n’wa wîgue i ndagitaarî kana i mwarimû,Susie MOD foc 9-doctor or foc 1-teacher,Susie might be a doctor or a teacher.,,Q2
+kii_25,na,ti … na ti,Susie ti ndagitaarî na ti mwarimû,Susie neg 9-doctor and neg 1-teacher,Susie is not a doctor and not a teacher.,,Q2
+kii_26,juxtaposition,juxtaposition,Susie ni n-dagitaarî ti-mû-toong-û,1.Susie foc 9-doctor neg-1sm-rich-fv.stat?,"Susie is a doctor, she is not rich.",,Q2
+kii_27,juxtaposition,juxtaposition,Jen ni-a-gûr-ire n-deremende a-gûr-îr-ire mu-ntû a-ta-iyî,Jen foc-1sm-buy-pfv 9-sweets 1sm-buy-appl-pfv 1-person 1sm-neg-know,"Jen bought sweets, she bought it for a stranger.",would be ok as 2 sentences,Q2
+kii_28,juxtaposition,juxtaposition,"Paurû i ndagitarî, Njoni i ndagitarî","Paul foc doctor, John foc doctor","Paul is a doctor, John is a doctor.",,Q2
+kii_29,kana,kana,Paurû i ndagitarî kana Njoni i ndagitarî,Paul foc doctor or John foc doctor,Paul is a doctor or John is a doctor.,this could be correct depending on how we play the game,Q2
+kii_30,kana,kana,Ndagitaarî i Paûrû kana Njoni.,doctor foc Paul or John,The doctor is Paul or John.,,Q2
+kii_31,kana,kana,Paurû kana Njoni i ndagitarî,Paul or John foc doctor,Paul or John is a doctor.,,Q2
+kii_32,kana,MOD + kana,N’wa wîgue Njoni kana Paûrû i ndagîtaarî,MOD John or Paul foc doctor,Maybe John or Paul is a doctor.,MOD,Q2
+kii_33,kana,MOD + kana,Njoni n’wa wigue i ndagitarî kana Njoni n’wa wigue i mwandîki,John MOD foc doctor or John MOD foc writer,John might be a doctor or John might be a writer.,that’s good,Q2
+kii_34,kana,kana,Ntigire thimû ûbiciini kana nteere njîraani,1sg.sm-leave-pfv phone office-loc or 1sg.sm-leave-pfv path-loc,I left the phone in the office or lost it on the way,sounds like you are certain that you left it in the office,Q2
+kii_35,juxtaposition,juxtaposition,N’wa wigue ntigire thimû ûbiciini nteere njîraani,MOD 1sg.sm-leave-pfv phone office-loc 1sg.sm-leave-pfv path-loc,"Maybe I left the phone in the office, I lost it on the way.",,Q2
+kii_36,juxtaposition,juxtaposition,Njoni ni n-dagitarî mû-andîk-i,John cop 9-doctor 1-writer-noml,"John is a doctor, a writer.",,Q2
+kii_37,na,gati ka … na …,"Gatî ka ûndagitaarî na wandîki, îmwe ya-ci-o n’-yo Njoni arutaga","Between 12-of doctorship and writership, one of-10-them is-what John does","Between doctorship and writership, John does one of them.",this is fine,Q2
+kii_38,na,gati ka … na …,"gatî ka mbaci na ûbici, amwe a-gu n’oo n-tigire thimû.","between of bus and office,16-one 16-dem foc-pron (there) 1sg.sm-left phone","Between the bus and the office, it is one of the places that I left the phone.",the above is an assertion!,Q2
+kii_39,na,gati ka … na …,"gatî ka mbaci na ûbici, i kû ûtigire thimû.",between of bus and office where 2sg.sm-left phone,"Between the bus and the office, where did you leave the phone?",,Q2
+kii_40,juxtaposition,juxtaposition,"Paûrû ti n-dagitarî, ti naasi",Paûrû neg 9-doctor neg nurse,"Paul is not a doctor, not a nurse.","again, this sounds like correction without a connector",Q2
+kii_41,kana,kana,Paurû n-wa arîe cupcake kana Paurû n-wa arîe cookie,Paul MOD eat cupcake or Paul MOD eat cookie,Paul can eat a cupcake or Paul can eat a cookie.,"again, this sounds repetitive with the full clauses",Q2
+kii_42,na,gati ka … na …,"Gatî ka cupcake na cookie, Paûrû n’wa arîe kî-mwe gî-a-bi-o","Between of cupcake and cookie, Paul MOD eat 7-one 7-conn-8-pron","Between a cupcake and a cookie, Paul can eat one of them.",,Q2

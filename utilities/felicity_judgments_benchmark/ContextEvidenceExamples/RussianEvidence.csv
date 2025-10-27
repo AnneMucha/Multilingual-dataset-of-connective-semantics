@@ -1,0 +1,59 @@
+ref,context,premise,example,judgment,questionnaire,comment
+RUS_EVID_001,conj-nocontrast-sta,na,RUS_001,felicitous,Q1,
+RUS_EVID_002,conj-nocontrast-sta,na,RUS_002,felicitous,Q1,
+RUS_EVID_003,conj-nocontrast-epi,na,RUS_003,felicitous,Q1,Slightly modified target
+RUS_EVID_004,conj-contrast-sta-mod,na,RUS_004,felicitous,Q1,
+RUS_EVID_005,conj-contrast-epi,na,RUS_005,felicitous,Q1,
+RUS_EVID_006,conj-contrast-negp-sta,na,RUS_006,felicitous,Q1,
+RUS_EVID_007,conj-contrast-negp-epi,na,RUS_007,felicitous,Q1,no' would imply concessive meaning
+RUS_EVID_008,disj-spk-1,na,RUS_008,felicitous,Q1,
+RUS_EVID_009,disj-spk-2,na,RUS_009,felicitous,Q1,
+RUS_EVID_010,disj-nspk-epi,na,RUS_010,felicitous,Q1,
+RUS_EVID_011,disj-nspk-epi,na,RUS_011,felicitous,Q1,
+RUS_EVID_012,disj-nspk-sta-exc-mod,na,RUS_012,felicitous,Q1,
+RUS_EVID_013,disj-nspk-sta-inc-mod,na,RUS_013,felicitous,Q1,
+RUS_EVID_014,disj-nspk-epi-q-mod,na,RUS_014,felicitous,Q1,* libo
+RUS_EVID_015,disj-nspk-sta-inc-q,na,RUS_015,felicitous,Q1,
+RUS_EVID_016,neither-sta,na,RUS_016,felicitous,Q1,
+RUS_EVID_017,fc,na,RUS_017,felicitous,Q1,
+RUS_EVID_018,fc,na,RUS_018,felicitous,Q1,
+RUS_EVID_019,fc,na,RUS_019,felicitous,Q1,
+RUS_EVID_020,conj-nocontrast-sta,na,RUS_020,infelicitous,Q2,juxtaposition example
+RUS_EVID_021,conj-nocontrast-sta,na,RUS_021,infelicitous,Q2,
+RUS_EVID_022,disj-spk-3,na,RUS_001,infelicitous,Q2,
+RUS_EVID_023,disj-nspk-sta-exc-2,na,RUS_001,??,Q2,"awkward, but better than previous"
+RUS_EVID_024,disj-nspk-sta-inc-2,na,RUS_001,infelicitous,Q2,needs a modal verb
+RUS_EVID_025,neither-sta-2,na,RUS_001,infelicitous,Q2,
+RUS_EVID_026,conj-nocontrast-epi,na,RUS_022,*,Q2,
+RUS_EVID_027,conj-contrast-sta-mod,na,RUS_023,*,Q2,juxtaposition example
+RUS_EVID_028,conj-contrast-sta-mod,na,RUS_004,felicitous,Q2,
+RUS_EVID_029,conj-contrast-sta-mod,na,RUS_024,infelicitous,Q2,
+RUS_EVID_030,disj-spk-4-prime,na,RUS_004,infelicitous,Q2,felicitous with modal verb
+RUS_EVID_031,disj-nspk-sta-exc-3,na,RUS_004,infelicitous,Q2,
+RUS_EVID_032,disj-nspk-sta-inc-3,na,RUS_004,infelicitous,Q2,
+RUS_EVID_033,neither-sta-3,na,RUS_004,infelicitous,Q2,
+RUS_EVID_034,conj-nocontrast-sta,na,RUS_021,*,Q2,
+RUS_EVID_035,conj-contrast-sta-mod,na,RUS_024,infelicitous,Q2,grammatical but infelicitous
+RUS_EVID_036,disj-spk-2,na,RUS_025,*,Q2,
+RUS_EVID_037,disj-nspk-sta-exc-mod,na,RUS_026,*,Q2,
+RUS_EVID_038,disj-nspk-sta-inc-mod,na,RUS_027,*,Q2,
+RUS_EVID_039,neither-sta,na,RUS_028,*,Q2,
+RUS_EVID_040,disj-spk-2,na,RUS_029,*,Q2,juxtaposition example
+RUS_EVID_041,conj-nocontrast-sta-2,na,RUS_009,infelicitous,Q2,
+RUS_EVID_042,conj-contrast-sta-2,na,RUS_009,infelicitous,Q2,
+RUS_EVID_043,disj-nspk-sta-exc-4,na,RUS_009,felicitous,Q2,
+RUS_EVID_044,disj-nspk-sta-inc-4,na,RUS_009,infelicitous,Q2,
+RUS_EVID_045,disj-nspk-sta-inc-4,na,RUS_030,felicitous,Q2,
+RUS_EVID_046,neither-sta-4,na,RUS_009,infelicitous,Q2,
+RUS_EVID_047,disj-nspk-sta-exc,na,RUS_031,*,Q2,juxtaposition example
+RUS_EVID_048,conj-nocontrast-sta,na,RUS_012,infelicitous,Q2,
+RUS_EVID_049,conj-contrast-sta-mod,na,RUS_012,infelicitous,Q2,
+RUS_EVID_050,disj-spk-2,na,RUS_012,felicitous,Q2,
+RUS_EVID_051,neither-sta,na,RUS_012,infelicitous,Q2,
+RUS_EVID_052,disj-nspk-epi-q-mod,na,RUS_014,*,Q2,libo is infelicitous
+RUS_EVID_053,neither-sta,na,RUS_032,*,Q2,juxtaposition example
+RUS_EVID_054,conj-nocontrast-sta-3,na,RUS_016,infelicitous,Q2,
+RUS_EVID_055,conj-contrast-sta-3,na,RUS_016,infelicitous,Q2,
+RUS_EVID_056,disj-spk-5,na,RUS_016,infelicitous,Q2,
+RUS_EVID_057,disj-nspk-sta-exc-5,na,RUS_016,infelicitous,Q2,
+RUS_EVID_058,disj-nspk-sta-inc-5,na,RUS_016,infelicitous,Q2,
