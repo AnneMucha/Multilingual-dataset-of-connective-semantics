@@ -21,7 +21,8 @@ This repository stores data in MultiCoS: A Multilingual Dataset of Connective Se
 - `questionnaire`  
   - `connectives_questionnaire.csv`  
 - `utilities`  
-  - `generalization_checker.py`  
+  - `generalization_checker.py`
+  - `felicity_judgments_benchmark`
   - `merge.R`  
   - `merged_output_vertical.csv`  
   - `summarizer.py`
@@ -63,5 +64,5 @@ The repository contains several scripts for data manipulation and analysis.
   - Juxtaposition without any irrealis marking cannot express disjunction (Mauri, 2008);  
   - There is no lexicalization for XOR. See Sect. 5.1 of the associated paper for discussion.  
 - `utilities/summarizer.py`: creates a summary table (without the Negation column) for a language based on the questionnaire table, the example table, and the evidence table.  
-- `utilities/GPT5`: This folder contains the data files and the R script used to compare the felicity judgments with those of GPT5 (discussed in Sect. 5.3 of the associated paper)
+- `utilities/felicity_judgments_benchmark`: This folder contains the data files and the R script used to compare the felicity judgments with those of GPT5 (discussed in Sect. 5.3 of the associated paper)
 
