@@ -21,8 +21,8 @@ This repository stores data in MultiCoS: A Multilingual Dataset of Connective Se
 - `questionnaire`  
   - `connectives_questionnaire.csv`  
 - `utilities`  
-  - `generalization_checker.py`
   - `felicity_judgments_benchmark`
+  - `generalization_checker.py`
   - `merge.R`  
   - `merged_output_vertical.csv`  
   - `summarizer.py`
